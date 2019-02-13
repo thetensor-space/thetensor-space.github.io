@@ -24,9 +24,12 @@ here and at our GitHub website [thetensor-space.github.io](https://thetensor-spa
 Portions of `TheTensor.Space` were developed and supported by the following universities and research institutions...
  
  <img alt="Bucknell University" style="border-width:0" src="https://www.bucknell.edu/Documents/Communication/Branding/BULogo_Orange.png" align="top" vspace="10" width="30%"/>
+ 
  <img alt="The Colorado State University" style="border-width:0" src="{{site.baseurl}}/assets/images/CSU-logo-small.png" align="top" vspace="10"/>
+
  <img alt="The University of Auckland" style="border-width:0" src="https://cdn.auckland.ac.nz/assets/central/central-services/mediaandmarketing/uoa-logos-2015/uoa-logo-2015-reverse.png" width="50%"align="top" vspace="10"/>
-<img alt="Kent State University" style="border-width:0" src="_site/docs/images/kent-state.png" align="top" vspace="10" width="50%"/>
+
+<img alt="Kent State University" style="border-width:0" src="{{site.baseurl}}/assets/images/kent-state.png" align="top" vspace="10" width="50%"/>
 
 **[Bielefeld University](https://www.uni-bielefeld.de/)**<br>
 **[Hausdorff Institute For Mathematics](https://www.him.uni-bonn.de/)**
