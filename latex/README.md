@@ -34,11 +34,11 @@ pdflatex thisfile.tex
 convert -density 300 thisfile.pdf -resize 640x480 thatfile.png 
 ```
 This should create a PDF (which you don't need and can delete or add to `.gitignore`) and an `.png`, the above example for instance:
+
 ![Simple Tensor](simple-tensor.png)
 
 Trouble? Everything I know about it I found on [this very useful thread](https://tex.stackexchange.com/questions/11866/compile-a-latex-document-into-a-png-image-thats-as-short-as-possible/11880#11880)
 
 ---
 **TODO** This will make a pdf.  You could ignore it and just add the png, 
-and even that doesn't belong here as we want the png for webpages.  
-But I'll leave it here until I design a better system.
+and even that doesn't belong here as we want the png for webpages.  But I'll leave it here until I design a better system.
