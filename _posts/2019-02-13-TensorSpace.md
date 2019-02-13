@@ -4,7 +4,7 @@ title:  TensorSpace
 categories: [ Tools ]
 image: assets/images/tensor-mix.jpg
 tool: true
-featured: true
+featured: false
 ---
 
 Tensors mean different things to different people.  Tensor Spaces handle all the differences

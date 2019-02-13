@@ -1,32 +1,7 @@
-\documentclass{beamer}
-
-\usepackage{tikz}
-
-\begin{document}
-
-\begin{frame}
-
-Images and diagrams for tensor spaces.
-
-Creative Commons CC 4.0 by James B. Wilson (and others if they add their name).
-\end{frame}
-
-\begin{frame}
-\begin{tikzpicture}[scale=0.25]
-\pgfmathsetmacro{\cubex}{4}
-\pgfmathsetmacro{\cubey}{6}
-\pgfmathsetmacro{\cubez}{12}
-\draw[black,thick,fill=yellow] (0,0,0) -- ++(-\cubex,0,0) -- ++(0,-\cubey,0) -- ++(\cubex,0,0) -- cycle;
-\draw[black,thick,fill=green] (0,0,0) -- ++(0,0,-\cubez) -- ++(0,-\cubey,0) -- ++(0,0,\cubez) -- cycle;
-\draw[black,thick,fill=blue] (0,0,0) -- ++(-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(\cubex,0,0) -- cycle;
-\draw[black, thick,fill=red] (0,-\cubey,0) -- ++(-\cubex,0,0) -- ++(0,0,\cubex) -- ++(\cubex,0,0) -- cycle;
-\draw[black, thick,fill=red] (-\cubex,0,0) -- ++(0,0,-\cubez) -- ++(0,\cubez,0) -- ++(0,0,\cubez) -- cycle;
-\draw[black, thick,fill=red] (0,0,-\cubez) -- ++(\cubey,0,0) -- ++(0,-\cubey,0) -- ++(-\cubey,0,0) -- cycle;
-\end{tikzpicture}
-\end{frame}
 
 
-\begin{frame}
+
+\begin{frame}[plain]{CC-BY-2016 James B. Wilson}
 \begin{tikzpicture}[scale=0.75]
 \pgfmathsetmacro{\xx}{2}
 \pgfmathsetmacro{\yy}{2}
@@ -149,5 +124,3 @@ Creative Commons CC 4.0 by James B. Wilson (and others if they add their name).
 \end{tikzpicture}}; % (answer)
 \end{tikzpicture}
 \end{frame}
-
-\end{document}

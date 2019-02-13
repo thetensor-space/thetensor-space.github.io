@@ -1,0 +1,61 @@
+%
+% To make graphic on linux....(require ImageMagic installed)
+%
+% pdflatex thisfile.tex
+% convert -density 300 thisfile.pdf -resize 640x480 thatfile.png 
+%
+% On Windows 10.... copy ImageMagic's convert.exe to your path 
+% or rename it imgconvert.exe
+% Get recent version of GhostScript
+%
+% pdflatex thisfile.tex
+% convert -density 300 thisfile.pdf -resize 640x480 thatfile.png 
+%
+% Trouble? See this thread
+%
+% https://tex.stackexchange.com/questions/11866/compile-a-latex-document-into-a-png-image-thats-as-short-as-possible/11880#11880
+%
+\documentclass{standalone}
+\usepackage{tikz}
+\usetikzlibrary{knots}
+
+\author{CC-BY-2016 James B. Wilson}
+\date{2016}
+\date{today}
+\begin{document}
+\begin{tikzpicture}[scale=0.5]
+\node at (0,0) {
+	\begin{tikzpicture}[scale=0.25]
+		\foreach \brk in {0,1,2} {
+		\begin{scope}[rotate=\brk * 240]
+			\node[knot crossing, transform shape, inner sep=3pt] (k\brk) at (0,-1) {};
+		\end{scope}
+		}
+		\foreach \brk in {0,1,2} {
+			\pgfmathparse{int(Mod(\brk - 1,3))}
+			\edef\brl{\pgfmathresult}
+			\draw[thick,blue] (k\brk) .. controls (k\brk.4 north east) and (k\brl.4 north west) .. (k\brl.center);
+			\draw[thick,blue] (k\brk.center) .. controls (k\brk.16 south east) and (k\brl.16 south west) .. (k\brl);
+		}
+	\end{tikzpicture}
+};
+
+\node at (2.5,0.5) {$\not\cong$};
+
+\node at (5,0) {
+	\begin{tikzpicture}[scale=0.25]
+		\foreach \brk in {0,1,2} {
+		\begin{scope}[rotate=\brk * 120]
+			\node[knot crossing, transform shape, inner sep=3pt] (k\brk) at (0,-1) {};
+		\end{scope}
+		}
+		\foreach \brk in {0,1,2} {
+			\pgfmathparse{int(Mod(\brk - 1,3))}
+			\edef\brl{\pgfmathresult}
+			\draw[thick,red] (k\brk) .. controls (k\brk.4 north west) and (k\brl.4 north east) .. (k\brl.center);
+			\draw[thick,red] (k\brk.center) .. controls (k\brk.16 south west) and (k\brl.16 south east) .. (k\brl);
+		}
+	\end{tikzpicture}
+};
+\end{tikzpicture}
+\end{document}

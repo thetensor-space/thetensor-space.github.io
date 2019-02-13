@@ -156,9 +156,14 @@ section.recent-posts {
 }
 @media (min-width:576px) {
 	.card-columns.listfeaturedtag {
-		-webkit-column-count:2;
+        /*
+		-webkit-column-count:1;  
+		-moz-column-count:1;
+		column-count:1;
+        */
+		-webkit-column-count:2;  
 		-moz-column-count:2;
-		column-count:2;
+        column-count:2;
 	}
 }
 .card-columns .card {
@@ -175,10 +180,13 @@ section.recent-posts {
 	margin-bottom:15px;
 }
 .listfeaturedtag .thumbnail {
-	background-size:cover;
+    /*background-size:cover;*/
+    background-size:cover;
+    background-repeat: no-repeat;
 	height:100%;
 	display:block;
-	background-position:38% 22% !important;
+    /*background-position:38% 22% !important;*/
+    background-position:38% 22% !important;
 	background-origin:border-box!important;
 	border-top-left-radius:2px;
 }
@@ -328,8 +336,10 @@ span.post-name a,span.post-read-more a:hover {
 	margin-bottom:1rem;
 }
 .intro {
-    background-image:url(../images/tensor-mix.jpg);
-    background-size:cover;
+    background-image:url(../images/tensor-logo.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
     padding: 9rem 0;
     margin-top:-87px;
     margin-bottom:3.5rem;

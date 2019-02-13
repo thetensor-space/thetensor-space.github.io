@@ -5,8 +5,8 @@
     <description>Tools to Tame the Tensor</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Feb 2019 20:28:12 +1300</pubDate>
-    <lastBuildDate>Wed, 13 Feb 2019 20:28:12 +1300</lastBuildDate>
+    <pubDate>Thu, 14 Feb 2019 11:43:44 +1300</pubDate>
+    <lastBuildDate>Thu, 14 Feb 2019 11:43:44 +1300</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -131,95 +131,47 @@ TensorSpace and create a pull request.&lt;/p&gt;
     
       <item>
         <title>TACA 2019</title>
-        <description>&lt;div class=&quot;container&quot;&gt;
+        <description>&lt;h2 id=&quot;tensors-algebra-computation-applications&quot;&gt;Tensors: Algebra-Computation-Applications&lt;/h2&gt;
 
-&lt;header&gt;
-&lt;h2&gt;&lt;span&gt;Tensors: Algebra, Computation, and Applciations (TACA)&lt;/span&gt;&lt;/h2&gt;
-&lt;/header&gt;
- 
-&lt;nav&gt;
-  &lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;  
-  &lt;div class=&quot;dropdown&quot;&gt;
-    &lt;button class=&quot;dropbtn&quot;&gt;Registration&lt;/button&gt;
-    &lt;div class=&quot;dropdown-content&quot;&gt;
-		&lt;b&gt;Opens Fall 2018&lt;/b&gt;
-		&lt;a href=&quot;mailto:James.Wilson@ColoState.Edu&quot;&gt;Contact Organizers&lt;/a&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;dropdown&quot;&gt;
-    &lt;button class=&quot;dropbtn&quot;&gt;Sponsors&lt;/button&gt;
-    &lt;div class=&quot;dropdown-content&quot;&gt;
-		&lt;p&gt;Colorado State U. Dept. of Mathematics&lt;/p&gt;
-		&lt;p&gt;U. Colorado Dept. of Computer Science&amp;lt;/b&amp;gt;
-        &lt;p&gt;NSA Grants&lt;/p&gt;
-    &amp;lt;/div&amp;gt;
-  &amp;lt;/div&amp;gt;
-&amp;lt;/nav&amp;gt;
+&lt;p&gt;International conference and Short courses on tensors in mathematics, computer science, physics,
+and data sciences. June 3 throught June 14, 2019.&lt;/p&gt;
 
-&lt;article&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;p&gt; 
-We are pleased to announce a workshop on 
-&lt;center&gt;
-&lt;p&gt;&lt;b&gt;Tensor Equivalence &amp;amp; Isomorphism Problems&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;June 3 throught June 14, 2019.&lt;/p&gt;
-&lt;/center&gt;
-to be hosted at the University of Colorado and the Colorado State University
-Mountain Campus &lt;i&gt;Pingree Park&lt;/i&gt;.
-&lt;p&gt;
-Stay tuned for more detials in Fall 2019.
-&lt;/p&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;h3&gt;Short Courses&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:James.Wilson@ColoState.Edu&quot;&gt;Contact Organizers&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;sponsors&quot;&gt;Sponsors&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* Colorado State University   * U. Colorado   * NSA Grants
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;short-courses&quot;&gt;Short Courses&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-Computing with Matrix Groups
-&lt;/li&gt;
-&lt;li&gt;
-Tensors Problems and Applications
-&lt;/li&gt;
-&lt;li&gt;
-Isomorphism Problems and Applications
-&lt;/li&gt;
-&lt;li&gt;
-Code Equivalence
-&lt;/li&gt;
-&lt;li&gt;
-Adjoint-Tensor Methods
-&lt;/li&gt;
+  &lt;li&gt;Computing with Matrix Groups&lt;/li&gt;
+  &lt;li&gt;Tensors Problems and Applications&lt;/li&gt;
+  &lt;li&gt;Isomorphism Problems and Applications&lt;/li&gt;
+  &lt;li&gt;Code Equivalence&lt;/li&gt;
+  &lt;li&gt;Adjoint-Tensor Methods&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;h3&gt;Organizers&lt;/h3&gt;
+
+&lt;h2 id=&quot;lodging&quot;&gt;Lodging&lt;/h2&gt;
+
+&lt;h3 id=&quot;week-1-boulder&quot;&gt;Week 1: Boulder&lt;/h3&gt;
+
+&lt;h3 id=&quot;week-2-pingree-park-mountain-campus&quot;&gt;Week 2: Pingree Park Mountain Campus&lt;/h3&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;organizers&quot;&gt;Organizers&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-Peter A. Brooksbank, Bucknell, Dept. Mathematics.
-&lt;/li&gt;
-&lt;li&gt;
-Joshua Grochow, U. Colorado, Dept. Computer Science.
-&lt;/li&gt;
-&lt;li&gt;
-Alexander Hulpke, Colorado State U. Dept. Mathematics.
-&lt;/li&gt;
-&lt;li&gt;
-James B. Wilson, Colorado State U. Dept. Mathematics.
-&amp;lt;/il&amp;gt;
-&amp;lt;/ul&amp;gt;
-&amp;lt;/div&amp;gt;
-&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/article&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/nav&gt;&lt;/div&gt;
+  &lt;li&gt;Peter A. Brooksbank, Bucknell, Dept. Mathematics.&lt;/li&gt;
+  &lt;li&gt;Joshua Grochow, U. Colorado, Dept. Computer Science.&lt;/li&gt;
+  &lt;li&gt;Alexander Hulpke, Colorado State U. Dept. Mathematics.&lt;/li&gt;
+  &lt;li&gt;James B. Wilson, Colorado State U. Dept. Mathematics.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Feb 2019 00:00:00 +1300</pubDate>
-        <link>http://localhost:4000/jekyll/tutorial/2019/02/13/TACA-2019.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/tutorial/2019/02/13/TACA-2019.html</guid>
+        <link>http://localhost:4000/workshops/2019/02/13/TACA-2019.html</link>
+        <guid isPermaLink="true">http://localhost:4000/workshops/2019/02/13/TACA-2019.html</guid>
         
         
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
+        <category>Workshops</category>
         
       </item>
     

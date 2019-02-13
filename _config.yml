@@ -6,7 +6,7 @@ meta_description: "Tools to Tame the Tensor"
 logo: 'assets/images/tensor.png'
 favicon: 'assets/images/tensor.png'
 paginate: 12
-baseurl: 'https://thetensor-space.github.io'
+baseurl: ''
 email: 'James.Wilson@ColoState.Edu'
 google_analytics: ''
 disqus: ''
