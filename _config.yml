@@ -3,8 +3,8 @@ name: TheTensor.Space
 title: TheTensor.Space
 description: Tools to Tame the Tensor
 meta_description: "Tools to Tame the Tensor"
-logo: 'assets/images/simple-tensor.png'
-favicon: 'assets/images/simple-tensor.png'
+logo: 'assets/images/tensor-logo.png'
+favicon: 'assets/images/small-tensor.PNG'
 paginate: 12
 baseurl: ''
 email: 'James.Wilson@ColoState.Edu'

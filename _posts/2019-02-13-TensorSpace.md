@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  TensorSpace
+title:  Tame Genus
 categories: [ Tools ]
 image: assets/images/tensor-mix.jpg
 tool: true
