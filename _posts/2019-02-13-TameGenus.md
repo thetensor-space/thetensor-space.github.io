@@ -2,7 +2,7 @@
 layout: post
 title:  TameGenus
 categories: [ Tools ]
-image: assets/images/densor.jpg
+image: assets/images/iso-knots.png
 tool: true
 featured-tool : true
 ---
