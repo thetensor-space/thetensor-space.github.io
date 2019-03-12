@@ -537,7 +537,7 @@ ul.tags li {
 	font-size:0.9rem;
 }
 ul.tags li a {
-    background: #fff100;
+    background: #969696;
     color: #333;
     padding: 3px 10px;
     border-radius: 3px;
@@ -784,7 +784,7 @@ img {max-width:100%;height: auto;}
 
 }
 .bottompagination span.navigation a {
-	background: #fff100;
+	background: #3700ff;
     color: #333;
     padding: 5px;
     border-radius: 3px;

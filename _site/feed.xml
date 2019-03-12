@@ -5,32 +5,42 @@
     <description>Tools to Tame the Tensor</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Feb 2019 20:19:53 +1300</pubDate>
-    <lastBuildDate>Thu, 14 Feb 2019 20:19:53 +1300</lastBuildDate>
+    <pubDate>Tue, 12 Mar 2019 13:47:24 +1300</pubDate>
+    <lastBuildDate>Tue, 12 Mar 2019 13:47:24 +1300</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
-        <title>Tame Genus</title>
+        <title>TensorSpace</title>
         <description>&lt;p&gt;Tensors mean different things to different people.  Tensor Spaces handle all the differences
 leaving a uniform abstraction suitable for theorems and computations.  So now…&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;A Tensor is simplly an element of a tensor space.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;PackageContents&quot;&gt;Package Contents&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;Installation&quot;&gt;Installing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;Updates&quot;&gt;Updates&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;This software was created by Joshua Maglione and James B. Wilson, Copyright 
+2016–2019. Distributed under MIT License. If you want a copy of the software 
+under a different license, please contact the authors.&lt;/p&gt;
 
-&lt;p&gt;The Experimental Multilinear Algebra Group’s distribution of software for 
+&lt;p&gt;TheTensor.Space’s distribution of software for 
 integration in the computer algebra system MAGMA, V2.22 and beyond.&lt;/p&gt;
 
-&lt;p&gt;This software was created by Joshua Maglione and James B. Wilson, Copyright 
-2016–2019. Distributed under MIT License.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/thetensor-space/TensorSpace&quot;&gt;Magma Package Contents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;If you want a copy of the software under a different license, please contact the
-authors.&lt;/p&gt;
+&lt;p&gt;TheTensor.Space’s distribution of software for 
+integration in the computer algebra system SAGE (under development, contribute!).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/thetensor-space/SageTensorSpace&quot;&gt;Sage Package Contents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;TheTensor.Space’s distribution of software for 
+integration in the computer algebra system GAP system (under development, contribute!).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;GAP Package Contents&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;acknowledgement&quot;&gt;Acknowledgement&lt;/h2&gt;
 
@@ -39,73 +49,6 @@ partially supported by a National Science Foundation grant DMS-1620454 to
 Wilson.  We also acknowledge U. Auckland, U. Bielefeld, Bucknell U., Hausdorff 
 Research Institute for Mathematics, and Kent State U. where research was 
 undertook and support provided for this package.&lt;/p&gt;
-
-&lt;h2 id=&quot;package-contents&quot;&gt;Package Contents&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Spec file is &lt;code class=&quot;highlighter-rouge&quot;&gt;./TensorSpace.spec&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Source Code is contained in the folder &lt;code class=&quot;highlighter-rouge&quot;&gt;src&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Examples are included in the folder &lt;code class=&quot;highlighter-rouge&quot;&gt;examples&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Documentation is included as &lt;code class=&quot;highlighter-rouge&quot;&gt;TensorSpace.pdf&lt;/code&gt; in &lt;code class=&quot;highlighter-rouge&quot;&gt;doc&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Example files are demonstrated in &lt;code class=&quot;highlighter-rouge&quot;&gt;TensorSpace.pdf&lt;/code&gt; and their file names 
-coincide with their example title in the text.&lt;/li&gt;
-  &lt;li&gt;Performance and debugging tests are contained in the folder &lt;code class=&quot;highlighter-rouge&quot;&gt;tests&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
-
-&lt;h4 id=&quot;linux-and-mac-users&quot;&gt;Linux and Mac users&lt;/h4&gt;
-
-&lt;p&gt;Download Latest Release zip file from &lt;a href=&quot;https://github.com/algeboy/TensorSpace/releases&quot;&gt;here&lt;/a&gt;.
-Unzip into a folder into which you would like your Magma packages installed, e.g.:&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ mkdir my_magma_packages
-$ cd my_magma_packages
-$ gzip TensorSpace-2.2.zip
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Then install the package by running the following shell command:&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sh install.sh
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;This will may install further packages necessary in the same directory.&lt;br /&gt;
-It will also modify your Magma start up file so that these packages 
-are available at start up of Magma.  To avoid this, use manual installation
-instructions below.&lt;/p&gt;
-
-&lt;h4 id=&quot;manually&quot;&gt;Manually&lt;/h4&gt;
-
-&lt;p&gt;Currently, we do not have an install file compatible with Windows. Instead, 
-attach the spec file during a Magma run and the intrinsics will be available
-to use.  To attach the spec file run the following, where &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;location&amp;gt;&lt;/code&gt; is the 
-directory containing the TensorSpace directory,&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; AttachSpec(&quot;&amp;lt;location&amp;gt;/TensorSpace/TensorSpace.spec&quot;);
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;updates&quot;&gt;Updates&lt;/h2&gt;
-
-&lt;h5 id=&quot;linux-and-mac-users-1&quot;&gt;Linux and Mac users&lt;/h5&gt;
-
-&lt;p&gt;To update the package and all its dependencies, run the following shell command:&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sh update.sh
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;manually-1&quot;&gt;Manually&lt;/h4&gt;
-
-&lt;p&gt;Latest versions can be downloaded on GitHub at:
-&lt;a href=&quot;https://github.com/algeboy/TensorSpace&quot;&gt;https://github.com/algeboy/TensorSpace&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;uninstalling&quot;&gt;Uninstalling&lt;/h2&gt;
-
-&lt;p&gt;This package can be removed entirely by deleting the folder into which it was downloaded and removing the 
-following lines from you &lt;code class=&quot;highlighter-rouge&quot;&gt;/.magmarc&lt;/code&gt; file.&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;AttachSpec(&quot;&amp;lt;location&amp;gt;/TensorSpace/TensorSpace.spec&quot;);
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;feedback-bugs-and-contributions&quot;&gt;Feedback, Bugs, and Contributions&lt;/h2&gt;
-
-&lt;p&gt;We welcome general feedback about the package and challenging examples. To 
-report bugs, please create an “Issue” on TensorSpace repository site on GitHub. 
-Contributions are always welcome. To contribute, please fork a copy of 
-TensorSpace and create a pull request.&lt;/p&gt;
-
 </description>
         <pubDate>Wed, 13 Feb 2019 00:00:00 +1300</pubDate>
         <link>http://localhost:4000/tools/2019/02/13/TensorSpace.html</link>
@@ -131,31 +74,96 @@ TensorSpace and create a pull request.&lt;/p&gt;
     
       <item>
         <title>TACA 2019</title>
-        <description>&lt;h2 id=&quot;tensors-algebra-computation-applications&quot;&gt;Tensors: Algebra-Computation-Applications&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;tensors-algebra-computation-applications-taca&quot;&gt;Tensors: Algebra-Computation-Applications (TACA)&lt;/h2&gt;
 
 &lt;p&gt;International conference and Short courses on tensors in mathematics, computer science, physics,
 and data sciences. June 3 throught June 14, 2019.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Week 1:&lt;/strong&gt; U. Colorado Boulder,  Short Courses.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Week 2:&lt;/strong&gt; Colorado State U. Rocky Mountain Campus, Conference.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;mailto:James.Wilson@ColoState.Edu&quot;&gt;Contact Organizers&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;h2 id=&quot;sponsors&quot;&gt;Sponsors&lt;/h2&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* Colorado State University   * U. Colorado   * NSA Grants
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#ShortCourses&quot;&gt;Short Courses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#Excursions&quot;&gt;Excursions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#Lodging&quot;&gt;Lodging&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#Travel&quot;&gt;Travel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#Organizers&quot;&gt;Organizers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#Sponsors&quot;&gt;Sponsors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;registration&quot;&gt;Registration&lt;/h3&gt;
+
+&lt;p&gt;Follow this link to sign up.  &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfx4bngQZWUfX74Nb_pAv0GZUcVJ0JOYp9Imngb
+Mz38P5ToWg/viewform?usp=sf_link&quot;&gt;Pre-register here&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
 &lt;h2 id=&quot;short-courses&quot;&gt;Short Courses&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;Computing with Matrix Groups&lt;/li&gt;
-  &lt;li&gt;Tensors Problems and Applications&lt;/li&gt;
-  &lt;li&gt;Isomorphism Problems and Applications&lt;/li&gt;
-  &lt;li&gt;Code Equivalence&lt;/li&gt;
-  &lt;li&gt;Adjoint-Tensor Methods&lt;/li&gt;
+  &lt;li&gt;Tensors in physics &amp;amp; quantum mechanics&lt;/li&gt;
+  &lt;li&gt;Tensors in data science&lt;/li&gt;
+  &lt;li&gt;Tensor in algebra&lt;/li&gt;
+  &lt;li&gt;Tensors in computer science&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;excursions&quot;&gt;Excursions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Saturday June 8, 2019&lt;/strong&gt;  For participants of both sides of the program we will be planning some informal excursions you can participate in.  All the activities below are at your own risk and responsiblity.  We are offering only the timeline details.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Hike one of Colorado’s 14ner&lt;/strong&gt; Weather permitting we plan to hike one of Colorado’s “14ners” (a mountain peak above 14,000 feet above sea level).  Of the more than 50 such peaks in the region we will choose one that is appropriate for beginners but still we recommend you participated only if your fit for the hike.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Rocky Mountain National Park&lt;/strong&gt; A historic park for all the right reasons.  Arrange trips here in small groups.  We can suggest good trails.  If staying overnight consider lodging in Estes Park.   The YMCA has many options located next to the park.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;lodging&quot;&gt;Lodging&lt;/h2&gt;
 
-&lt;h3 id=&quot;week-1-boulder&quot;&gt;Week 1: Boulder&lt;/h3&gt;
+&lt;p&gt;Week 1 – Lodging options in Boulder.&lt;/p&gt;
 
-&lt;h3 id=&quot;week-2-pingree-park-mountain-campus&quot;&gt;Week 2: Pingree Park Mountain Campus&lt;/h3&gt;
+&lt;p&gt;Week 2 – CSU’s Mountain Campus provides all lodging and food.  It is a secluded campus without distractions.  Registration to week 2 covers transportation to and from the campus, room, and board.&lt;/p&gt;
+
+&lt;h2 id=&quot;travel&quot;&gt;Travel&lt;/h2&gt;
+
+&lt;h4 id=&quot;for-out-of-town-guests&quot;&gt;For out of town guests.&lt;/h4&gt;
+&lt;p&gt;Most major airlines fly in/out of Denver Internation Airport are best.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Arival&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Use bus shuttle service ider GreenRide (now Groome) to either Boulder (Week 1) or Fort Collins (Week 2).  Allow 1.5 hours.&lt;/li&gt;
+      &lt;li&gt;Alternative option take train from DIA to downtown Denver, follow by public transport to Boulder/Fort Collins.  Allow 2 hours.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Travel Between Boulder-Fort Collins&lt;/strong&gt; We plan to have a shuttle bus from Boulder to Fort Collins, continuing to the Mountain Campus on Sunday June 9, 2019.  Please RSVP when registering.   We plan to stop in Fort Collins for lunch with enough time to see parts of the town.  Schedule to be announced closer to dates.
+    * &lt;strong&gt;Return&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Use bus shuttle service ider GreenRide (now Groome) to either Boulder (Week 1) or Fort Collins (Week 2).  Allow 1.5 hours.&lt;/li&gt;
+      &lt;li&gt;Alternative option take train from DIA to downtown Denver, follow by public transport to Boulder/Fort Collins.  Allow 2 hours.
+        &lt;h4 id=&quot;for-in-town-guests&quot;&gt;For in town guests.&lt;/h4&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you are in Fort Collins we invite we plan to take groups in cars or a shuttle van.  Please contact James Wilson if you would like to be incluced.&lt;/p&gt;
+
+&lt;p&gt;For travel from Boulder to CSU’s Mountain Campus we will have a shuttle bus for participants leaving on Sunday.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;sponsors&quot;&gt;Sponsors&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bucknell University&lt;/li&gt;
+  &lt;li&gt;Colorado State University&lt;/li&gt;
+  &lt;li&gt;U. Colorado&lt;/li&gt;
+  &lt;li&gt;NSA Grants&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;hr /&gt;
 &lt;h3 id=&quot;organizers&quot;&gt;Organizers&lt;/h3&gt;
@@ -165,6 +173,8 @@ and data sciences. June 3 throught June 14, 2019.&lt;/p&gt;
   &lt;li&gt;Alexander Hulpke, Colorado State U. Dept. Mathematics.&lt;/li&gt;
   &lt;li&gt;James B. Wilson, Colorado State U. Dept. Mathematics.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:James.Wilson@ColoState.Edu&quot;&gt;Contact Organizers&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Feb 2019 00:00:00 +1300</pubDate>
         <link>http://localhost:4000/workshops/2019/02/13/TACA-2019.html</link>

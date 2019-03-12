@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="icon" href="assets/images/tensor-logo.png">    
-<title>Tame Genus | TheTensor.Space</title>
+<title>TensorSpace | TheTensor.Space</title>
     
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" 
@@ -145,12 +145,12 @@
                 <!-- End Categories -->
                 
                 <!-- Post Title -->
-				<h1 class="posttitle">Tame Genus</h1> 
+				<h1 class="posttitle">TensorSpace</h1> 
                 
 			</div>
 
 			<!-- Post Featured Image -->
-			<img class="featured-image img-fluid" src="/assets/images/tensor-mix.jpg" alt="Tame Genus" align="left">
+			<img class="featured-image img-fluid" src="/assets/images/tensor-mix.jpg" alt="TensorSpace" align="left">
 			<!-- End Featured Image -->
 
 			<!-- Post Content -->
@@ -161,20 +161,30 @@ leaving a uniform abstraction suitable for theorems and computations.  So now…
   <p>A Tensor is simplly an element of a tensor space.</p>
 </blockquote>
 
-<ul>
-  <li><a href="PackageContents">Package Contents</a></li>
-  <li><a href="Installation">Installing</a></li>
-  <li><a href="Updates">Updates</a></li>
-</ul>
+<p>This software was created by Joshua Maglione and James B. Wilson, Copyright 
+2016–2019. Distributed under MIT License. If you want a copy of the software 
+under a different license, please contact the authors.</p>
 
-<p>The Experimental Multilinear Algebra Group’s distribution of software for 
+<p>TheTensor.Space’s distribution of software for 
 integration in the computer algebra system MAGMA, V2.22 and beyond.</p>
 
-<p>This software was created by Joshua Maglione and James B. Wilson, Copyright 
-2016–2019. Distributed under MIT License.</p>
+<ul>
+  <li><a href="https://github.com/thetensor-space/TensorSpace">Magma Package Contents</a></li>
+</ul>
 
-<p>If you want a copy of the software under a different license, please contact the
-authors.</p>
+<p>TheTensor.Space’s distribution of software for 
+integration in the computer algebra system SAGE (under development, contribute!).</p>
+
+<ul>
+  <li><a href="https://github.com/thetensor-space/SageTensorSpace">Sage Package Contents</a></li>
+</ul>
+
+<p>TheTensor.Space’s distribution of software for 
+integration in the computer algebra system GAP system (under development, contribute!).</p>
+
+<ul>
+  <li>GAP Package Contents</li>
+</ul>
 
 <h2 id="acknowledgement">Acknowledgement</h2>
 
@@ -183,73 +193,6 @@ partially supported by a National Science Foundation grant DMS-1620454 to
 Wilson.  We also acknowledge U. Auckland, U. Bielefeld, Bucknell U., Hausdorff 
 Research Institute for Mathematics, and Kent State U. where research was 
 undertook and support provided for this package.</p>
-
-<h2 id="package-contents">Package Contents</h2>
-
-<ol>
-  <li>Spec file is <code class="highlighter-rouge">./TensorSpace.spec</code></li>
-  <li>Source Code is contained in the folder <code class="highlighter-rouge">src</code></li>
-  <li>Examples are included in the folder <code class="highlighter-rouge">examples</code></li>
-  <li>Documentation is included as <code class="highlighter-rouge">TensorSpace.pdf</code> in <code class="highlighter-rouge">doc</code></li>
-  <li>Example files are demonstrated in <code class="highlighter-rouge">TensorSpace.pdf</code> and their file names 
-coincide with their example title in the text.</li>
-  <li>Performance and debugging tests are contained in the folder <code class="highlighter-rouge">tests</code></li>
-</ol>
-
-<h2 id="installation">Installation</h2>
-
-<h4 id="linux-and-mac-users">Linux and Mac users</h4>
-
-<p>Download Latest Release zip file from <a href="https://github.com/algeboy/TensorSpace/releases">here</a>.
-Unzip into a folder into which you would like your Magma packages installed, e.g.:</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ mkdir my_magma_packages
-$ cd my_magma_packages
-$ gzip TensorSpace-2.2.zip
-</code></pre></div></div>
-<p>Then install the package by running the following shell command:</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sh install.sh
-</code></pre></div></div>
-<p>This will may install further packages necessary in the same directory.<br />
-It will also modify your Magma start up file so that these packages 
-are available at start up of Magma.  To avoid this, use manual installation
-instructions below.</p>
-
-<h4 id="manually">Manually</h4>
-
-<p>Currently, we do not have an install file compatible with Windows. Instead, 
-attach the spec file during a Magma run and the intrinsics will be available
-to use.  To attach the spec file run the following, where <code class="highlighter-rouge">&lt;location&gt;</code> is the 
-directory containing the TensorSpace directory,</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; AttachSpec("&lt;location&gt;/TensorSpace/TensorSpace.spec");
-</code></pre></div></div>
-
-<h2 id="updates">Updates</h2>
-
-<h5 id="linux-and-mac-users-1">Linux and Mac users</h5>
-
-<p>To update the package and all its dependencies, run the following shell command:</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sh update.sh
-</code></pre></div></div>
-
-<h4 id="manually-1">Manually</h4>
-
-<p>Latest versions can be downloaded on GitHub at:
-<a href="https://github.com/algeboy/TensorSpace">https://github.com/algeboy/TensorSpace</a></p>
-
-<h2 id="uninstalling">Uninstalling</h2>
-
-<p>This package can be removed entirely by deleting the folder into which it was downloaded and removing the 
-following lines from you <code class="highlighter-rouge">/.magmarc</code> file.</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>AttachSpec("&lt;location&gt;/TensorSpace/TensorSpace.spec");
-</code></pre></div></div>
-
-<h2 id="feedback-bugs-and-contributions">Feedback, Bugs, and Contributions</h2>
-
-<p>We welcome general feedback about the package and challenging examples. To 
-report bugs, please create an “Issue” on TensorSpace repository site on GitHub. 
-Contributions are always welcome. To contribute, please fork a copy of 
-TensorSpace and create a pull request.</p>
-
 
                 <div class="clearfix"></div>
 			</div>
