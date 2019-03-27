@@ -5,8 +5,8 @@
     <description>Tools to Tame the Tensor</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Mar 2019 13:47:24 +1300</pubDate>
-    <lastBuildDate>Tue, 12 Mar 2019 13:47:24 +1300</lastBuildDate>
+    <pubDate>Wed, 27 Mar 2019 16:30:16 -0600</pubDate>
+    <lastBuildDate>Wed, 27 Mar 2019 16:30:16 -0600</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -50,7 +50,7 @@ Wilson.  We also acknowledge U. Auckland, U. Bielefeld, Bucknell U., Hausdorff
 Research Institute for Mathematics, and Kent State U. where research was 
 undertook and support provided for this package.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 13 Feb 2019 00:00:00 +1300</pubDate>
+        <pubDate>Wed, 13 Feb 2019 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/tools/2019/02/13/TensorSpace.html</link>
         <guid isPermaLink="true">http://localhost:4000/tools/2019/02/13/TensorSpace.html</guid>
         
@@ -63,7 +63,7 @@ undertook and support provided for this package.&lt;/p&gt;
         <title>TameGenus</title>
         <description>&lt;p&gt;Compare pairs of matrices and find their canonical basis in record time.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 13 Feb 2019 00:00:00 +1300</pubDate>
+        <pubDate>Wed, 13 Feb 2019 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/tools/2019/02/13/TameGenus.html</link>
         <guid isPermaLink="true">http://localhost:4000/tools/2019/02/13/TameGenus.html</guid>
         
@@ -103,6 +103,21 @@ and data sciences. June 3 throught June 14, 2019.&lt;/p&gt;
 &lt;p&gt;Follow this link to sign up.  &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfx4bngQZWUfX74Nb_pAv0GZUcVJ0JOYp9Imngb
 Mz38P5ToWg/viewform?usp=sf_link&quot;&gt;Pre-register here&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;Rates.  Registration is handled in two parts.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Week 1: CU Boulder Workshop.  &lt;strong&gt;Registration: $50&lt;/strong&gt;.  Room and board are the participants own responsibility.&lt;/li&gt;
+  &lt;li&gt;Week 2: CSU Mountain Campus (Pingree Park) Conference.&lt;strong&gt;Registration&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;$650 Regular (includes room, meals, and transportation to/from venue)&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;$400 Student (include room,  meals, and transportation to/from venue)&lt;/strong&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Registration will open a few week prior and also be available onsight.&lt;/p&gt;
+
+&lt;p&gt;Support may be available, please indicated need when pre-registering.  The Mountain Campus is secluded and does not offer alternative lodging. Participants in&lt;/p&gt;
+
 &lt;hr /&gt;
 &lt;h2 id=&quot;short-courses&quot;&gt;Short Courses&lt;/h2&gt;
 &lt;ul&gt;
@@ -140,16 +155,18 @@ Mz38P5ToWg/viewform?usp=sf_link&quot;&gt;Pre-register here&lt;/a&gt;&lt;/p&gt;
       &lt;li&gt;Alternative option take train from DIA to downtown Denver, follow by public transport to Boulder/Fort Collins.  Allow 2 hours.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Travel Between Boulder-Fort Collins&lt;/strong&gt; We plan to have a shuttle bus from Boulder to Fort Collins, continuing to the Mountain Campus on Sunday June 9, 2019.  Please RSVP when registering.   We plan to stop in Fort Collins for lunch with enough time to see parts of the town.  Schedule to be announced closer to dates.
-    * &lt;strong&gt;Return&lt;/strong&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Travel Between Boulder-Fort Collins&lt;/strong&gt; We plan to have a shuttle bus from Boulder to Fort Collins, continuing to the Mountain Campus on Sunday June 9, 2019.  Please RSVP when registering.   We plan to stop in Fort Collins for lunch with enough time to see parts of the town.  Schedule to be announced closer to dates.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Return&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;Use bus shuttle service ider GreenRide (now Groome) to either Boulder (Week 1) or Fort Collins (Week 2).  Allow 1.5 hours.&lt;/li&gt;
-      &lt;li&gt;Alternative option take train from DIA to downtown Denver, follow by public transport to Boulder/Fort Collins.  Allow 2 hours.
-        &lt;h4 id=&quot;for-in-town-guests&quot;&gt;For in town guests.&lt;/h4&gt;
-      &lt;/li&gt;
+      &lt;li&gt;Alternative option take train from DIA to downtown Denver, follow by public transport to Boulder/Fort Collins.  Allow 2 hours.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h4 id=&quot;for-in-town-guests&quot;&gt;For in town guests.&lt;/h4&gt;
 
 &lt;p&gt;If you are in Fort Collins we invite we plan to take groups in cars or a shuttle van.  Please contact James Wilson if you would like to be incluced.&lt;/p&gt;
 
@@ -176,7 +193,7 @@ Mz38P5ToWg/viewform?usp=sf_link&quot;&gt;Pre-register here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;mailto:James.Wilson@ColoState.Edu&quot;&gt;Contact Organizers&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 13 Feb 2019 00:00:00 +1300</pubDate>
+        <pubDate>Wed, 13 Feb 2019 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/workshops/2019/02/13/TACA-2019.html</link>
         <guid isPermaLink="true">http://localhost:4000/workshops/2019/02/13/TACA-2019.html</guid>
         
@@ -209,7 +226,7 @@ These, and general higher-dimensional Tensor Sylvester Systems, can be solved wi
 	-  &lt;strong&gt;Sylver&lt;/strong&gt; for GAP (coming soon).
 	- &lt;strong&gt;Sylver&lt;/strong&gt; for Scala (coming soon).&lt;/p&gt;
 </description>
-        <pubDate>Wed, 13 Feb 2019 00:00:00 +1300</pubDate>
+        <pubDate>Wed, 13 Feb 2019 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/tools/2019/02/13/Sylver.html</link>
         <guid isPermaLink="true">http://localhost:4000/tools/2019/02/13/Sylver.html</guid>
         
@@ -228,7 +245,7 @@ and sharing a linear algebra.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;assets/images/Correspondence.jpg&quot; alt=&quot;Correspondence&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 13 Feb 2019 00:00:00 +1300</pubDate>
+        <pubDate>Wed, 13 Feb 2019 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/tools/2019/02/13/Densor.html</link>
         <guid isPermaLink="true">http://localhost:4000/tools/2019/02/13/Densor.html</guid>
         
