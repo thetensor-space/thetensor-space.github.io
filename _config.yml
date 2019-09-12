@@ -31,14 +31,14 @@ navbar:
 author:
     name:           Anonomous Author
     title:          Unknown  
-    avatar:         avatar-tom.png
+    avatar:         favicon.png
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
   pete:
     name:           Peter A. Brooksbank
     display_name:   Pete
-    gravatar: 
+    avatar:         /images/avatar_peter_a_brooksbank.jpg
     email:
     web: 
     twitter:
@@ -47,15 +47,15 @@ authors:
   josh:
     name:           Joshua F. Maglione
     display_name:   Josh
-    gravatar: 
-    email: 
+    avatar:         /images/avatar_joshua_maglione.jpg
+    email:
     web: 
     twitter:
     description:    "Co-Author of TheTensor.Space"
   james:
     name:           James B. Wilson
     display_name:   James
-    gravatar: 
+    avatar:         /images/avatar_james_b_wilson.jpg
     email:          James.Wilson@ColoState.Edu
     web:            https://www.math.colostate.edu/~jwilson/
     twitter:
@@ -102,7 +102,7 @@ paginate:           12
 paginate_path:      "/blog/:name/"
 
 # Path to post content assets directory i.e post images, pdfs etc
-uploads:            /assets/
+uploads:            /uploads/
 
 # Build settings
 markdown:           kramdown

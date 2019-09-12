@@ -1,0 +1,22 @@
+<figure
+  style="display: flex; justify-content: space-between; flex-wrap: wrap; align-items: flex-end;"
+>
+  <img 
+    src="{% if include.img contains 'http' %}{{ include.img }}{% else %}{{ site.uploads | absolute_url }}{{ include.img }}{% endif %}"{% if include.alt %} alt="{{ include.alt }}"{% endif %}
+    style="max-width: 200px; max-height: 200px; border-radius: 10px;"  
+  >
+  {% if include.name %}
+    <figcaption data-uk-grid class="uk-flex-right"
+      style="text-align: right;"
+    >
+      <span class="uk-width-auto" style="font-size: 1rem;">
+        {{ include.name }}
+        <a href="{{ include.link }}">{{ include.linkText }}</a>
+        {% if include.email %}
+          <br/>
+          <a href="mailto:{{ include.email }}">{{ include.email }}</a>
+        {% endif %}
+      </span>
+    </figcaption>
+  {% endif %}
+</figure>
