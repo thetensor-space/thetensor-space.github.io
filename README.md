@@ -1,60 +1,89 @@
+# Docs is a premium documentation Jekyll theme
 
+Desk was developed by [Ivan Chromjak](https://ivanchromjak.com) for [jekyll.plus](https://jekyll.plus/), theme [live demo](https://docs.jekyll.plus/) available.
 
-# TheTensor.Space
-Tools to Tame the Tensor
+## Installation
 
-## About TheTensor.Space
+Install the dependencies with [Bundler](http://bundler.io/):
 
-![Tensor Mix](docs/images/tensor-mix.jpg)
+```bash
+bundle install
+```
 
-[[toc]]
-# Acknowledgements
+Run the following to generate your site:
+```bash
+bundle exec jekyll serve
+```
 
+You can find more on [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
 
-Portions of `TheTensor.Space` were developed and supported by the following universities and research institutions...
- 
- <img alt="Bucknell University" style="border-width:0" src="https://www.bucknell.edu/Documents/Communication/Branding/BULogo_Orange.png" align="top" vspace="10" width="30%"/>
- <img alt="The Colorado State University" style="border-width:0" src="docs/images/CSU-logo-small.png" align="top" vspace="10"/>
- <img alt="The University of Auckland" style="border-width:0" src="https://cdn.auckland.ac.nz/assets/central/central-services/mediaandmarketing/uoa-logos-2015/uoa-logo-2015-reverse.png" width="50%"align="top" vspace="10"/>
-<img alt="Kent State University" style="border-width:0" src="docs/images/kent-state.png" align="top" vspace="10" width="50%"/>
+## Setup
 
-**[Bielefeld University](https://www.uni-bielefeld.de/
-)**<br>
-**[Hausdorff Institute For Mathematics](https://www.him.uni-bonn.de/)**
+### Site and author details
+Add your site and author details in `_config.yml`:
+```yaml
+# Site title and description
+title:              Docs
+description:        Documentation Jekyll theme.
+lang:               en
 
-<img alt="National Science Foundation USA" style="border-width:0" src="docs/images/nsf1.jpg" align="Top" vspace="0" width ="25%"/> 
+# Site subpath, e.g. /blog
+baseurl:            ""
 
-**[Simons Foundation](https://www.simonsfoundation.org/)**<br>
-**[NSA-MSP](https://www.nsa.gov/What-We-Do/Research/Math-Sciences-Program/)**
+# Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
+permalink:          /:title/
 
-We also acknowledge the partial support by the following granting organizations over the years.
- * Portions of the project sponsored by the _National Science Foundation (USA)_ grant DMS-1620454 to Peter A. Brooksbank and James B. Wilson
-* Portions of the project sponsored by _The Simons Foundation_ to Peter A. Brooksbank.
-* Portions of the project sponsored by the _National Security Agency_ under Grant Number H98230-11-1-0146 to Peter A. Brooksbank.
+# Site base hostname & protocol, e.g. http://example.com
+url:                "https://docs.jekyll.plus"
 
+# Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
+logo:               
 
-# Packages
+navbar:
+  search:           true;
+  
+# Default author settings
+author:
+    name:           Pete Seth
+    title:          Lead Developer  
+    avatar:         avatar-tom.png
+```
 
-* [TensorSpace.](/TensorSpace/)
-* [Sylver.](/Sylver/) Our optimized solutions to simultaneously solving Sylvester equations, Roth replacement rules, and related.  **Coming Soon:** `QuickSylver` our super-linear Sylverster equation solver - the fastest Sylvester solvers ever.
-* [Densor.](/Densor/) We created the provably smallest tensor space to contain your tensor.  Leveraging Lie theory and algebraic geometry these **"Densor" (Derivation-Tensor)** spaces 
+## Customization
 
-# Workshops
+To modify the primary color, open `/_sass/theme/variables.scss` and replace the color values e.g.:
 
-**TACA 2019**
->Conference and workshop on Tensors: Algebra, Computation, and Applications (TACA)
+```scss
+$global-primary-background:                   #05c896;
+```
 
-### Related Workshops
+Further style customisation can be done in the following files:
+```
+/_sass/theme/mixins.scss
+/_sass/theme/variables.scss
+/assets/css/main.scss
+```
 
-* **Wildness**
-* **Groups-Computation-Geometry (2014)**
+## Development
 
--------------
+Install [UIkit](https://getuikit.com/) font end framework dependency via Npm:
+```bash
+npm install
+```
+Enable live browser reload with the following:
+```bash
+bundle exec jekyll s --livereload
+```
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" align="Top" hspace="10"/></a>TheTensor.Space 2016-2019<br />
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+## Credits and Sources
 
+- Google analytics https://www.google.com/analytics/
+- Google maps https://www.google.com/maps
+- UIkit front end framework https://getuikit.com/
+- Jekyll CML https://jekyllrb.com/
 
+## Support
+Customer support is provided through our Envato profile page [contact form](https://themeforest.net/item/docs-responsive-documentation-manual-jekyll-theme/21131076/support) for up to six months from the purchase date and is provided Monday to Friday during the business week. We aim to answer all support requests daily, most are handled within 24h.
 
-
-
+## Documentation
+Full documentation can be found here: [https://docs.jekyll.plus/](https://docs.jekyll.plus/).
