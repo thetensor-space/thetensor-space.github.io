@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-name:               TheTensor.Space
 title:              TheTensor.Space
+name:               TheTensor.Space
 description:        Tools to Tame the Tensor
 meta_description:   "Tools to Tame the Tensor"
 lang:               en
@@ -21,7 +21,7 @@ permalink:          /category/:name/
 url:                "https://thetensor-space.github.io"
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
-logo:               "assets/images/tensor-logo.png"
+logo:               "/images/tensor-logo.png"
 
 navbar:
     sticky:         true
@@ -86,7 +86,7 @@ share:
 
 # Default footer image settings
 footer:
-    copyright:      Made by a <a href="https://ivanchromjak.com/">human</a> somewhere on the planet earth.
+    copyright:      Theme made by a <a href="https://ivanchromjak.com/">human</a> somewhere on the planet earth.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
@@ -102,7 +102,7 @@ paginate:           12
 paginate_path:      "/blog/:name/"
 
 # Path to post content assets directory i.e post images, pdfs etc
-uploads:            /uploads/
+uploads:            /assets/
 
 # Build settings
 markdown:           kramdown

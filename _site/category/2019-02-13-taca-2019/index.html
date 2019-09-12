@@ -1,0 +1,1094 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>TACA 2019 | TheTensor.Space</title>
+<meta name="generator" content="Jekyll v3.7.4" />
+<meta property="og:title" content="TACA 2019" />
+<meta name="author" content="Anonomous Author" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="Tensors: Algebra-Computation-Applications (TACA)" />
+<meta property="og:description" content="Tensors: Algebra-Computation-Applications (TACA)" />
+<link rel="canonical" href="http://0.0.0.0:4000/category/2019-02-13-taca-2019/" />
+<meta property="og:url" content="http://0.0.0.0:4000/category/2019-02-13-taca-2019/" />
+<meta property="og:site_name" content="TheTensor.Space" />
+<meta property="og:image" content="http://0.0.0.0:4000/assets/images/TACA2019.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-02-13T00:00:00-06:00" />
+<script type="application/ld+json">
+{"datePublished":"2019-02-13T00:00:00-06:00","dateModified":"2019-02-13T00:00:00-06:00","author":{"@type":"Person","name":"Anonomous Author"},"image":"http://0.0.0.0:4000/assets/images/TACA2019.png","description":"Tensors: Algebra-Computation-Applications (TACA)","mainEntityOfPage":{"@type":"WebPage","@id":"http://0.0.0.0:4000/category/2019-02-13-taca-2019/"},"@type":"BlogPosting","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://0.0.0.0:4000/images/tensor-logo.png"},"name":"Anonomous Author"},"url":"http://0.0.0.0:4000/category/2019-02-13-taca-2019/","headline":"TACA 2019","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <meta property="og:image" content="http://0.0.0.0:4000/assets//images/tensor-logo.png"/>
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="shortcut icon" type="image/png" href="/uploads/favicon.png" >
+  <link rel="alternate" type="application/rss+xml" title="TheTensor.Space" href="/feed.xml">
+  <script src="/assets/js/main.js"></script>
+  
+    <script>
+function searchResults(form) {
+
+    var currentItem = null;
+    var search = document.getElementById(form);
+    var results = document.getElementById(form + "-results");
+    var toggle = document.getElementById(form + "-toggle");
+
+    function removeActive() {
+        for (i = 0; i < results.children.length; i++) {
+            results.children[i].classList.remove("uk-background-muted");
+        }
+    }
+
+    // Detect all clicks on the document
+    document.addEventListener("click", function(event) {
+
+        var isClickSearch = false;
+        var isClickResults = false;
+        var isClickSearchToggle = false;
+
+        if (search !== null) {
+            isClickSearch = search.contains(event.target);
+        }
+
+        if (results !== null) {
+            isClickResults = results.contains(event.target);
+        }
+
+        if (toggle !== null) {
+            isClickSearchToggle = toggle.contains(event.target);
+        }
+
+        if (isClickSearch || isClickSearchToggle) {
+            results.style.display = "block";
+        }        
+
+        if (!isClickResults && !isClickSearch && !isClickSearchToggle) {
+            results.style.display = "none";
+        }        
+        
+    });    
+
+    results.addEventListener("mouseover", function(event) {
+
+        removeActive();
+        event.target.parentElement.classList.add("uk-background-muted");
+        currentItem = null;
+
+    });
+
+    results.addEventListener("mouseout", function(event) {
+        event.target.parentElement.classList.remove("uk-background-muted");
+    });
+
+
+    search.addEventListener("keyup", function(event) {
+
+        var resultItems = results.children;
+        var resultCount = results.children.length;
+                                
+        if (event.keyCode === 40) {
+
+            if (currentItem < (resultCount - 1)) {
+                if (currentItem === null) {
+                    currentItem = 0;
+                } else {
+                    removeActive();
+                    currentItem++;
+                }
+                removeActive();
+                resultItems[currentItem].classList.add("uk-background-muted");
+            }
+            
+        } else if (event.keyCode === 38) {
+
+            if (currentItem > 0) {
+                if (currentItem === null) {
+                    currentItem = 0;
+                } else {
+                    removeActive();
+                    currentItem--;
+                }
+                removeActive();
+                resultItems[currentItem].classList.add("uk-background-muted");
+            }
+
+        } else if (event.keyCode === 13) {
+
+            resultItems[currentItem].children[0].click();
+
+        }
+
+    });
+
+}
+</script>
+  
+  
+  
+</head>
+
+    <body>
+
+    
+        <div data-uk-sticky="animation: uk-animation-slide-top; sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; cls-inactive: uk-navbar-transparent; top: 200">
+    <nav class="uk-navbar-container">
+        <div class="uk-container">
+            <div data-uk-navbar>
+                <div class="uk-navbar-left">
+                    <a class="uk-navbar-item uk-logo uk-visible@m" href="/"><img src="http://0.0.0.0:4000/assets//images/tensor-logo.png" alt="TheTensor.Space"></a>
+                    
+                        <a class="uk-navbar-toggle uk-hidden@m" href="#offcanvas-docs" data-uk-toggle><span data-uk-navbar-toggle-icon></span> <span class="uk-margin-small-left">Docs</span></a>
+                    
+
+                    <ul class="uk-navbar-nav uk-visible@m">
+                        
+                            
+                            
+                            
+                                
+                                    
+                                        <li><a href="/" >Home</a></li>
+                                                                                                        
+                                
+                            
+                        
+                            
+                            
+                            
+                                
+                                    
+                                        <li><a href="/docs/installation/" >Docs</a></li>
+                                                                                                        
+                                
+                            
+                        
+                            
+                            
+                            
+                                
+                                    
+                                        <li><a href="/blog/" >Blog</a></li>
+                                                                                                        
+                                
+                            
+                        
+                            
+                            
+                            
+                                
+                                    
+                                        <li><a href="#">Changelogs</a>
+                                        
+                                            <div class="uk-navbar-dropdown">
+                                                <ul class="uk-nav uk-navbar-dropdown-nav">
+                                                    
+                                                    
+                                                        
+                                                        
+                                                        <li><a href="/changelog-timeline/">Timeline Style</a></li>
+                                                    
+                                                    
+                                                    
+                                                        
+                                                        
+                                                        <li><a href="/changelog-posts/">Post Style</a></li>
+                                                    
+                                                    
+                                                </ul>
+                                            </div>
+                                        
+                                        </li>
+                                                                                                        
+                                
+                            
+                        
+                    </ul>
+                </div>
+                <div class="uk-navbar-center uk-hidden@m">
+                    <a class="uk-navbar-item uk-logo" href="/"><img src="http://0.0.0.0:4000/assets//images/tensor-logo.png" alt="TheTensor.Space"></a>
+                </div>
+                <div class="uk-navbar-right">
+                    
+                        
+                            <div>
+                                <a id="search-navbar-toggle" class="uk-navbar-toggle" uk-search-icon href="#"></a>
+                                <div class="uk-drop uk-background-default uk-border-rounded" uk-drop="mode: click; pos: left-center; offset: 0">
+                                    <form class="uk-search uk-search-navbar uk-width-1-1" onsubmit="return false;">
+                                        <input id="search-navbar" class="uk-search-input" type="search" placeholder="Search for answers" autofocus autocomplete="off">
+                                    </form>
+                                    <ul id="search-navbar-results" class="uk-position-absolute uk-width-1-1 uk-list"></ul>
+                                </div>
+                            </div>
+                            <script>
+                            SimpleJekyllSearch({
+                                searchInput: document.getElementById('search-navbar'),
+                                resultsContainer: document.getElementById('search-navbar-results'),
+                                noResultsText: '<li class="no-results">No results found</li>',
+                                searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+                                json: '/search.json'
+                            });
+                            searchResults("search-navbar");
+                            </script>
+                        
+                    
+
+                    <ul class="uk-navbar-nav uk-visible@m">
+                        
+                            
+                            
+                            
+                                
+                                    <li><div class="uk-navbar-item"><a class="uk-button uk-button-primary-outline" href="/changelog-timeline/" >Changelog</a></div></li>
+                                
+                            
+                        
+                            
+                            
+                            
+                                
+                                    <li><div class="uk-navbar-item"><a class="uk-button uk-button-success" href="/contact/" >Contact</a></div></li>
+                                
+                            
+                        
+                    </ul>
+
+                    
+                        <a class="uk-navbar-toggle uk-hidden@m" href="#offcanvas" data-uk-toggle><span data-uk-navbar-toggle-icon></span> <span class="uk-margin-small-left">Menu</span></a>
+                    
+
+                </div>
+            </div>
+        </div>
+    </nav>
+</div>
+    
+
+    <div class="uk-section">
+    <div class="uk-container uk-container-xsmall">
+        <article class="uk-article">
+
+            <h1 class="uk-article-title">TACA 2019</h1>
+
+            <div class="uk-article-meta uk-margin-top uk-margin-medium-bottom uk-flex uk-flex-middle">
+                
+
+
+  
+  <img class="uk-border-circle avatar" src="http://0.0.0.0:4000/assets/avatar-tom.png" alt="Anonomous Author">
+
+
+<div>
+  
+    Written by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Anonomous Author</span></span><br>
+  
+  <time datetime="2019-02-13T00:00:00-06:00" itemprop="datePublished">
+    
+    Feb 13, 2019
+  </time>
+</div>
+            </div>
+
+            <div class="article-content link-primary">
+                <h2 id="tensors-algebra-computation-applications-taca">Tensors: Algebra-Computation-Applications (TACA)</h2>
+
+<p>International conference and Short courses on tensors in mathematics, computer science, physics,
+and data sciences. June 3 through June 14, 2019.</p>
+<ul>
+  <li><strong>Week 1:</strong> U. Colorado Boulder,  Short Courses.</li>
+  <li><strong>Week 2:</strong> Colorado State U. Rocky Mountain Campus, Conference.</li>
+</ul>
+
+<hr />
+
+<ul>
+  <li><a href="#courses">Short Courses</a></li>
+  <li><a href="#schedule">Schedule</a></li>
+  <li><a href="#excursions">Excursions</a></li>
+  <li><a href="#lodging">Lodging</a></li>
+  <li><a href="#travel">Travel</a></li>
+  <li><a href="#organizers">Organizers</a></li>
+  <li><a href="#abstracts">Abstracts and Slides</a></li>
+  <li><a href="#sponsors">Sponsors</a></li>
+</ul>
+
+<hr />
+
+<p></p>
+
+<h3><font color="red">Important Please see departure and arrival times for bus to and from the CSU Mountain Campus</font></h3>
+<p>In week 2: The CSU Mountain Campus has limited parking. Participants should make travel plans to join us on the charter bus which will leave promptly as scheduled below.  Failing to do so may result in complications and added costs to the participant.</p>
+
+<h3 id="registration">Registration</h3>
+
+<p><strong>REGISTRATION NOW OPEN</strong> <a href="https://conferencereg.colostate.edu/TACA2019">Register here</a>.  <strong>Please note, if you are recieving support use the Promo-Code supplied in your invitation e-mail.</strong></p>
+
+<hr />
+<h2 id="courses">Courses</h2>
+<ul>
+  <li>Tensors in physics &amp; quantum mechanics</li>
+  <li>Tensors in data science</li>
+  <li>Tensors in algebra</li>
+  <li>Tensors in computer science</li>
+</ul>
+
+<h2 id="schedule">Schedule</h2>
+
+<p><a href="https://docs.google.com/spreadsheets/d/15J775cFdaI-MmrLI94C8-SsxuS2yUHf14Y-LTyAbqNU/edit?usp=sharing">Google sheet schedule</a>. If there are discrepancies between the schedule there and the one on this site, the schedule in the Google sheet takes precedence.
+<br /></p>
+
+<table border="1">
+<tr> 
+<td></td>
+<td>Mon 3 June</td>
+<td>Tue 4 June</td>
+<td>Wed 5 June</td>
+<td>Thu 6 June</td>
+<td>Fri 7 June</td>
+</tr>
+<tr>
+<td>9:00am-10:30am</td>
+<td>Breakfast &amp; collaboration time</td>
+<td>Breakfast &amp; collaboration time</td>
+<td>Breakfast &amp; collaboration time</td>
+<td>Breakfast &amp; collaboration time</td>
+<td>Breakfast &amp; collaboration time</td>
+</tr>
+<tr>
+<td>10:30am-12:00pm</td>
+<td><a href="#Wilson">Tensor Spaces &amp; Operators I</a>, James Wilson (tutorial)</td>
+<td><a href="#Hulpke">Computational Group Theory II</a>, Alexander Hulpke (tutorial)</td>
+<td><a href="#Grochow">Tensors &amp; Complexity II</a>, Joshua Grochow (tutorial)</td>
+<td><a href="#Moore">Noisy Tensors &amp; Machine Learning II</a>, Cris Moore (tutorial)</td>
+<td><a href="#Smith">Tensors in Quantum II</a>, Graeme Smith (tutorial)</td>
+</tr>
+<tr>
+<td>12:00pm-1:00pm</td>
+<td>Lunch</td>
+<td>Lunch</td>
+<td rowspan="2">Lunch </td> 
+<td rowspan="2">Lunch </td>
+<td rowspan="2">Lunch </td>
+</tr>
+<tr>
+<td>1:00pm-1:30pm</td>
+<td rowspan="2"><a href="#Hulpke">Computational Group Theory I</a>, Alexander Hulpke (tutoral)</td>
+<td><a href="#Miyazaki">On the complexity of MIN-RANK and its applications</a>, Takunari Miyazaki</td>
+</tr>
+<tr>
+<td>1:30pm-2:00pm</td>
+<td rowspan="2"><a href="#Brooksbank">Algebraic Methods for Tensor Equivalence I</a>, Peter Brooksbank (tutorial)</td>
+<td rowspan="2"><a href="#Moore">Noisy Tensors &amp; Machine Learning II</a>, Cris Moore (tutorial)</td>
+<td rowspan="2"><a href="#Shonkwiler">Tensors in Differential Geometry</a>, Clayton Shonkwiler</td>
+<td rowspan="2"><a href="#Patel">Tensors in Multiparameter Persistent Homology</a>, Amit Patel</td>
+</tr>
+<tr>
+<td>2:00pm-2:30pm</td>
+<td rowspan="2"><a href="#Grochow">Tensors &amp; Complexity I</a>, Joshua Grochow (tutorial)</td>
+</tr>
+<tr>
+<td>2:30pm-3:00pm</td>
+<td rowspan="2">Working groups on open problems</td>
+<td rowspan="2">Working groups on open problems</td>
+<td rowspan="2">Working groups on open problems</td>
+<td>Working groups on open problems</td>
+</tr>
+<tr>
+<td>3:00pm-4:00pm</td>
+<td>Open Problem Session</td>
+<td><a href="#Brooksbank">Algebraic Methods for Tensor Equivalence II</a>, Peter Brooksbank (tutorial)</td>
+</tr>
+<tr>
+<td>4:00pm-5:00pm</td>
+<td><a href="#Maglione">A tensor playground: a demonstration of TensorSpace</a>, Josh Maglione</td>
+<td><a href="#Smith">Tensors in Quantum I</a>, Graeme Smith (tutorial)</td>
+<td><a href="#Rossman">Tensors in Enumeration: Counting Orbits and Conjugacy Classes</a>, Tobias Rossman</td>
+<td><a href="#Wilson">Tensor Spaces &amp; Operators II</a>, James Wilson (tutorial)</td>
+<td>Closing Remarks</td>
+</tr>
+</table>
+
+<h2 id="excursions">Excursions</h2>
+
+<ul>
+  <li><strong>Saturday June 8, 2019</strong>  For participants of both sides of the program we will be planning some informal excursions you can participate in.  All the activities below are at your own risk and responsiblity.  We are offering only the timeline details.
+    <ul>
+      <li><strong>Hike one of Colorado’s 14ner</strong> Weather permitting we plan to hike one of Colorado’s “14ners” (a mountain peak above 14,000 feet above sea level).  Of the more than 50 such peaks in the region we will choose one that is appropriate for beginners but still we recommend you participated only if you are fit for such a hike.</li>
+      <li><strong>Rocky Mountain National Park</strong> A historic park for all the right reasons.  Arrange trips here in small groups.  We can suggest good trails.  If staying overnight consider lodging in Estes Park.   The YMCA has many options located next to the park.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="lodging">Lodging</h2>
+
+<p>Week 1 – Lodging options in Boulder.</p>
+
+<p>Week 2 – CSU’s Mountain Campus provides all lodging and food.  It is a secluded campus without distractions.  Registration to week 2 covers transportation to and from the campus, room, and board.</p>
+
+<h2 id="travel">Travel</h2>
+
+<h4 id="for-out-of-town-guests">For out of town guests.</h4>
+<p>We recommend participants fly into Denver International Airport (DEN) which is served by most major airlines.</p>
+<ul>
+  <li><strong>Arrival</strong>
+    <ul>
+      <li><strong>Attending Week 1 (Boulder)</strong> Use bus shuttle service providers GreenRide/Groome (https://groometransportation.com/denver-airport/) to/from either Boulder (Week 1).</li>
+      <li><strong>Travel Between Boulder-Fort Collins</strong> A shuttle bus will pick up from Boulder to Fort Collins, continuing to the Mountain Campus on Sunday June 9, 2019.  Pickup from Boulder will be at 10 am, June 9, delivering to downtown Fort Collins for brief lunch break.  (Suitcases can be left on the bus).  Then we continue from Fort Collins (including Fort Collins passengers) at 1:30 pm, June 9, picking up at the downtown Fort Collins Transit Center, and delivering everyone to the CSU Mountain Campus.</li>
+      <li><strong>Joining in Week 2 (Mountain Campus)</strong> There is a shuttle bus from Fort Collins departing June 9, 2019 at <strong>1:30 PM Sharp from the Downtown Fort Collins Transit Center</strong>.  (Downtown Transit Center, 250 N Mason St, Fort Collins, CO 80524) <a href="https://goo.gl/maps/yjP3DaaVzzENpqT37">HERE</a></li>
+      <li>Alternative option take train from Denver airport to downtown Denver, follow by public transport to Boulder/Fort Collins.  Allow 2 hourss at least.</li>
+    </ul>
+  </li>
+  <li><strong>Return</strong>
+    <ul>
+      <li><strong>Guest of Week 1 only (depart Boulder)</strong> If you are staying only for Week 1, you can return to the Denver International Airport by Greenride pickup from your hotel.</li>
+      <li><strong>General Guests (departing in Week 2)</strong> We will return from CSU Mountain Campus by 1 pm on Friday June 14, 2019.  We will stop at Fort Collins Downtown Transit Center with access to restaurants and MAX bus system to local hotels if you are staying the night.  We will then continue to the Colorado State University Transit Center.  Airport shuttles to Denver airport can be scheduled for pick up from either drop-off locations, rates may vary.</li>
+      <li>If you are joining us only for the first week, Airport shuttles from Boulder deliver to Denver airport.</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="for-in-town-guests">For in town guests.</h4>
+
+<p>If you are in Fort Collins we invite we have a shuttle Van that will depart from Fort Collins to Boulder and return after each workshop.  Please contact James Wilson if you would like to be incluced.</p>
+
+<p>For travel from Boulder to CSU’s Mountain Campus we will have a shuttle bus for participants leaving on Sunday.  Please be at the Fort Collins Downtown Transit Center at 1:20 as the bus will depart at <strong>1:30 sharp</strong>!</p>
+
+<h2 id="abstracts-and-slides">Abstracts and Slides</h2>
+<p><a name="Brooksbank"></a>
+<b>Title: Algebraic Methods for Deciding Tensor Equivalence (tutorial)</b></p>
+
+<p><strong>Speaker:</strong> <a href="https://www.bucknell.edu/academics/arts-and-sciences-college-of/academic-departments-and-programs/mathematics/faculty-and-staff/peter-brooksbank">Peter Brooksbank</a>, Bucknell</p>
+
+<p><strong>Abstract:</strong> The purpose of this mini-course is to introduce algebraic tools that help to elucidate the structure of tensors. The focus will be on tensors of valence 2, or bilinear maps as they are also known. The main objects of study will be rings of matrices associated to a bilinear map that are invariant under isomorphism. These include commutative rings (centroids), rings with involution  (adjoints), and Lie rings (derivations).</p>
+
+<p>The motivation to study such rings comes from several directions. First, the structure and representation theory of these various types of rings is, to a greater or lesser extent, well understood. Secondly, that structure may in turn be used to decompose and study the associated bilinear map. Finally, since the defining conditions of these rings are all systems of linear equations, they can be constructed very efficiently from the given bilinear map.</p>
+
+<p>Among the objectives of the mini-course are the following:</p>
+<ol>
+  <li>A survey of algorithms for computing with matrix algebras.</li>
+  <li>An analysis of algebraic methods to test equivalence of tensors––successes and outstanding challenges.</li>
+  <li>An introduction to software for computing with tensors and their associated algebras.</li>
+</ol>
+
+<p><a name="Hulpke"></a>
+<b>Title: <a href="https://www.math.colostate.edu/~hulpke/talks/P19.pdf">Computational Group Theory</a> (tutorial)</b></p>
+
+<p><strong>Speaker:</strong> <a href="https://www.math.colostate.edu/~hulpke/">Alexander Hulpke</a>, CSU</p>
+
+<p><strong>Abstract:</strong> These lectures are intended to give an overview of Concepts, Ideas, Tools, and Main results in Computational Group Theory (CGT), aimed at researchers who have just a basic idea of the concept of groups (knowing what a homomorphism is will be enough) but do not necessarily aim to specialize in the area. Focussing on the case of permutation groups and matrix groups, I will describe the what and why of the problems CGT considers, the assumptions that are made on input, the fundamental data structures that are used (and how they are constructed), and  some ways how these tools can be used in solving problems that are outside the scope of the basic algorithms.</p>
+
+<p><a name="Grochow"></a>
+<b>Title: Tensors &amp; Complexity (tutorial)</b></p>
+
+<p><strong>Speaker:</strong> <a href="https://www.cs.colorado.edu/~jgrochow/">Joshua A. Grochow</a>, CU Boulder</p>
+
+<p><strong>Abstract:</strong> The first lecture will be about what computational complexity can tell us about tensors. We will review notions of reductions between problems, how we can use these notions of reduction to learn about computational difficulty. We will then cover what is known about the complexity of a variety of problems on tensors, including a first look at some very recent results (only going up on the arXiv this week!).</p>
+
+<p>The second lecture will be about what tensors can tell us about computational complexity. We will see several ways - both direct and indirect - in which problems on tensors lie at the heart of lower bounds in complexity theory.</p>
+
+<p><a name="Maglione"></a>
+<b>Title: <a href="https://slides.com/joshmaglione/taca2019"> A tensor playground: a demonstration of TensorSpace</a></b></p>
+
+<p><strong>Speaker:</strong> <a href="https://joshmaglione.weebly.com/">Josh Maglione</a>, U. Bielefeld</p>
+
+<p><strong>Abstract:</strong> New algorithms for tensors change the way we compute with and manipulate tensors. Making room for modern theory while keeping the tried and true is the purpose of TensorSpace. We demonstrate how to build a tensor space system and apply it to known problems.</p>
+
+<p><a name="Miyazaki"></a>
+<b>Title: On the complexity of MIN-RANK and its applications</b></p>
+
+<p><strong>Speaker:</strong> <a href="http://www.cs.trincoll.edu/~miyazaki/">Takunari Miyazaki</a>, Trinity College</p>
+
+<p><strong>Abstract:</strong> The problem of finding a low-rank linear combination of matrices is a fundamental problem in linear algebra. Its decision version, called MIN-RANK, is also an important subject in computational complexity theory. In this talk, I will discuss MIN-RANK’s fundamental properties and highlight its various roles in cryptography.</p>
+
+<p><a name="Moore"></a>
+<b>Title:Noisy Tensors and Machine Learning (tutorial)</b></p>
+
+<p><strong>Speaker:</strong> <a href="http://tuvalu.santafe.edu/~moore/">Cris Moore</a>, Santa Fe Institute</p>
+
+<p><strong>Abstract:</strong> Someone gives you a tensor. You have a hunch that it is a noisy observation of an underlying tensor which is low rank. Depending on what kind of noise has been applied, can you recover the underlying matrix, at least approximately? Can you do this efficiently? And how much noise can you tolerate? And what does this have to do with statistical physics?</p>
+
+<p><a name="Patel"></a>
+<b>Title: Tensors in Multiparameter Persistent Homology</b></p>
+
+<p><strong>Speaker:</strong> <a href="https://www.math.colostate.edu/~akp/">Amit Patel</a>, CSU</p>
+
+<p><strong>Abstract:</strong> Let K<sub>0</sub>⊆ … ⊆ K<sub>n</sub> = K be a 1-filtration of a finite simplicial complex. As the filtration parameter increases, cycles are born and cycles die. This history of births and deaths is neatly described by a discrete invariant called its persistence diagram. The most important property of the persistence diagram is that is stable to perturbations of the filtration. Its computation involves setting up a boundary matrix followed by a reduction that maintains the filtration. The problem of multiparameter persistent homology is the study of births and death of cycles in an n-filtration of K. Until very recently, this problem was poorly understood. We now have a notion of a multiparameter persistence diagram and it is stable [1]! We are now focused on its computation which involves tenors.</p>
+
+<p>[1] Alex McCleary and Amit Patel. Multiparameter Persistent Homology. <a href="https://arxiv.org/abs/1905.13220">arXiv:1905.13220</a></p>
+
+<p><a name="Rossman"></a>
+<b>Title: Tensors in Enumeration: Counting Orbits and Conjugacy Classes</b></p>
+
+<p><strong>Speaker:</strong> <a href="http://www.maths.nuigalway.ie/~rossmann/">Tobias Rossman</a>, NUI Galway</p>
+
+<p><strong>Abstract:</strong> This talk is devoted to the enumeration of orbits and conjugacy classes of finite p-groups. By a process of linearisation, the study of such enumerative problems turns out to be closely related to understanding average sizes of kernels of operators associated with bilinear maps. In addition to exhibiting a rich algebraic structure, this connection also casts some light on the arithmetic and geometric questions hiding inside seemingly group-theoretic problems.</p>
+
+<p><a name="Shonkwiler"></a>
+<b>Title: <a href="https://slides.com/shonk/tensors">Tensors in Differential Geometry</a></b></p>
+
+<p><strong>Speaker:</strong> <a href="https://www.math.colostate.edu/~clayton/">Clayton Shonkwiler</a>, CSU</p>
+
+<p><strong>Abstract:</strong> I will give an introduction to the fundamental role played by tensors in differential geometry, with particular emphasis on the idea of a tensor as a multilinear map. This will include brief cameos by some of the most important tensors in geometry: vector fields, differential forms, Riemannian metrics, and the Riemann and Ricci curvature tensors. Time allowing, I will also present an intriguing tensorial connnection between Plucker coordinates on Grassmann manifolds and projection matrices; this last is joint work with Harrison Chapman.</p>
+
+<p><a name="Smith"></a>
+<b>Title: Tensors in Quantum (tutorial)</b></p>
+
+<p><strong>Speaker:</strong> <a href="https://jila.colorado.edu/gsmith/">Graeme Smith</a>, CU Boulder</p>
+
+<p><strong>Abstract:</strong> TBA</p>
+
+<p><a name="Wilson"></a>
+<b>Title: <a href="https://slides.com/jameswilson-3/tensors-operators#/">Tensors Spaces &amp; Operators</a></b></p>
+
+<p><strong>Speaker:</strong> <a href="https://www.math.colostate.edu/~jwilson/">James B. Wilson</a>, CSU</p>
+
+<p><strong>Abstract:</strong> Concepts, examples, and notation of tensors can be quite varied, which presents a real barrier to communicating about problems and solutions regarding tensors.  Like vector spaces, <strong>tensor spaces</strong> make a uniform treatment possible without overriding any existing interpretation of individual tensors.  This bridges talk about tensors between varied disciplines.</p>
+
+<hr />
+
+<h2 id="sponsors">Sponsors</h2>
+<ul>
+  <li>Bucknell University</li>
+  <li>Colorado State University</li>
+  <li>U. Colorado</li>
+  <li>NSA Grants Program</li>
+</ul>
+
+<hr />
+<h3 id="organizers">Organizers</h3>
+<ul>
+  <li>Peter A. Brooksbank, Bucknell, Dept. Mathematics.</li>
+  <li>Joshua Grochow, U. Colorado, Dept. Computer Science.</li>
+  <li>Alexander Hulpke, Colorado State U. Dept. Mathematics.</li>
+  <li>James B. Wilson, Colorado State U. Dept. Mathematics.</li>
+</ul>
+
+<p><a href="mailto:James.Wilson@ColoState.Edu">Contact Organizers</a></p>
+
+                
+                    <div class="share uk-text-center uk-margin-medium-top">
+    
+        <a class="uk-link-muted" href="https://twitter.com/intent/tweet?text=TACA 2019&url=http://0.0.0.0:4000/category/2019-02-13-taca-2019/&via=&related=" rel="nofollow" target="_blank" title="Share on Twitter" onclick="window.open(this.href, 'twitter', 'width=550,height=235');return false;"><span data-uk-icon="icon: twitter; ratio: 1.2"></span></a>
+    
+    
+        <a class="uk-link-muted uk-margin-small-left" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2F0.0.0.0%3A4000%2Fcategory%2F2019-02-13-taca-2019%2F" rel="nofollow" target="_blank" title="Share on Facebook" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;"><span data-uk-icon="icon: facebook; ratio: 1.2"></span></a>
+    
+</div>
+
+                
+            </div>
+
+            <hr class="uk-margin-medium">
+
+            <div class="uk-margin-large-top paginate-post">
+    <div class="uk-child-width-expand@s uk-grid-large uk-pagi" data-uk-grid>
+        <div>
+            
+                <h4>Sylver</h4>
+                <div class="uk-visible@s uk-text-muted uk-text-small"><h1 id="sylver">Sylver</h1>
+
+</div>
+                <div><a class="remove-underline hvr-back" href="/category/2019-02-13-sylver/">&larr; Previous</a></div>
+            
+        </div>
+        <div>
+            
+                <h4>TameGenus</h4>
+                <div class="uk-visible@s uk-text-muted uk-text-small"><p>Compare pairs of matrices and find their canonical basis in record time.</p>
+</div>
+                <div class="uk-text-right"><a class="remove-underline hvr-forward" href="/category/2019-02-13-tamegenus/">Next &rarr;</a></div>
+            
+        </div>
+    </div>
+</div>
+
+
+            <div class="uk-margin-large-top">
+    <h3>Related Posts</h3>
+
+    
+    
+    
+
+    <ul class="uk-list link-secondary">
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+    </ul>
+</div>
+
+
+            
+        </article>
+
+        <script>
+            // Table of contents scroll to
+            UIkit.scroll('#markdown-toc a', {
+                duration: 400,
+                offset: 120
+            });
+        </script>
+
+    </div>
+</div>
+
+
+    <div id="offcanvas-docs" data-uk-offcanvas="overlay: true">
+    <div class="uk-offcanvas-bar">
+
+        <button class="uk-offcanvas-close" type="button" data-uk-close></button>
+
+        
+        <h5 class="uk-margin-top">Getting Started</h5>
+        <ul class="uk-nav uk-nav-default doc-nav">
+        
+          
+          
+          <li class=""><a href="/docs/installation/">Theme installation</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/setup/">Basic theme setup</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/navigation/">Navigation bar</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/footer/">Footer options</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/posts/">Creating your first post in Jekyll</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/docs/">Creating docs posts</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/comments/">Enabling comments (via Disqus)</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/analytics/">Google Analytics</a></li>
+        
+        </ul>
+        
+        <h5 class="uk-margin-top">Theme Features</h5>
+        <ul class="uk-nav uk-nav-default doc-nav">
+        
+          
+          
+          <li class=""><a href="/docs/hero/">Hero page header</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/boxes/">Category boxes section</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/featured/">Fearured docs section</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/videos/">Video lightbox boxes section</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/faq/">Frequently asked questions section</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/team/">Team members section</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/cta/">Call to action section</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/changelog/">Creating a changelog</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/contact/">Contact form (via FormSpree)</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/media/">Adding media to post and doc content</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/toc/">Adding table of contents to docs</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/alerts/">Adding alerts to content</a></li>
+        
+        </ul>
+        
+        <h5 class="uk-margin-top">Customization</h5>
+        <ul class="uk-nav uk-nav-default doc-nav">
+        
+          
+          
+          <li class=""><a href="/docs/translation/">Translation</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/customize/">Customization</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/development/">Development</a></li>
+        
+          
+          
+          <li class=""><a href="/docs/sources/">Sources and credits</a></li>
+        
+        </ul>
+        
+        <h5 class="uk-margin-top">Help</h5>
+        <ul class="uk-nav uk-nav-default doc-nav">
+        
+          
+          
+          <li class=""><a href="/docs/support/">Contacting support</a></li>
+        
+        </ul>
+        
+
+    </div>
+</div>
+
+
+    <div id="offcanvas" data-uk-offcanvas="flip: true; overlay: true">
+    <div class="uk-offcanvas-bar">
+
+        <a class="uk-logo uk-margin-small-bottom" href="/"><img src="http://0.0.0.0:4000/assets//images/tensor-logo.png" alt="TheTensor.Space"></a>
+     
+        <button class="uk-offcanvas-close" type="button" data-uk-close></button>
+      
+        <ul class="uk-nav uk-nav-primary uk-margin-top">
+            
+                
+
+                
+
+                
+                    <li><a href="/" >Home</a></li>
+                
+            
+                
+
+                
+
+                
+                    <li><a href="/docs/installation/" >Docs</a></li>
+                
+            
+                
+
+                
+
+                
+                    <li><a href="/blog/" >Blog</a></li>
+                
+            
+                
+
+                
+
+                
+                    <li><a href="/changelog-timeline/" >Changelog</a></li>
+                
+            
+                
+
+                
+
+                
+                    <li><div class="uk-navbar-item"><a class="uk-button uk-button-success" href="/contact/" >Contact</a></div></li>
+                
+            
+        </ul>
+
+        <div class="uk-margin-top uk-text-center">
+            <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center uk-grid">
+                
+<div class="uk-first-column">
+    <a href="https://twitter.com/" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+<div>
+    <a href="https://www.facebook.com/" data-uk-icon="icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+
+
+<div>
+    <a href="https://www.instagram.com/" data-uk-icon="icon: instagram" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+
+
+
+<div>
+    <a href="https://vimeo.com/" data-uk-icon="icon: vimeo" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+
+
+
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+    
+        <footer class="uk-section uk-text-center uk-text-muted">
+    <div class="uk-container uk-container-small">
+
+        <div>
+            <ul class="uk-subnav uk-flex-center">
+                
+                    
+                    
+                    
+                        <li><a href="/" >Home</a></li>
+                    
+                
+                    
+                    
+                    
+                        <li><a href="/blog/" >Blog</a></li>
+                    
+                
+                    
+                    
+                    
+                        <li><a href="/contact/" >Contact</a></li>
+                    
+                
+            </ul>
+        </div>
+        <div class="uk-margin-medium">
+            <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center uk-grid">
+                
+<div class="uk-first-column">
+    <a href="https://twitter.com/" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+<div>
+    <a href="https://www.facebook.com/" data-uk-icon="icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+
+
+<div>
+    <a href="https://www.instagram.com/" data-uk-icon="icon: instagram" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+
+
+
+<div>
+    <a href="https://vimeo.com/" data-uk-icon="icon: vimeo" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+
+
+
+
+            </div>
+        </div>
+        <div class="uk-margin-medium uk-text-small copyright link-secondary">Theme made by a <a href="https://ivanchromjak.com/">human</a> somewhere on the planet earth.</div>
+
+    </div>
+</footer>
+
+    
+
+    
+
+    
+
+    </body>
+
+</html>
