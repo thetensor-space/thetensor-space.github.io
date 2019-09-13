@@ -21,7 +21,7 @@ permalink:          /category/:name/
 url:                "https://thetensor-space.github.io"
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
-logo:               "/images/tensor-logo.png"
+logo:               "images/tensor-logo.png"
 
 navbar:
     sticky:         true
@@ -34,11 +34,12 @@ author:
     avatar:         favicon.png
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
+# Note: avatar image directories start with "/uploads/"
 authors:
   pete:
     name:           Peter A. Brooksbank
     display_name:   Pete
-    avatar:         /images/avatar_peter_a_brooksbank.jpg
+    avatar:         images/avatar_peter_a_brooksbank.jpg
     email:
     web: 
     twitter:
@@ -47,7 +48,7 @@ authors:
   josh:
     name:           Joshua F. Maglione
     display_name:   Josh
-    avatar:         /images/avatar_joshua_maglione.jpg
+    avatar:         images/avatar_joshua_maglione.jpg
     email:
     web: 
     twitter:
@@ -55,7 +56,7 @@ authors:
   james:
     name:           James B. Wilson
     display_name:   James
-    avatar:         /images/avatar_james_b_wilson.jpg
+    avatar:         images/avatar_james_b_wilson.jpg
     email:          James.Wilson@ColoState.Edu
     web:            https://www.math.colostate.edu/~jwilson/
     twitter:
