@@ -9,8 +9,8 @@
 - title: Blog
   url: /blog/
 
-- title: Changelog
-  url: /changelog-timeline/
+#- title: Changelog
+#  url: /changelog-timeline/
 
 - title: Contact
   url: /contact/
