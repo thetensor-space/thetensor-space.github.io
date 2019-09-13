@@ -35,7 +35,4 @@ $mobile-up : 522px;
 
 .contact-page-contributor-text {
   font-size: 1rem;
-  @media screen and (min-width: $mobile-up) {
-    border-right: 2px solid grey;
-  }
 }
