@@ -1,36 +1,34 @@
-- title: Getting Started
+- title: Packages
   docs:
-  - installation
-  - setup
-  - navigation
-  - footer
-  - posts
-  - docs
-  - comments
-  - analytics
+  - tensors
+  - Tensor Spaces
+  - Tensor Categories
+- title: Algebras
+  docs:
+  - Associative Algebras
+  - Graded Algebras
+  - Star Algebras
+  - Exceptional Algebras
+  - Semifields
 
-- title: Theme Features
+- title: Filters
   docs:
-  - hero
-  - boxes
-  - featured
-  - videos
-  - faq
-  - team
-  - cta
-  - changelog
-  - contact
-  - media
-  - toc
-  - alerts
+  - Refinement
 
-- title: Customization
+- title: Solvers
   docs:
-  - translation
-  - customize
-  - development
-  - sources
-
-- title: Help
+  - QuickSylver
+- title: Identity
   docs:
-  - support
+  - Identity Types & Groupoids
+  - Adjoint Tensor
+  - Derivation Densor
+  - Tame Genus
+  - Weisefeler-Leman
+- title: Resources
+  docs:
+  - Installation
+  - Platforms
+  - Magma
+  - Scala
+  - Sage

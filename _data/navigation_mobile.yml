@@ -3,11 +3,17 @@
 - title: Home
   url: /
 
-- title: Docs
-  url: /docs/installation/
-
-- title: Blog
+- title: Articles
   url: /blog/
+
+- title: Events
+  url: /events/
+
+- title: Software / Tools
+  url: /softwaretools
+
+- title: Docs
+  url: /docs/tensors
 
 - title: About
   url: /about/

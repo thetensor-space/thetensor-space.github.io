@@ -3,12 +3,15 @@
 left:
   - title: Articles
     url: /blog/
+  
+  - title: Events
+    url: /events/
 
   - title: Software / Tools
     url: /softwaretools
 
-  - title: Events
-    url: /events/
+  - title: Docs
+    url: /docs/tensors
 
   - title: About
     url: /about/

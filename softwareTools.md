@@ -6,12 +6,12 @@ permalink: /softwaretools
 ---
 Read about our software and tools:
 
-[TensorSpace](/blog/tensorspace)
+[TensorSpace](/blog/TensorSpace)
 
-[Sylver](/blog/sylver)
+[Sylver](/blog/Sylver)
 
-[Densor](/blog/densor)
+[Densor](/blog/Densor)
 
 [StarAlge](https://github.com/thetensor-space/StarAlge)
 
-[TameGenus](/blog/tamegenus)
+[TameGenus](/blog/TameGenus)
