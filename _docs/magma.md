@@ -1,5 +1,5 @@
 ---
-title: Tensors
+title: Magma
 subtitle:
 tags: []
 author: james

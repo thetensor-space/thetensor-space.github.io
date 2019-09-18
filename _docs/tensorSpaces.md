@@ -1,5 +1,5 @@
 ---
-title: Tensors
+title: Tensor Spaces
 subtitle:
 tags: []
 author: james

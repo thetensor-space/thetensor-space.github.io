@@ -1,5 +1,5 @@
 ---
-title: Tensors
+title: Installation
 subtitle:
 tags: []
 author: james

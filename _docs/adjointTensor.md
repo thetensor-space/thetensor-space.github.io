@@ -1,5 +1,5 @@
 ---
-title: Tensors
+title: Adjoint Tensor
 subtitle:
 tags: []
 author: james

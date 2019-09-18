@@ -1,5 +1,5 @@
 ---
-title: Tensors
+title: gradedAlgebras
 subtitle:
 tags: []
 author: james

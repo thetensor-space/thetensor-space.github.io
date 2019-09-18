@@ -1,5 +1,5 @@
 ---
-title: Tensors
+title: Scala
 subtitle:
 tags: []
 author: james

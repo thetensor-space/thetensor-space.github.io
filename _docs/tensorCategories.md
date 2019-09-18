@@ -1,5 +1,5 @@
 ---
-title: Tensors
+title: Tensor Categories
 subtitle:
 tags: []
 author: james
