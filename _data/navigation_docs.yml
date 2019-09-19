@@ -1,34 +1,34 @@
 - title: Packages
   docs:
   - tensors
-  - Tensor Spaces
-  - Tensor Categories
+  - tensorSpaces
+  - tensorCategories
 - title: Algebras
   docs:
-  - Associative Algebras
-  - Graded Algebras
-  - Star Algebras
-  - Exceptional Algebras
-  - Semifields
+  - associativeAlgebras
+  - gradedAlgebras
+  - starAlgebras
+  - exceptionalAlgebras
+  - semifields
 
 - title: Filters
   docs:
-  - Refinement
+  - refinement
 
 - title: Solvers
   docs:
-  - QuickSylver
+  - quickSylver
 - title: Identity
   docs:
-  - Identity Types & Groupoids
-  - Adjoint Tensor
-  - Derivation Densor
-  - Tame Genus
-  - Weisefeler-Leman
+  - identityTypesAndGroupoids
+  - adjointTensor
+  - derivationDensor
+  - tameGenus
+  - weisefelerLeman
 - title: Resources
   docs:
-  - Installation
-  - Platforms
-  - Magma
-  - Scala
-  - Sage
+  - installation
+  - platforms
+  - magma
+  - scala
+  - sage
