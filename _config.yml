@@ -21,7 +21,7 @@ permalink:          /blog/:title/
 url:                "https://thetensor-space.github.io"
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
-logo:               "images/tensor-logo.png"
+logo:               "favicon.png"
 
 navbar:
     sticky:         true
