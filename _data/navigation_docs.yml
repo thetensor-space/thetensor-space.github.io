@@ -1,6 +1,6 @@
 - title: Packages
   docs:
-  - tensors
+  title: Tensors
   - tensorSpaces
   - tensorCategories
 - title: Algebras
