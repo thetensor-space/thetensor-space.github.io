@@ -1,16 +1,16 @@
 # Boxes include navigation
 
-- title: Getting Started
-  desc: Get started fast with installation and theme setup instructions
-  icon: cog
-  doc: installation
+- title: Packages
+  desc: Get started fast with installation and setup instructions.
+  icon: github
+  customLink: /docs/installation
 
-- title: Theme Features
-  desc: Lean about all the theme options, features and how to use them
-  icon: settings
-  doc: hero
+- title: Resources
+  desc: Learn more about The Tensor Space by reading our articles or documentation.
+  icon: folder
+  customLink: /blog
 
-- title: Customization
-  desc: Get help or tailor the theme to your specific requirements
-  icon: code
-  doc: customize
+- title: Events
+  desc: Find an event near you!
+  icon: location
+  customLink: /events
