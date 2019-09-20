@@ -91,7 +91,7 @@ share:
 
 # Default footer image settings
 footer:
-    copyright:      Theme made by a <a href="https://ivanchromjak.com/">human</a> somewhere on the planet earth.
+    copyright:      Theme implemented by <a href="https://alex-cannon.github.io/portfolio/" rel="noreferer noopener">Alexander Cannon</a> and created by <a href="https://ivanchromjak.com/" rel="noreferer noopener">human</a> Ivan Chromjak.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:

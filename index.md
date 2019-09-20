@@ -22,5 +22,5 @@ hero:
 
 {% include videos.html columns="2" title="Video Content" subtitle="Watch video tutorials and content via The Tensor Space" %}
 
-{% include cta.html title="Didn't find an answer?" button_text="Contact Us" button_url="/contact/" subtitle="Get in touch with us for details on setup and additional custom services pricing" %}
+{% include cta.html title="Didn't find an answer?" button_text="Contact Us" button_url="/contact/" subtitle="Get in touch with us for details on setup and additional questions." %}
 
