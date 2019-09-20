@@ -15,7 +15,7 @@ lang:               en
 baseurl:            ""
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
-permalink:          /blog/:title/
+permalink:          /articles/:title/
 
 # Site base hostname & protocol, e.g. http://example.com
 url:                "https://thetensor-space.github.io"
@@ -104,7 +104,7 @@ google_analytics:
 paginate:           12
 
 # Blog path
-paginate_path:      "/blog/:title/"
+paginate_path:      "/articles/:title/"
 
 # Path to post content assets directory i.e post images, pdfs etc
 uploads:            /uploads/
