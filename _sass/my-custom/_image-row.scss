@@ -1,0 +1,17 @@
+.custom-image-row {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  image {
+    width: 100%;
+  }
+
+  @media screen and (min-width: 400px) {
+    flex-direction: row;
+    img {
+      width: auto;
+      height: 100px;
+      margin-bottom: 1rem;
+    }
+  }
+}
