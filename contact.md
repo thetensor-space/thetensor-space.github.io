@@ -1,12 +1,12 @@
 ---
 layout: page
 width: xsmall
-title: Our Team
+title: Who to Contact
 permalink: /contact/
 ---
 
 #### Contact us 
-We invite you explore the repository and join our team. We welcome and encourage any contributions to the repository. If you need help getting started, please feel free to @-mention any of the contributors below or you can read the repository’s [Projects](https://github.com/thetensor-space/TameGenus/projects) tab.
+We invite you explore the repository and join our team. We welcome and encourage any contributions to the repository. If you need help getting started, please feel free to @-mention any of the contributors below or you can read the repository’s [Projects](/softwaretools) tab.
 
 {% include image-contributor.html
   img="/images/avatar_james_b_wilson.jpg"
