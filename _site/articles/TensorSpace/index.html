@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="icon" href="assets/images/tensor-logo.png">    
-<title>Sylver | TheTensor.Space</title>
+<link rel="icon" href="favicon.png">    
+<title>TensorSpace | TheTensor.Space</title>
     
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" 
@@ -39,7 +39,7 @@
 
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
-        <img src="/assets/images/tensor-logo.png" alt="TheTensor.Space" height="10" align="below">
+        <img src="/favicon.png" alt="TheTensor.Space" height="10" align="below">
         </a>
         <div class="container">
             Tools to Tame the Tensor &amp<br/>
@@ -145,37 +145,54 @@
                 <!-- End Categories -->
                 
                 <!-- Post Title -->
-				<h1 class="posttitle">Sylver</h1> 
+				<h1 class="posttitle">TensorSpace</h1> 
                 
 			</div>
 
 			<!-- Post Featured Image -->
-			<img class="featured-image img-fluid" src="/assets/images/tensor-mix.jpg" alt="Sylver" align="left">
+			<img class="featured-image img-fluid" src="/assets/images/tensor-mix.jpg" alt="TensorSpace" align="left">
 			<!-- End Featured Image -->
 
 			<!-- Post Content -->
 			<div class="article-post">
-				<h1 id="sylver">Sylver</h1>
+				<p>Tensors mean different things to different people.  Tensor Spaces handle all the differences
+leaving a uniform abstraction suitable for theorems and computations.  So now…</p>
+<blockquote>
+  <p>A Tensor is simplly an element of a tensor space.</p>
+</blockquote>
 
-<p>Sylver solves simultaneous Sylverster equations $AX+BY=C$ in as fast a way as currently possible.</p>
+<p>This software was created by Joshua Maglione and James B. Wilson, Copyright 
+2016–2019. Distributed under MIT License. If you want a copy of the software 
+under a different license, please contact the authors.</p>
 
-<p>Linear Sylvester systems $AX+BY=C$ appear as a primitive linear equations across mathematics, physics, and engineering.  <strong>Concurrent Sylvester Systems</strong>  batch together multiple Sylvester Systems into Tensor Sylvester systems and solves them concurrently with provably nearly optimal speed and minimal memory usage.</p>
+<p>TheTensor.Space’s distribution of software for 
+integration in the computer algebra system MAGMA, V2.22 and beyond.</p>
 
-<p>e.g. finding solutions $(X,Y)$ that simultaneously solve:
-<script type="math/tex">% <![CDATA[
-\begin{array}{ccccc}
-A_{1} X & + & B_{1} Y & = & C_1\\
-\vdots & &\vdots  & & \vdots\\
-A_{m} X & + & B_{m} Y & = & C_m
-\end{array} %]]></script> 
-These, and general higher-dimensional Tensor Sylvester Systems, can be solved with minimum space and in time just slightly more than linear in the input size.  They also admit natural parallelism and randomized solutions.  <strong>Sylver</strong> is our library of routines to solve Sylvester Systems.</p>
+<ul>
+  <li><a href="https://github.com/thetensor-space/TensorSpace">Magma Package Contents</a></li>
+</ul>
 
-<h3 id="sylver-1">Sylver</h3>
+<p>TheTensor.Space’s distribution of software for 
+integration in the computer algebra system SAGE (under development, contribute!).</p>
 
-<p><strong>Sylver</strong> and its dependent libraries is available on GitHub.	Follow the installation instructions.
-	- <strong>Sylver</strong> for Magma available <a href="https://github.com/algeboy/Sylver">here</a>.
-	-  <strong>Sylver</strong> for GAP (coming soon).
-	- <strong>Sylver</strong> for Scala (coming soon).</p>
+<ul>
+  <li><a href="https://github.com/thetensor-space/SageTensorSpace">Sage Package Contents</a></li>
+</ul>
+
+<p>TheTensor.Space’s distribution of software for 
+integration in the computer algebra system GAP system (under development, contribute!).</p>
+
+<ul>
+  <li>GAP Package Contents</li>
+</ul>
+
+<h2 id="acknowledgement">Acknowledgement</h2>
+
+<p><code class="highlighter-rouge">TensorSpace</code> was developed by researchers at Colorado State University and 
+partially supported by a National Science Foundation grant DMS-1620454 to 
+Wilson.  We also acknowledge U. Auckland, U. Bielefeld, Bucknell U., Hausdorff 
+Research Institute for Mathematics, and Kent State U. where research was 
+undertook and support provided for this package.</p>
 
                 <div class="clearfix"></div>
 			</div>
@@ -194,13 +211,9 @@ These, and general higher-dimensional Tensor Sylvester Systems, can be solved wi
             <div class="row PageNavigation mt-4 prevnextlinks">
               
                 <div class="col-md-6 rightborder pl-0">
-                    <a class="thepostlink" href="http://localhost:4000/tools/2019/02/13/Densor.html">&laquo; Densor</a>
+                    <a class="thepostlink" href="http://0.0.0.0:4000/articles/TameGenus/">&laquo; TameGenus</a>
                 </div>
               
-              
-                <div class="col-md-6 text-right pr-0">
-                    <a class="thepostlink" href="http://localhost:4000/workshops/2019/02/13/TACA-2019.html">TACA 2019 &raquo;</a>
-                </div>
               
             </div>
             <!-- End Prev/Next -->
@@ -217,7 +230,7 @@ These, and general higher-dimensional Tensor Sylvester Systems, can be solved wi
                 <section class="disqus">
     <div id="disqus_thread"></div>
     <script type="text/javascript">
-        var disqus_shortname = ''; 
+        var disqus_shortname = '{"shortname"=>nil}'; 
         var disqus_developer = 0;
         (function() {
             var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
