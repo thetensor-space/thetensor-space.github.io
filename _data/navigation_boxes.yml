@@ -1,0 +1,16 @@
+# Boxes include navigation
+
+- title: Packages
+  desc: Get started fast with installation and setup instructions.
+  icon: github
+  customLink: /docs/installation
+
+- title: Resources
+  desc: Learn more about The Tensor Space by reading our articles or documentation.
+  icon: folder
+  customLink: /articles
+
+- title: Events
+  desc: Find an event near you!
+  icon: location
+  customLink: /events

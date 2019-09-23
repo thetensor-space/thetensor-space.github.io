@@ -1,0 +1,38 @@
+$mobile-up : 522px;
+
+.contact-page-contributor {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 1rem;
+  @media screen and (min-width: $mobile-up) {
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+  }
+}
+
+// Images should be 1:1 ratios
+.contact-page-contributor-image {
+  width: 100%;
+  border-radius: 10px;
+  @media screen and (min-width: $mobile-up) {
+    width: 200px;
+    margin-right: 1rem;
+  }
+}
+
+.contact-page-contributor-content {
+  text-align: center;
+  @media screen and (min-width: $mobile-up) {
+    text-align: right;   
+    padding-right: 1rem;
+    border-right: 2px solid grey; 
+  }
+}
+
+.contact-page-contributor-text {
+  font-size: 1rem;
+}

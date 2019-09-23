@@ -1,0 +1,18 @@
+<div class="contact-page-contributor">
+  <img
+    class="contact-page-contributor-image"
+    src="{% if include.img contains 'http' %}{{ include.img }}{% else %}{{ site.uploads | absolute_url }}{{ include.img }}{% endif %}"{% if include.alt %} alt="{{ include.alt }}"{% endif %}  
+  >
+  {% if include.name %}
+    <div class="contact-page-contributor-content">
+      <span class="contact-page-contributor-text">
+        {{ include.name }}
+        <a href="{{ include.link }}">{{ include.linkText }}</a>
+        {% if include.email %}
+          <br/>
+          <a href="mailto:{{ include.email }}">{{ include.email }}</a>
+        {% endif %}
+      </span>
+    </div>
+  {% endif %}
+  </div>
