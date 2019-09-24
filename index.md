@@ -14,7 +14,10 @@ hero:
         This is a place for our tools, results, tutorials, and workshop videos, and a list of activities to come.  Tucked inside are many interesting by-products (decompositions, tensor space compression, search algorithms, random models, and exotic constructions).  Feel free to share these, give us feedback, and to get involved in improvements.
     </p>
 </div>
+
 {% include boxes.html columns="3" title="Browse Topics" subtitle="" %}
+
+{% include custom-hero-search.html %}
 
 {% include featured.html tag="featured" title="Popular Articles" subtitle="Featured articles to get you started fast." %}
 
