@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="icon" href="assets/images/tensor-logo.png">    
-<title>TACA 2019 | TheTensor.Space</title>
+<link rel="icon" href="favicon.png">    
+<title>Sylver | TheTensor.Space</title>
     
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" 
@@ -39,7 +39,7 @@
 
         <!-- Begin Logo -->
         <a class="navbar-brand" href="/">
-        <img src="/assets/images/tensor-logo.png" alt="TheTensor.Space" height="10" align="below">
+        <img src="/favicon.png" alt="TheTensor.Space" height="10" align="below">
         </a>
         <div class="container">
             Tools to Tame the Tensor &amp<br/>
@@ -137,7 +137,7 @@
                         
                         
                         <li>
-                         <a href="/category/workshops/">Workshops</a>
+                         <a href="/category/tools/">Tools</a>
                         </li>
                         
                     </ul>
@@ -145,134 +145,37 @@
                 <!-- End Categories -->
                 
                 <!-- Post Title -->
-				<h1 class="posttitle">TACA 2019</h1> 
+				<h1 class="posttitle">Sylver</h1> 
                 
 			</div>
 
 			<!-- Post Featured Image -->
-			<img class="featured-image img-fluid" src="/assets/images/TACA2019.png" alt="TACA 2019" align="left">
+			<img class="featured-image img-fluid" src="/assets/images/tensor-mix.jpg" alt="Sylver" align="left">
 			<!-- End Featured Image -->
 
 			<!-- Post Content -->
 			<div class="article-post">
-				<h2 id="tensors-algebra-computation-applications-taca">Tensors: Algebra-Computation-Applications (TACA)</h2>
+				<h1 id="sylver">Sylver</h1>
 
-<p>International conference and Short courses on tensors in mathematics, computer science, physics,
-and data sciences. June 3 through June 14, 2019.</p>
-<ul>
-  <li><strong>Week 1:</strong> U. Colorado Boulder,  Short Courses.</li>
-  <li><strong>Week 2:</strong> Colorado State U. Rocky Mountain Campus, Conference.</li>
-</ul>
+<p>Sylver solves simultaneous Sylverster equations $AX+BY=C$ in as fast a way as currently possible.</p>
 
-<hr />
+<p>Linear Sylvester systems $AX+BY=C$ appear as a primitive linear equations across mathematics, physics, and engineering.  <strong>Concurrent Sylvester Systems</strong>  batch together multiple Sylvester Systems into Tensor Sylvester systems and solves them concurrently with provably nearly optimal speed and minimal memory usage.</p>
 
-<ul>
-  <li><a href="#courses">Short Courses</a></li>
-  <li><a href="#excursions">Excursions</a></li>
-  <li><a href="#lodging">Lodging</a></li>
-  <li><a href="#travel">Travel</a></li>
-  <li><a href="#organizers">Organizers</a></li>
-  <li><a href="#sponsors">Sponsors</a></li>
-</ul>
+<p>e.g. finding solutions $(X,Y)$ that simultaneously solve:
+<script type="math/tex">% <![CDATA[
+\begin{array}{ccccc}
+A_{1} X & + & B_{1} Y & = & C_1\\
+\vdots & &\vdots  & & \vdots\\
+A_{m} X & + & B_{m} Y & = & C_m
+\end{array} %]]></script> 
+These, and general higher-dimensional Tensor Sylvester Systems, can be solved with minimum space and in time just slightly more than linear in the input size.  They also admit natural parallelism and randomized solutions.  <strong>Sylver</strong> is our library of routines to solve Sylvester Systems.</p>
 
-<hr />
+<h3 id="sylver-1">Sylver</h3>
 
-<p></p>
-
-<h3 id="registration">Registration</h3>
-
-<p>Follow this link to sign up.  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfx4bngQZWUfX74Nb_pAv0GZUcVJ0JOYp9Imngb
-Mz38P5ToWg/viewform?usp=sf_link">Pre-register here</a></p>
-
-<p>Rates.  Registration is handled in two parts.</p>
-<ul>
-  <li>Week 1: CU Boulder Workshop.  <strong>Registration: $50</strong>.  Room and board are the participants own responsibility.</li>
-  <li>Week 2: CSU Mountain Campus (Pingree Park) Conference.<strong>Registration</strong>
-    <ul>
-      <li><strong>$650 Regular (includes room, meals, and transportation to/from venue)</strong></li>
-      <li><strong>$400 Student (include room,  meals, and transportation to/from venue)</strong></li>
-    </ul>
-  </li>
-</ul>
-
-<p>Registration will open a few weeks prior and also be available on site.</p>
-
-<p>Support may be available, please indicated need when pre-registering.  The Mountain Campus is secluded and there is no alternative lodging nearby.</p>
-
-<hr />
-<h2 id="courses">Courses</h2>
-<ul>
-  <li>Tensors in physics &amp; quantum mechanics</li>
-  <li>Tensors in data science</li>
-  <li>Tensors in algebra</li>
-  <li>Tensors in computer science</li>
-</ul>
-
-<h2 id="excursions">Excursions</h2>
-
-<ul>
-  <li><strong>Saturday June 8, 2019</strong>  For participants of both sides of the program we will be planning some informal excursions you can participate in.  All the activities below are at your own risk and responsiblity.  We are offering only the timeline details.
-    <ul>
-      <li><strong>Hike one of Colorado’s 14ner</strong> Weather permitting we plan to hike one of Colorado’s “14ners” (a mountain peak above 14,000 feet above sea level).  Of the more than 50 such peaks in the region we will choose one that is appropriate for beginners but still we recommend you participated only if you are fit for such a hike.</li>
-      <li><strong>Rocky Mountain National Park</strong> A historic park for all the right reasons.  Arrange trips here in small groups.  We can suggest good trails.  If staying overnight consider lodging in Estes Park.   The YMCA has many options located next to the park.</li>
-    </ul>
-  </li>
-</ul>
-
-<h2 id="lodging">Lodging</h2>
-
-<p>Week 1 – Lodging options in Boulder.</p>
-
-<p>Week 2 – CSU’s Mountain Campus provides all lodging and food.  It is a secluded campus without distractions.  Registration to week 2 covers transportation to and from the campus, room, and board.</p>
-
-<h2 id="travel">Travel</h2>
-
-<h4 id="for-out-of-town-guests">For out of town guests.</h4>
-<p>We recommend participants fly into Denver International Airport (DEN) which is served by most major airlines.</p>
-<ul>
-  <li><strong>Arrival</strong>
-    <ul>
-      <li>Use bus shuttle service providers GreenRide/Groome (https://groometransportation.com/denver-airport/) to/from either Boulder (Week 1) or Fort Collins (Week 2, CSU transit center).  Allow 1.5 hours.</li>
-      <li>Alternative option take train from Denver airport to downtown Denver, follow by public transport to Boulder/Fort Collins.  Allow 2 hourss at least.</li>
-    </ul>
-  </li>
-  <li>
-    <p><strong>Travel Between Boulder-Fort Collins</strong> A shuttle bus will pick up from Boulder to Fort Collins, continuing to the Mountain Campus on Sunday June 9, 2019.  Pickup from Boulder will be at 10 am, June 9, delivering to downtown Fort Collins for brief lunch break.  (Suitcases can be left on the bus).  Then we continue from Fort Collins (including Fort Collins passengers) at 1:30 pm, June 9, picking up at the downtown Fort Collins Transit Center, and delivering everyone to the CSU Mountain Campus.</p>
-  </li>
-  <li><strong>Return</strong>
-    <ul>
-      <li>We will return from CSU Mountain Campus by 1 pm on Friday June 14, 2019.  We will stop at Fort Collins Downtown Transit Center with access to restaurants and MAX bus system to local hotels if you are staying the night.  We will then continue to the Colorado State University Transit Center.  Airport shuttles to Denver airport can be scheduled for pick up from either drop-off locations, rates may vary.</li>
-      <li>If you are joining us only for the first week, Airport shuttles from Boulder deliver to Denver airport.</li>
-    </ul>
-  </li>
-</ul>
-
-<h4 id="for-in-town-guests">For in town guests.</h4>
-
-<p>If you are in Fort Collins we invite we plan to take groups in cars or a shuttle van.  Please contact James Wilson if you would like to be incluced.</p>
-
-<p>For travel from Boulder to CSU’s Mountain Campus we will have a shuttle bus for participants leaving on Sunday.</p>
-
-<hr />
-
-<h2 id="sponsors">Sponsors</h2>
-<ul>
-  <li>Bucknell University</li>
-  <li>Colorado State University</li>
-  <li>U. Colorado</li>
-  <li>NSA Grants Program</li>
-</ul>
-
-<hr />
-<h3 id="organizers">Organizers</h3>
-<ul>
-  <li>Peter A. Brooksbank, Bucknell, Dept. Mathematics.</li>
-  <li>Joshua Grochow, U. Colorado, Dept. Computer Science.</li>
-  <li>Alexander Hulpke, Colorado State U. Dept. Mathematics.</li>
-  <li>James B. Wilson, Colorado State U. Dept. Mathematics.</li>
-</ul>
-
-<p><a href="mailto:James.Wilson@ColoState.Edu">Contact Organizers</a></p>
+<p><strong>Sylver</strong> and its dependent libraries is available on GitHub.	Follow the installation instructions.
+	- <strong>Sylver</strong> for Magma available <a href="https://github.com/algeboy/Sylver">here</a>.
+	-  <strong>Sylver</strong> for GAP (coming soon).
+	- <strong>Sylver</strong> for Scala (coming soon).</p>
 
                 <div class="clearfix"></div>
 			</div>
@@ -291,12 +194,12 @@ Mz38P5ToWg/viewform?usp=sf_link">Pre-register here</a></p>
             <div class="row PageNavigation mt-4 prevnextlinks">
               
                 <div class="col-md-6 rightborder pl-0">
-                    <a class="thepostlink" href="http://localhost:4000/tools/2019/02/13/Sylver.html">&laquo; Sylver</a>
+                    <a class="thepostlink" href="http://0.0.0.0:4000/articles/Densor/">&laquo; Densor</a>
                 </div>
               
               
                 <div class="col-md-6 text-right pr-0">
-                    <a class="thepostlink" href="http://localhost:4000/tools/2019/02/13/TameGenus.html">TameGenus &raquo;</a>
+                    <a class="thepostlink" href="http://0.0.0.0:4000/articles/TACA-2019/">TACA 2019 &raquo;</a>
                 </div>
               
             </div>
@@ -314,7 +217,7 @@ Mz38P5ToWg/viewform?usp=sf_link">Pre-register here</a></p>
                 <section class="disqus">
     <div id="disqus_thread"></div>
     <script type="text/javascript">
-        var disqus_shortname = ''; 
+        var disqus_shortname = '{"shortname"=>nil}'; 
         var disqus_developer = 0;
         (function() {
             var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
