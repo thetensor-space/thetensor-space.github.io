@@ -12,5 +12,5 @@
 
 - title: Events
   desc: Find an event near you!
-  icon: location
+  icon: calendar
   customLink: /events
