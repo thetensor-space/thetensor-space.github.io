@@ -25,17 +25,21 @@ here and at our GitHub website [thetensor-space.github.io](https://thetensor-spa
 Portions of `TheTensor.Space` were developed and supported by the following universities and research institutions...
  
  <div class="custom-image-row">
-  <img alt="Bucknell University" src="/uploads/images/logo_bucknell_university.png"/>
-  
-  <img alt="The Colorado State University" src="/uploads/images/CSU-logo.png"/>
-
-  <img alt="The University of Auckland" src="https://cdn.auckland.ac.nz/assets/central/central-services/mediaandmarketing/uoa-logos-2015/uoa-logo-2015-reverse.png"/>
-
-  <img alt="Kent State University" style="border-width:0" src="/uploads/images/kent-state.png"/>
+  <img alt="National Security Agency" src="/uploads/images/logo_nsa.png"/>
 
   <img alt="National Science Foundation USA" src="/uploads/images/nsf1.jpg"/>
 
-  <img alt="University Bielefeld" src="/uploads/images/logo_uni_bielefeld.jpg"/>
+  <img alt="The Colorado State University" src="/uploads/images/logo_csu_ram.jpg"/>
+
+  <img alt="Kent State University" src="/uploads/images/logo_kent_state_university.jpg"/>
+
+  <img alt="The University of Auckland" src="https://cdn.auckland.ac.nz/assets/central/central-services/mediaandmarketing/uoa-logos-2015/uoa-logo-2015-reverse.png"/>
+
+  <img alt="Bucknell University" src="/uploads/images/logo_bucknell_university.png"/>
+
+  <img alt="University Bielefeld" src="/uploads/images/logo_bielefeld_university.jpg"/>
+
+  <img alt="Simons Foundation" src="/uploads/images/logo_simons_foundation.png"/>
 
   <img alt="Hausdorff Institute For Mathematics" src="/uploads/images/logo_him.gif">
 
