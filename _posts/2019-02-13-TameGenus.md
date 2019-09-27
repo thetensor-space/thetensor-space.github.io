@@ -3,7 +3,7 @@ layout: post
 title:  TameGenus
 categories: [ Tools ]
 image: assets/images/iso-knots.png
-tool: true
+package: true
 featured-tool : true
 ---
 
