@@ -3,7 +3,7 @@ layout: post
 title:  TensorSpace
 categories: [ Tools ]
 image: assets/images/tensor-mix.jpg
-tool: true
+package: true
 featured: false
 ---
 

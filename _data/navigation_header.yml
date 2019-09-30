@@ -1,17 +1,17 @@
 # Navbar left menu navigation links
 
 left:
-  - title: Articles
-    url: /articles/
-  
   - title: Events
     url: /events/
 
+  - title: Articles
+    url: /articles/
+  
   - title: Software / Tools
     url: /softwaretools
 
-  - title: Docs
-    url: /docs/tensors
+  - title: Packages
+    url: /packages
 
   - title: About
     url: /about/
@@ -33,6 +33,9 @@ right:
 #  - title: Changelog
 #    url: /changelog-timeline/
 #    button: primary-outline
+
+  - title: Docs
+    url: /docs/tensors
 
   - title: Contact
     url: /contact/
