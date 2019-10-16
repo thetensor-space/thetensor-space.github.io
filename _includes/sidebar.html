@@ -1,7 +1,12 @@
-<div class="sidebar">
-                    
-        <div class="sidebar-section">
-        </div>
-            
-            
+<div class="sidebar link-primary">
+  <div class="sidebar-section">
+    <h3>Recent Posts</h3>
+    <ul>
+      {% for post in site.posts limit:4 %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+
+    {% include related-posts.html %}
+  </div>  
 </div>
