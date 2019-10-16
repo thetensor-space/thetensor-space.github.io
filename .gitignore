@@ -6,4 +6,5 @@
 .syntax.gz
 .toc
 
-
+_site/
+.sass-cache/

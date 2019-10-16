@@ -1,0 +1,29 @@
+.custom-image-row {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  image {
+    width: 100%;
+  }
+
+  @media screen and (min-width: 400px) {
+    flex-direction: row;
+    img {
+      width: auto;
+      height: 100px;
+      margin-bottom: 1rem;
+    }
+  }
+}
+
+.custom-icon-row {
+  display: flex;
+  flex-wrap: wrap;
+  img {
+    width: 50px;
+    margin-right: 5px;
+    &:last-of-type {
+      margin-right: 0;
+    }
+  }
+}

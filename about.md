@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About
-comments: true
+width: small
+title: About Us
+permalink: /about/
 ---
+
 
 
 `TheTensor.Space` is group of researchers making tools to tame tensors.
@@ -20,29 +22,29 @@ here and at our GitHub website [thetensor-space.github.io](https://thetensor-spa
 
 # Acknowledgements
 
-
 Portions of `TheTensor.Space` were developed and supported by the following universities and research institutions...
  
- <img alt="Bucknell University" style="border-width:0" src="https://www.bucknell.edu/Documents/Communication/Branding/BULogo_Orange.png" align="top" vspace="10" width="30%"/>
- 
- <img alt="The Colorado State University" style="border-width:0" src="{{site.baseurl}}/assets/images/CSU-logo-small.png" align="top" vspace="10"/>
+ <div class="custom-image-row">
+  <img alt="Bucknell University" src="/uploads/images/logo_bucknell_university.png"/>
+  
+  <img alt="The Colorado State University" src="/uploads/images/CSU-logo.png"/>
 
- <img alt="The University of Auckland" style="border-width:0" src="https://cdn.auckland.ac.nz/assets/central/central-services/mediaandmarketing/uoa-logos-2015/uoa-logo-2015-reverse.png" width="50%"align="top" vspace="10"/>
+  <img alt="The University of Auckland" src="https://cdn.auckland.ac.nz/assets/central/central-services/mediaandmarketing/uoa-logos-2015/uoa-logo-2015-reverse.png"/>
 
-<img alt="Kent State University" style="border-width:0" src="{{site.baseurl}}/assets/images/kent-state.png" align="top" vspace="10" width="50%"/>
+  <img alt="Kent State University" style="border-width:0" src="/uploads/images/kent-state.png"/>
 
-**[Bielefeld University](https://www.uni-bielefeld.de/)**<br>
-**[Hausdorff Institute For Mathematics](https://www.him.uni-bonn.de/)**
+  <img alt="National Science Foundation USA" src="/uploads/images/nsf1.jpg"/>
 
-<img alt="National Science Foundation USA" style="border-width:0" src="_site/docs/images/nsf1.jpg" align="Top" vspace="0" width ="25%"/> 
+  <img alt="University Bielefeld" src="/uploads/images/logo_uni_bielefeld.jpg"/>
 
-**[Simons Foundation](https://www.simonsfoundation.org/)**<br>
-**[NSA-MSP](https://www.nsa.gov/What-We-Do/Research/Math-Sciences-Program/)**
+  <img alt="Hausdorff Institute For Mathematics" src="/uploads/images/logo_him.gif">
+
+</div>
 
 We also acknowledge the partial support by the following granting organizations over the years.
- * Portions of the project sponsored by the _National Science Foundation (USA)_ grant DMS-1620454 to Peter A. Brooksbank and James B. Wilson
-* Portions of the project sponsored by _The Simons Foundation_ to Peter A. Brooksbank.
-* Portions of the project sponsored by the _National Security Agency_ under Grant Number H98230-11-1-0146 to Peter A. Brooksbank.
+ * Portions of the project sponsored by the _[National Science Foundation (USA)](https://www.nsf.gov/about/)_ grant DMS-1620454 to Peter A. Brooksbank and James B. Wilson
+* Portions of the project sponsored by _[The Simons Foundation](https://www.simonsfoundation.org/)_ to Peter A. Brooksbank.
+* Portions of the project sponsored by the _[National Security Agency](https://www.nsa.gov/What-We-Do/Research/Math-Sciences-Program/)_ under Grant Number H98230-11-1-0146 to Peter A. Brooksbank.
 
 ## Copyrights and Licenses 
 

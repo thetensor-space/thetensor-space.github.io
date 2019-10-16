@@ -1,0 +1,33 @@
+- title: Tensors
+  docs:
+  - tensorSpaces
+  - tensorCategories
+- title: Algebras
+  docs:
+  - associativeAlgebras
+  - gradedAlgebras
+  - starAlgebras
+  - exceptionalAlgebras
+  - semifields
+
+- title: Filters
+  docs:
+  - refinement
+
+- title: Solvers
+  docs:
+  - quickSylver
+- title: Identity
+  docs:
+  - identityTypesAndGroupoids
+  - adjointTensor
+  - derivationDensor
+  - tameGenus
+  - weisefelerLeman
+- title: Resources
+  docs:
+  - installation
+  - platforms
+  - magma
+  - scala
+  - sage

@@ -2,24 +2,22 @@
 layout: default
 ---
 
+{% if page.width == 'expand' %}
+    {{ content }}
+{% else %}
+<div class="uk-section">
+    <div class="uk-container{% if page.width %} uk-container-{{page.width}}{% endif %}">
 
-<section>
-    <div class="section-title">
-        <h2><span>{{ page.title }}</span></h2>
+        <article class="uk-article">
+
+            <h1 class="uk-article-title">{{ page.title | escape }}</h1>
+
+            <div class="article-content link-primary">
+                {{ content }}
+            </div>
+
+        </article>
+
     </div>
-    
-    <div class="article-post">
-    {{content}}
-    </div>
-    
-    {% if page.comments == true %}
-    
-    <div id="comments" class="row mb-5">
-        <div class="col-md-8">              
-            {% include disqus.html %}                
-        </div>
-    </div>
-    
-    {% endif %}
-    
-</section>
+</div>
+{% endif %}
