@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: package
 title:  TensorSpace
-categories: [ Tools ]
+categories: [ Tools, packages ]
 image: assets/images/tensor-mix.jpg
 package: true
 featured: false
