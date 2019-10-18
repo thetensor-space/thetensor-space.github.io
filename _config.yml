@@ -110,7 +110,9 @@ paginate_path:      "/articles/:title/"
 uploads:            /uploads/
 
 # Build settings
-markdown:           kramdown
+kramdown:
+  math_engine: nil
+
 highlighter:        rouge
 
 gems:
