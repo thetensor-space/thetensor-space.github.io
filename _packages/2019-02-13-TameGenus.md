@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: package
 title:  TameGenus
-categories: [ Tools ]
+categories: [ Tools, packages ]
 image: assets/images/iso-knots.png
 package: true
 featured-tool : true

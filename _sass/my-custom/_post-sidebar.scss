@@ -1,0 +1,38 @@
+$tablet-up: 900px;
+
+.post-right-sidebar-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  @media screen and (min-width: $tablet-up) {
+    flex-wrap: nowrap;
+  }
+}
+
+.post-right-sidebar-wrapper-content {
+  padding-right: 1rem;
+  width: 60vw;
+  overflow-x: scroll;
+}
+
+.post-right-sidebar {
+  width: 100%;
+  @media screen and (min-width: $tablet-up) {
+    flex: 2;
+    min-width: 250px;
+  }
+}
+
+.post-right-sidebar-content {
+  border-radius: 10px;
+  border: 2px solid #eee;
+  padding: 1rem;
+}
+
+.related-posts-list {
+  .no-related-posts {
+    display: none;
+    &:first-of-type {
+      display: inline-block;
+    }
+  }
+}

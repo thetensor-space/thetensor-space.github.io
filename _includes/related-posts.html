@@ -5,7 +5,7 @@
     {% assign minCommonTags =  1 %}
     {% assign maxRelatedCounter = 0 %}
 
-    <ul class="uk-list link-secondary">
+    <ul class="uk-list link-secondary related-posts-list">
     {% for post in site.posts %}
 
     {% assign sameTagCount = 0 %}
@@ -28,5 +28,6 @@
     {% endif %}
 
     {% endfor %}
+        <li class="no-related-posts">No Related Posts</li>
     </ul>
 </div>
