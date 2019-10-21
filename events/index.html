@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Packages
+title: Events
 ---
 
 <div class="uk-section">
@@ -8,13 +8,13 @@ title: Packages
 
         <h1 class="uk-article-title uk-text-center">{{ page.title | escape }}</h1>
 
-        {% for package in site.packages %}
+        {% for event in site.events %}
             <div class="uk-card uk-card-default uk-box-shadow-small uk-box-shadow-hover-medium card-post uk-inline border-radius-medium border-xlight uk-width-1-1 uk-margin">
-                <a class="uk-position-cover" href="{{ package.url | relative_url }}"></a>
+                <a class="uk-position-cover" href="{{ event.url | relative_url }}"></a>
                 <div class="uk-card-header">
                     <div class="uk-grid-small uk-flex-middle" uk-grid>
-                        {% if package.author %}
-                        {% assign author = site.authors[package.author] %}
+                        {% if event.author %}
+                        {% assign author = site.authors[event.author] %}
                         {% else %}
                         {% assign author = site.author %}
                         {% endif %}
@@ -32,16 +32,16 @@ title: Packages
                     
                     
                         <div class="uk-width-expand">
-                            <h3 class="uk-card-title uk-margin-remove-bottom">{{ package.title }}</h3>
-                            <p class="uk-text-meta uk-margin-remove-top"><time datetime="{{ package.date | date_to_xmlschema }}">
+                            <h3 class="uk-card-title uk-margin-remove-bottom">{{ event.title }}</h3>
+                            <p class="uk-text-meta uk-margin-remove-top"><time datetime="{{ event.date | date_to_xmlschema }}">
                                 {% assign date_format = site.date_format | default: "%b %-d, %Y" %}
-                                {{ package.date | date: date_format }}
+                                {{ event.date | date: date_format }}
                             </time></p>
                         </div>
                     </div>
                 </div>
                 <div class="uk-card-body">
-                    {{ package.excerpt }}
+                    {{ event.excerpt }}
                 </div>
                 <div class="uk-card-footer">
                     <span class="uk-button uk-button-text">{{ site.data.translation[site.lang].read_more | default: "Read more" }} &rarr;</span>
