@@ -16,6 +16,7 @@ The following is a post file with different configurations you can add as exampl
 ---
 layout: post
 title: How To Travel On Low Budget
+categories: [travel, budget]
 ---
 ```
 
