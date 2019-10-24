@@ -32,4 +32,5 @@ We invite you explore the repository and join our team. We welcome and encourage
   name="Joshua Maglione"
   link="https://github.com/joshmaglione"
   linkText="@joshmaglione"
+  email="jmaglione@math.uni-bielefeld.de"
 %}
