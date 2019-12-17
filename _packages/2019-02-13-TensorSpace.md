@@ -7,6 +7,10 @@ package: true
 featured: false
 ---
 
+[Latest Release](https://github.com/thetensor-space/TensorSpace/releases/latest)
+[Repository](https://github.com/thetensor-space/TensorSpace)
+[Documentation](https://github.com/thetensor-space/TensorSpace)
+
 Tensors mean different things to different people.  Tensor Spaces handle all the differences
 leaving a uniform abstraction suitable for theorems and computations.  So now...
 > A Tensor is simplly an element of a tensor space.
