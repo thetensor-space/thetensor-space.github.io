@@ -130,9 +130,6 @@ sass:
 
 # Set permalinks and other values per collection
 collections:
-  packages:
-    output:         true
-    permalink: /:collection/:title/releases/latest
   events:
     output:         true
     permalink: /:collection/:title

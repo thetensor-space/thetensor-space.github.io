@@ -42,10 +42,35 @@ a^{2} = b^{2} + c^{2}
 $$
 
 ### Add a Video
-Use the following code in a markdown file to add a video:
+* Get the _source_ of a video. For Vimeo videos, you can get the source of the video by clicking `share` then copying the `src` attribute of the `iframe` shown in the popup.
+    * You can also add videos to the site in the `/uploads/videos` directory, but it is not recommended to keep videos in your code repository.
+
+![Vimeo video example](/uploads/images/vimeo_src_example.png)
+
+* Once you have the _source_ of a video, use the code below as a template:
+
+```
+{% raw %}
+  {% 
+    include video.html
+    src="https://player.vimeo.com/video/379509939"
+    title="Tensors & Operators -- James B. Wilson"
+    desc="Introduction to Tensors, Tensor Spaces, and Transverse Operators. TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-BY 2019 James B. Wilson"
+  %}
+{% endraw %}
+```
+
+...which will result in the following output:
+
+{% 
+  include video.html
+  src="https://player.vimeo.com/video/379509939"
+  title="Tensors & Operators -- James B. Wilson"
+  desc="Introduction to Tensors, Tensor Spaces, and Transverse Operators. TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-BY 2019 James B. Wilson"
+%}
 
 ### Documentation
-The rest of the documentation can be found at...
+A full list of documentation for the site can be found on the [documentation page](/docs/Tensors).
 
 ### Additional questions?
-If you have additional questions...
+If you have additional questions, feel free to reach out to a maintainer / contributor on the [contact page](/contact).
