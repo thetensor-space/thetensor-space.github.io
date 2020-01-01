@@ -1,0 +1,12 @@
+<div class="uk-child-width-1-{{ columns }}@m uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid data-uk-lightbox>
+  <div>
+      <div class="uk-card uk-card-default uk-box-shadow-small uk-box-shadow-hover-medium uk-card-body uk-inline border-radius-large border-xlight">
+          <a class="uk-position-cover" href="{{ include.src }}" data-caption="{{ include.title }}" style="border-bottom: 0"></a>
+          <span data-uk-icon="icon: play-circle; ratio: 3.4" class=""></span>
+          <h3 class="uk-card-title uk-margin">{{ include.title }}</h3>
+          {% if include.desc %}
+          <p>{{ include.desc }}</p>
+          {% endif %}
+      </div>
+  </div>
+</div>

@@ -3,11 +3,11 @@
 - title: Home
   url: /
 
-- title: Articles
-  url: /articles/
-
 - title: Events
   url: /events/
+
+- title: Articles
+  url: /articles/
 
 - title: Software / Tools
   url: /softwaretools

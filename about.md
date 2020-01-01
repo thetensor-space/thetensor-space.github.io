@@ -25,17 +25,21 @@ here and at our GitHub website [thetensor-space.github.io](https://thetensor-spa
 Portions of `TheTensor.Space` were developed and supported by the following universities and research institutions...
  
  <div class="custom-image-row">
-  <img alt="Bucknell University" src="/uploads/images/logo_bucknell_university.png"/>
-  
-  <img alt="The Colorado State University" src="/uploads/images/CSU-logo.png"/>
-
-  <img alt="The University of Auckland" src="https://cdn.auckland.ac.nz/assets/central/central-services/mediaandmarketing/uoa-logos-2015/uoa-logo-2015-reverse.png"/>
-
-  <img alt="Kent State University" style="border-width:0" src="/uploads/images/kent-state.png"/>
+  <img alt="National Security Agency" src="/uploads/images/logo_nsa.png"/>
 
   <img alt="National Science Foundation USA" src="/uploads/images/nsf1.jpg"/>
 
-  <img alt="University Bielefeld" src="/uploads/images/logo_uni_bielefeld.jpg"/>
+  <img alt="The Colorado State University" src="/uploads/images/logo_csu_ram.jpg"/>
+
+  <img alt="Kent State University" src="/uploads/images/logo_kent_state_university.jpg"/>
+
+  <img alt="The University of Auckland" src="https://cdn.auckland.ac.nz/assets/central/central-services/mediaandmarketing/uoa-logos-2015/uoa-logo-2015-reverse.png"/>
+
+  <img alt="Bucknell University" src="/uploads/images/logo_bucknell_university.png"/>
+
+  <img alt="University Bielefeld" src="/uploads/images/logo_bielefeld_university.jpg"/>
+
+  <img alt="Simons Foundation" src="/uploads/images/logo_simons_foundation.png"/>
 
   <img alt="Hausdorff Institute For Mathematics" src="/uploads/images/logo_him.gif">
 
@@ -45,6 +49,12 @@ We also acknowledge the partial support by the following granting organizations 
  * Portions of the project sponsored by the _[National Science Foundation (USA)](https://www.nsf.gov/about/)_ grant DMS-1620454 to Peter A. Brooksbank and James B. Wilson
 * Portions of the project sponsored by _[The Simons Foundation](https://www.simonsfoundation.org/)_ to Peter A. Brooksbank.
 * Portions of the project sponsored by the _[National Security Agency](https://www.nsa.gov/What-We-Do/Research/Math-Sciences-Program/)_ under Grant Number H98230-11-1-0146 to Peter A. Brooksbank.
+
+## Report an issue / Contributing
+
+* [Create an issue on GitHub](https://github.com/thetensor-space/thetensor-space.github.io/issues/new) for typos, bugs, incorrect information, etc. and our contributors will get to it asap.
+* [See our contributing guide](/articles/example-post/#how-to-contribute) for instructions on how to contribute.
+* [Contact us](/contact) for any other questions.
 
 ## Copyrights and Licenses 
 
