@@ -56,7 +56,6 @@ $$
 ...Which results in the following output:
 
 _Today we'll go over the Pythagorean Theorem..._
-$$a^{2}
 
 
 $$
