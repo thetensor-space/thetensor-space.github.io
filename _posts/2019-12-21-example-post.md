@@ -49,17 +49,18 @@ Use [KaTex](https://katex.org/docs/supported.html) to draw Math formulas directl
 _Today we'll go over the Pythagorean Theorem..._
 
 $$
-a^{2} = b^{2} c^{2}
+a^{2} + b^{2} = c^{2}
 $$
 ```
 
 ...Which results in the following output:
 
 _Today we'll go over the Pythagorean Theorem..._
+$$a^{2}
 
 
 $$
-a^{2} = b^{2} + c^{2}
+a^{2} + b^{2} = c^{2}
 $$
 
 ## Add a Video
