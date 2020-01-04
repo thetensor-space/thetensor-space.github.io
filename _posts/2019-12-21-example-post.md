@@ -6,7 +6,7 @@ title:  Post Template
 
 ## Contents
 * [Create an Article, Event, or other post](#create-post)
-* [Use Katex](#use-katex)
+* [Use Mathjax](#use-katex)
 * [Add a Video](#add-video)
 * [Add a image](#add-image)
 * [Edit a non-post page](#edit-page)
