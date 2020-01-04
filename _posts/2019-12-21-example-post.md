@@ -6,7 +6,7 @@ title:  Post Template
 
 ## Contents
 * [Create an Article, Event, or other post](#create-post)
-* [Use Mathjax](#use-katex)
+* [Use KaTex](#use-katex)
 * [Add a Video](#add-video)
 * [Add a image](#add-image)
 * [Edit a non-post page](#edit-page)
@@ -41,10 +41,10 @@ For example, this is how you create a new _post_ for the _Articles_ page:
 4. Confirm your article shows up on the site.
 
 
-## Use MathJax
+## Use KaTex
 <span id="use-katex"></span>
 
-Use [MathJax](http://docs.mathjax.org/en/latest/) to draw Math formulas directly in `Markdown`. Mathjax uses `LaTeX` and `TeX` macros to parse math formulas. [See the Katex docs](https://katex.org/docs/supported.html) for a full list of `LaTeX` and `TeX` macros. Although Katex and Mathjax are separate libraries, both accept the same input. Katex has better documentation on the list of `LaTeX` and `Tex` macros. Below is a simple example of using Katex:
+Use [KaTex](https://katex.org/docs/supported.html) to draw Math formulas directly in `Markdown`. KaTex uses `LaTeX` and `TeX` macros to parse math formulas. [See the Katex docs](https://katex.org/docs/supported.html) for a full list of `LaTeX` and `TeX` macros.B elow is a simple example of using Katex:
 ```
 _Today we'll go over the Pythagorean Theorem..._
 
