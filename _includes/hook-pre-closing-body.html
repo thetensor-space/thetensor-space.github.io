@@ -1,0 +1,44 @@
+<script>
+  const getAllScripts = () => {
+    return document.getElementsByTagName("script");
+  }
+
+  const isInlineMathJaxScript = (script) => {
+    return script.type === "math/tex";
+  }
+
+  const isDisplayMathJaxScript = (script) => {
+    return script.type === "math/tex; mode=display";
+  }
+
+  const renderInlineKatex = (script, tex) => {
+    let elem = document.createElement('div');
+    script.parentNode.insertBefore(elem, script.nextSibling);
+
+    katex.render(tex, elem);
+  }
+
+  const renderDisplayKatex = (script, tex) => {
+    let elem = document.createElement('div');
+    script.parentNode.insertBefore(elem, script.nextSibling);
+
+    katex.render(tex, elem, { displayMode: true });
+  }
+
+  const mathJaxToKatex = () => {
+    const scripts = getAllScripts();
+
+    for (const script of scripts) {
+
+      if (isInlineMathJaxScript(script)) {
+        renderInlineKatex(script, script.innerHTML);
+      }
+
+      if (isDisplayMathJaxScript(script)) {
+        renderDisplayKatex(script, script.innerHTML);
+      }
+    }
+  }
+
+  mathJaxToKatex();
+</script>

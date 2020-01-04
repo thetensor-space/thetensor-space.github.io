@@ -51,6 +51,12 @@ _Today we'll go over the Pythagorean Theorem..._
 $$
 a^{2} + b^{2} = c^{2}
 $$
+
+# Inline mode:
+
+\$$
+a^{2} + b^{2} = c^{2}  
+$$
 ```
 
 ...Which results in the following output:
@@ -60,6 +66,10 @@ _Today we'll go over the Pythagorean Theorem..._
 
 $$
 a^{2} + b^{2} = c^{2}
+$$
+
+\$$
+a^{2} + b^{2} = c^{2}  
 $$
 
 ## Add a Video
