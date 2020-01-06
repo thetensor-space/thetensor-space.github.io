@@ -54,9 +54,9 @@ $$
 
 # Inline mode:
 
-\$$
+$
 a^{2} + b^{2} = c^{2}  
-$$
+$
 ```
 
 ...Which results in the following output:
@@ -68,9 +68,9 @@ $$
 a^{2} + b^{2} = c^{2}
 $$
 
-\$$
-a^{2} + b^{2} = c^{2}  
-$$
+$
+a^{2} + b^{2} = c^{2}
+$
 
 ## Add a Video
 <span id="add-video"></span>
