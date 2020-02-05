@@ -6,7 +6,7 @@ title: Tensor & Operators
 categories: [ Workshops ]
 ---
 
-<img src="Act-2-live.gif"></img>
+![Tensors and Operators](/uploads/images/Act-2-live.gif)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />James B. Wilson</a>
