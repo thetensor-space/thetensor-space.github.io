@@ -6,7 +6,7 @@ title: Algebraic Methods for Tensor Equivalence I & II
 categories: [ Workshops ]
 ---
 
-![](/uploads/images/Brooksbank.jpg)
+![](/uploads/images/Brooksbank.png)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
