@@ -16,12 +16,12 @@ categories: [ Workshops ]
  {% 
     include video.html
     src="https://vimeo.com/379509939"
-    title="Tensors & Operators -- James B. Wilson"
-    desc="Introduction to Tensors, Tensor Spaces, and Transverse Operators. TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-BY 2019 James B. Wilson"
+    title="Tensor Types & Categories -- James B. Wilson"
+    desc="Primitive types and categories for tensors. TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-BY 2019 James B. Wilson"
   %}
 
 Follow along with the slides at your own pace
-[Slides](https://slides.com/jameswilson-3/tensors-operators)
+[Slides](https://slides.com/jameswilson-3/tensor-types-cats)
 
 
 <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
