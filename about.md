@@ -14,7 +14,7 @@ packages we are dedicated to find the most efficient algorithms,
 transparent and flexible data structures, and expressive language
 to smooth out the complexities of multilinear algebra.  As a research
 group we are willing to throw out whats working and build an entirely 
-new appraoch (but we cache the history so lessons don't get lost!).  
+new approach (but we cache the history so lessons don't get lost!).  
 So look for changes, and suggest any you think we should try.
 
 You can find the source code for our projects and a list of ongoing and future plans
@@ -43,15 +43,16 @@ Portions of `TheTensor.Space` were developed and supported by the following univ
 
   <img alt="Hausdorff Institute For Mathematics" src="/uploads/images/logo_him.gif">
 
+  <img alt="Isaac Newton Institute" src="https://www.newton.ac.uk/sites/all/themes/newton/logo.png">
 </div>
 
 We also acknowledge the partial support by the following granting organizations over the years.
  * Portions of the project sponsored by the _[National Science Foundation (USA)](https://www.nsf.gov/about/)_ grant DMS-1620454 to Peter A. Brooksbank and James B. Wilson
-* Portions of the project sponsored by _[The Simons Foundation](https://www.simonsfoundation.org/)_ to Peter A. Brooksbank.
+* Portions of the project sponsored by _[The Simons Foundation](https://www.simonsfoundation.org/)_ to Peter A. Brooksbank and to James B. Wilson.
 * Portions of the project sponsored by the _[National Security Agency](https://www.nsa.gov/What-We-Do/Research/Math-Sciences-Program/)_ under Grant Number H98230-11-1-0146 to Peter A. Brooksbank.
 
 ## Copyrights and Licenses 
 
-We do our best to honor copyrights, trademarks, and licenses, and we ask you do the same.  This work has been supported by an international mix of researchers, universities, and government grants.  So we see everything here has already been paid for by the public.  So we distribute our softward as open source (under the MIT License) and the content of our post under Creative Commons CC-BY-2016-2019 TheTensor.Space.
+We do our best to honor copyrights, trademarks, and licenses, and we ask you do the same.  This work has been supported by an international mix of researchers, universities, and government grants.  So we see everything here has already been paid for by the public.  So we distribute our software as open source (under the MIT License) and the content of our post under Creative Commons CC-BY-2016-2020 TheTensor.Space.
 
 Individual contributors can optionally list there work under different terms but we ask that those be kept to your own private repositories to avoid confusion.  We reserve the right to remove content contributed which cannot comply with our OpenSource terms.
