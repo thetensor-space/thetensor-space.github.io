@@ -1,16 +1,20 @@
 ---
 # Uses this html: "_layout/post.html" as a template.
 layout: post 
-title: Tensor & Operators
+title: Tensor Types & Categories
 # (Optional) Used to sort posts, not supported as of writing this.
 categories: [ Workshops ]
 ---
 
-
+![](/uploads/images/Abacus-Tensor-2D.gif)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />James B. Wilson</a>
 
 
+**Speaker:** <a href="https://www.math.colostate.edu/~jwilson/">James B. Wilson</a>, CSU
+
+**Abstract:** Computing with tensors can consume a lot of resources so it makes sense to consider both low-level tools and high-level abstractions.
+This talk surveys data types and categories for tensors.
 
 
  {% 
