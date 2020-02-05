@@ -19,7 +19,7 @@ This talk surveys data types and categories for tensors.
 
  {% 
     include video.html
-    src="https://vimeo.com/379509939"
+    src="https://vimeo.com/389555914"
     title="Tensor Types & Categories -- James B. Wilson"
     desc="Primitive types and categories for tensors. TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-BY 2019 James B. Wilson"
   %}
