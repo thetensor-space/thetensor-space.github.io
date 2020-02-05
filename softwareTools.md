@@ -4,14 +4,11 @@ title:  Software / Tools
 categories: [ Tools ]
 permalink: /softwaretools
 ---
-Read about our software and tools:
+Learn more about our software and tools:
 
-[TensorSpace](/blog/TensorSpace)
+<div id="software_and_tools">
+  Loading Software and Tools...
+</div>
 
-[Sylver](/blog/Sylver)
-
-[Densor](/blog/Densor)
-
-[StarAlge](https://github.com/thetensor-space/StarAlge)
-
-[TameGenus](/blog/TameGenus)
+<script src="/uploads/js/axios.min.js"></script>
+<script src="/uploads/js/getReposAndDisplay.js"></script>
