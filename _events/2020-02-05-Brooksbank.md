@@ -31,7 +31,7 @@ Among the objectives of the mini-course are the following:
     include video.html
     src="https://vimeo.com/389586020"
     title="Algebraic Method for Tensor Equivalence I"
-    desc="TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-ND 2019 Joshua Grochow."
+    desc="TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-ND 2019 Peter Brooksbank."
   %}
 
 
@@ -41,7 +41,7 @@ The second lecture will be about what tensors can tell us about computational co
     include video.html
     src="https://vimeo.com/389586173"
     title="Algebraic Method for Tensor Equivalence II"
-    desc="TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-ND 2019 Joshua Grochow."
+    desc="TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-ND 2019 Peter Brooksbank."
   %}
 
 
