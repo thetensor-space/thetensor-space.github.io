@@ -110,8 +110,9 @@ paginate_path:      "/articles/:title/"
 uploads:            /uploads/
 
 # Build settings
+markdown: kramdown
 kramdown:
-  math_engine: nil
+  math_engine: mathjax
 
 highlighter:        rouge
 
@@ -130,9 +131,6 @@ sass:
 
 # Set permalinks and other values per collection
 collections:
-  packages:
-    output:         true
-    permalink: /:collection/:title/releases/latest
   events:
     output:         true
     permalink: /:collection/:title

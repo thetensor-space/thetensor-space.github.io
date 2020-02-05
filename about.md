@@ -51,6 +51,12 @@ We also acknowledge the partial support by the following granting organizations 
 * Portions of the project sponsored by _[The Simons Foundation](https://www.simonsfoundation.org/)_ to Peter A. Brooksbank and to James B. Wilson.
 * Portions of the project sponsored by the _[National Security Agency](https://www.nsa.gov/What-We-Do/Research/Math-Sciences-Program/)_ under Grant Number H98230-11-1-0146 to Peter A. Brooksbank.
 
+## Report an issue / Contributing
+
+* [Create an issue on GitHub](https://github.com/thetensor-space/thetensor-space.github.io/issues/new) for typos, bugs, incorrect information, etc. and our contributors will get to it asap.
+* [See our contributing guide](/articles/example-post/#how-to-contribute) for instructions on how to contribute.
+* [Contact us](/contact) for any other questions.
+
 ## Copyrights and Licenses 
 
 We do our best to honor copyrights, trademarks, and licenses, and we ask you do the same.  This work has been supported by an international mix of researchers, universities, and government grants.  So we see everything here has already been paid for by the public.  So we distribute our software as open source (under the MIT License) and the content of our post under Creative Commons CC-BY-2016-2020 TheTensor.Space.
