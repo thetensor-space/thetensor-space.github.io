@@ -12,7 +12,11 @@ categories: [ Workshops ]
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />James B. Wilson</a>
 
 
+**Speaker:** <a href="https://www.math.colostate.edu/~jwilson/">James B. Wilson</a>, Colorado State University
 
+**Abstract:** Concepts, examples, and notation of tensors can be quite varied, which presents a real barrier to communicating about problems and solutions regarding tensors.  Like vector spaces, **tensor spaces** make a uniform treatment possible without overriding any existing interpretation of individual tensors.  This bridges talk about tensors between varied disciplines. 
+
+---
 
  {% 
     include video.html
