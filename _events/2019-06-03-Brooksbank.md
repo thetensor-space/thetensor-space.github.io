@@ -9,12 +9,12 @@ categories: [ Workshops ]
 ![](/uploads/images/Brooksbank.png)
 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">
 <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" />
 Peter Brooksbank
 </a>
 
-**Speaker:** <a href="https://www.bucknell.edu/academics/arts-and-sciences-college-of/academic-departments-and-programs/mathematics/faculty-and-staff/peter-brooksbank">Peter Brooksbank</a>, Bucknell
+**Speaker:** <a href="https://www.bucknell.edu/academics/arts-and-sciences-college-of/academic-departments-and-programs/mathematics/faculty-and-staff/peter-brooksbank", target="_blank">Peter Brooksbank</a>, Bucknell
 
 **Abstract:** The purpose of this mini-course is to introduce algebraic tools that help to elucidate the structure of tensors. The focus will be on tensors of valence 2, or bilinear maps as they are also known. The main objects of study will be rings of matrices associated to a bilinear map that are invariant under isomorphism. These include commutative rings (centroids), rings with involution  (adjoints), and Lie rings (derivations).
 
@@ -45,4 +45,4 @@ The second lecture will be about what tensors can tell us about computational co
   %}
 
 
-<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
