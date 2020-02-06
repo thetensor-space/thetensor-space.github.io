@@ -14,7 +14,7 @@ categories: [ Workshops ]
 Peter Brooksbank
 </a>
 
-**Speaker:** <a href="https://www.bucknell.edu/academics/arts-and-sciences-college-of/academic-departments-and-programs/mathematics/faculty-and-staff/peter-brooksbank", target="_blank">Peter Brooksbank</a>, Bucknell
+**Speaker:** <a href="https://www.bucknell.edu/academics/arts-and-sciences-college-of/academic-departments-and-programs/mathematics/faculty-and-staff/peter-brooksbank" target="_blank">Peter Brooksbank</a>, Bucknell
 
 **Abstract:** The purpose of this mini-course is to introduce algebraic tools that help to elucidate the structure of tensors. The focus will be on tensors of valence 2, or bilinear maps as they are also known. The main objects of study will be rings of matrices associated to a bilinear map that are invariant under isomorphism. These include commutative rings (centroids), rings with involution  (adjoints), and Lie rings (derivations).
 
