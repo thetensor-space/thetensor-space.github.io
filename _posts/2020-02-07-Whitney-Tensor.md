@@ -54,15 +54,15 @@ v_2\otimes (\alpha v_1) = \alpha(v_2\otimes v_1) = (\alpha v_2)\otimes v_1.
 $$
 In fact these three observation could be taken together are called _bilinear_.  As an abstract definition of a tensor product.
 
-**Theorem (Universal Mapping Property)** If $*:\mathbb{R}^{d_2}\times \mathbb{R}^{d_1}\rightarrowtail \mathbb{R}^{d_0}$ is distributive ($\mathbb{R}$-bilinear) then there is a linear map $\hat{*}:\mathbb{M}_{d_2\times d_1}(\mathbb{R})\to \mathbb{R}^{d_0}$ such that
+**Theorem (Universal Mapping Property)** If $\circ:\mathbb{R}^{d_2}\times \mathbb{R}^{d_1}\rightarrowtail \mathbb{R}^{d_0}$ is distributive ($\mathbb{R}$-bilinear) then there is a linear map $\hat{\circ}:\mathbb{M}_{d_2\times d_1}(\mathbb{R})\to \mathbb{R}^{d_0}$ such that
 $$
-v_2*v_1 = \hat{*}(v_2\otimes v_1).
+v_2\circ v_1 = \hat{*}(v_2\otimes v_1).
 $$
 Proof. Let $\{e_1,\ldots,e_{d_2}\}$ be a basis of $\mathbb{R}^{d_2}$ and $\{f_1,\ldots,f_{d_1}\}$ be a basis of $\mathbb{R}^{d_1}$.  Then 
 $$
-\hat{*}(e_i\otimes f_j) = \hat{*}(E_{ij}) := e_i* f_j.
+\hat{\circ}(e_i\otimes f_j) = \hat{\circ}(E_{ij}) := e_i\circ f_j.
 $$
-Here $E_{ij}$ is the $(d_2\times d_1)$-matrix with zero every except at $ij$ where it is $1$.  Evidently $\{E_{ij}\}$ is a basis of $\mathbb{M}_{d_2\times d_1}(\mathbb{R})$ so we have defined $\hat{*}$ on a basis. $\Box$
+Here $E_{ij}$ is the $(d_2\times d_1)$-matrix with zero every except at $ij$ where it is $1$.  Evidently $\{E_{ij}\}$ is a basis of $\mathbb{M}_{d_2\times d_1}(\mathbb{R})$ so we have defined $\hat{\circ}$ on a basis. $\Box$
 
 **Remark.** For those in the know: we haven't avoided free modules. We still use a basis, but we haven't needed to add in additional relations such as $(v_2+v'_2,v_1)-(v_2,v_1)-(v'_2,v_1)$ and others in order to create $V_2\otimes V_1$.  Matrices already include the necessary relations.  If it seems this is a trick solely possible for fields then take a look at our later section.
 
