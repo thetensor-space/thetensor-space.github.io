@@ -13,42 +13,62 @@ categories: [ Articles ]
 
 ---
 
-Many of us might believe the following advice...
-> "To be ready an undergraduate in math must understand a coset.  Likewise a graduate student will only be ready when they understand a tensor prdouct."  
+> An undergraduate is prepared when he or she understands a coset.  
+> A graduate student is prepared when he or she understand a tensor product.
 >
-> -- Alexander Kleshchev, Remarks to Graduate Algebra students 2002.
+> -- Alexander Kleshchev, shared in jest.
 
-This is an article for anyone who didn't make it to this standard but still wants to know want a tensor product.
+So is it true that tensor products are graduate work?  Maybe if we insist on teaching it the way Whitney introduced it.  But what follows is a low-tech matrix based definition that can be given in an undergraduate linear algebra course.  Keep in mind that today many industries use tensors much earlier in careers than ever before.  So even if this effort does not meet your standards it is worth making some effort to simplify.
 
-
-
-You can open nearly any graduate text on abstract algebra and find a careful retelling of Whitney's tensor product $U\otimes V$.  Most of that could never be programmed and it is a bit much for you standard undergraduate or interested computer scie  This article is meant for anyone 
-
-The concept of $U\otimes V$ can be found in most graduate textbooks on a abstract algebra because its definition seems to depend on abstractions such a free modules and universal mapping properties which are not yet standard to undergraduate context.  However, tensors are appearing in applications of data science and physics that apply to those not pursuing graduate mathematics.  What follows is a definition of $U\otimes V$ accessible with the tools of linear algebra alone.  Near the end we develop generalizations and show we can recover the now established definition with coordinates.
+If you never understood a tensor product this article is for you.  If you already know what a tensor is and you have to teach someone else, then this article is also for you.  Last, if you ever plan to calculate with tensors than our coordinate based version is for you.
 
 ### The tensor product with coordinates
 
-Let $K$ be the coefficients of our tensor.  These are often inside a field but the integers and other coefficients can be used as well.  Let use assume $K^a$ is a list (a row) vector and $v^{\top}$ denote a transpose.
+Let $\mathbb{R}$ be the coefficients of our tensor -- if you know of other commutative rings use whatever you like here. Let us assume $\mathbb{R}^a$ is a list (a row) vector and $v^{\top}$ denote a transpose.
 
 $$
-\otimes:K^{d_2}\times K^{d_1}\rightarrowtail M_{d_2\times d_1}(K)
+\otimes:\mathbb{R}^{d_2}\times \mathbb{R}^{d_1}\rightarrowtail \mathbb{M}_{d_2\times d_1}(\mathbb{R})
 \qquad
-v\otimes u := v^{\top}u.
+v_2\otimes v_1 := v_2^{\top}v_1.
 $$
-This a distributive product as the following illustration demonstrates.
 
-![](/uploads/images/Tensor-Product-Def-2d.gif)
+![](/uploads/images/Tensor-Product-Def-2D.gif)
 
-
-
-**Observation.** Every matrix $v^{\top}u$ is a matrix of rank $1$, for example with $v=(1,7)$ and $u=(1,2,3)$
+For example with $v_1=(1,7)$ and $v_1=(1,2,3)$ we get
 $$
-v\otimes u = \begin{bmatrix}
+v_2\otimes v_1 = \begin{bmatrix} 1 \\ 7\end{bmatrix}\begin{bmatrix}1 & 2 & 3\end{bmatrix}=\begin{bmatrix}
 1 & 2 & 3\\
 7 & 14 & 21
-\end{bmatrix}
+\end{bmatrix}.
 $$
-If we row reduce we are in a sense mapping $(1,7)\mapsto e_1^{(2)}=(1,0)$ and indeed the above matrix is row-reduced to:
+What is $\rightarrowtail$?  It special notation for the distributive property.
+
+**Observation 1.** This is a distributive product.
+$$
+v_2\otimes (v_1+v'_1) = v_2^{\top}(v_1+v'_1) =v_2^{\top}v_1+v_2^{\top}v'_1
+=v_2\otimes v_1+v_2\otimes v'_1.
+$$
+Likewise on the left.  It is also linear in the left, and the right variable in the following sense:
+$$
+v_2\otimes (\alpha v_1) = \alpha(v_2\otimes v_1) = (\alpha v_2)\otimes v_1.
+$$
+In fact these three observation could be taken together are called _bilinear_.  As an abstract definition of a tensor product.
+
+**Theorem (Universal Mapping Property)** If $*:\mathbb{R}^{d_2}\times \mathbb{R}^{d_1}\rightarrowtail \mathbb{R}^{d_0}$ is distributive ($\mathbb{R}$-bilinear) then there is a linear map $\hat{*}:\mathbb{M}_{d_2\times d_1}(\mathbb{R})\to \mathbb{R}^{d_0}$ such that
+$$
+v_2*v_1 = \hat{*}(v_2\otimes v_1).
+$$
+Proof. Let $\{e_1,\ldots,e_{d_2}\}$ be a basis of $\mathbb{R}^{d_2}$ and $\{f_1,\ldots,f_{d_1}\}$ be a basis of $\mathbb{R}^{d_1}$.  Then 
+$$
+\hat{*}(e_i\otimes f_j) = \hat{*}(E_{ij}) := e_i* f_j.
+$$
+Here $E_{ij}$ is the $(d_2\times d_1)$-matrix with zero every except at $ij$ where it is $1$.  Evidently $\{E_{ij}\}$ is a basis of $\mathbb{M}_{d_2\times d_1}(\mathbb{R})$ so we have defined $\hat{*}$ on a basis. $\Box$
+
+**Remark.** For those in the know: we haven't avoided free modules. We still use a basis, but we haven't needed to add in additional relations such as $(v_2+v'_2,v_1)-(v_2,v_1)-(v'_2,v_1)$ and others in order to create $V_2\otimes V_1$.  Matrices already include the necessary relations.  If it seems this is a trick solely possible for fields then take a look at our later section.
+
+**Observation 2.** 
+
+No matter what you pick, $v_2\otimes v_1$ is a matrix of rank 1.  If we row reduce we are in a sense mapping $(1,7)\mapsto e_1^{(2)}=(1,0)$ and indeed the above matrix is row-reduced to:
 $$
 \begin{bmatrix}
 1 & 2 & 3\\
@@ -69,7 +89,87 @@ $$
 0 & 0 & 0 
 \end{bmatrix}
 $$
-In the literature these tensors are called **simple tensors** or **pure tensors**.  This is a bit unfortunate as it has stunted the growth of tensor concepts from the algebriac perspective.  In particular the words "simple" and "pure" do not hint at the concept of rank 2, rank 3, etc. tensors.  Speaking of **rank 1 tensors** not only connects to the a familiar coordinate concept it hints at an entire hierarchy of tensor complexity.
+In the algebraic literature tensors $v_2\otimes v_1$ are called various things include **simple tensors** or **pure tensors**.  It is a pity.  When we recognize this as rank, rank of a matrix, we recognize that simple tensors are just the bottom of a hierarchy of types of tensors.  Also it makes it clear we can compute this number and it helps us instantly see the dimension and a basis of a tensor product.
+
+---
+
+
+That is it.  We have made a tensor product of two vector spaces.  Some call this an _outer product_ but _tensor product_ really is the right name in general.
+
+### Tensor products with relations.
+
+This was almost too easy.  Why don't we try something a bit harder.  For example lets assume an audience now that knows of quotients, for example $\mathbb{Z}/12=\{0,1,2,\ldots,11\}$, i.e.: the time of day which is cyclical and resets every 12 hours, and letting $0$ be $12$. The let us make more creative lists of vectors (modules technically).
+$$
+\begin{aligned}
+V_2 & = \mathbb{Z}/3\oplus\mathbb{Z}/6\\
+V_1 & = \mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/12.
+\end{aligned}
+$$
+How should we form $V_2\otimes V_1$?  Again matrices suffice, but we have to fold in the concept of an **ideal**.
+
+First lets write out the above quotients in detail with exact sequences.
+$$
+0\to  \{(3a,6b)\mid a,b\in \mathbb{Z}\}  \longrightarrow  \mathbb{Z}\oplus\mathbb{Z}\longrightarrow  V_1\to 0
+$$
+$$
+0\to \{(2a,6b,12c)\mid a,b,c\in \mathbb{Z}\} \longrightarrow \mathbb{Z}\oplus\mathbb{Z}\oplus\mathbb{Z} \longrightarrow  V_2 \to 0
+$$
+Vertically we take the tensor product of the $\mathbb{Z}$'s creating
+$$
+\otimes : \mathbb{Z}^{\oplus 2}\times \mathbb{Z}^{\oplus 3}\rightarrowtail \mathbb{M}_{2\times 3}(\mathbb{Z}).
+$$
+This is a distributive product, and to make quotients of distributive products we need ideals.  Ideals are subspaces that absorb products on the right, such as
+$$
+\begin{aligned}
+R & := \{(3a,6b)\mid a,b\in \mathbb{Z}\}\otimes \mathbb{Z}^{\oplus 3}\\
+& = \left\{\begin{bmatrix}
+3a & 3b & 3c\\
+6d & 6e & 6 f
+\end{bmatrix}\middle| a,b,c,d,e,f\in \mathbb{Z}\right\}
+\end{aligned}
+$$
+left ideals absorb products on the left
+$$
+\begin{aligned}
+L & := \mathbb{Z}^{\oplus 2}\otimes \{(2a,6b,12c)\mid a,b,c\in \mathbb{Z}\}\\
+& = \left\{\begin{bmatrix}
+2a & 6b & 12c\\
+2d & 6e & 12 f
+\end{bmatrix}\middle| a,b,c,d,e,f\in \mathbb{Z}\right\}
+\end{aligned}
+$$
+So to make 2-sided ideal we add these together:
+$$
+I := R+L
+= \left\{\begin{bmatrix}
+1a & 3b & 3c\\
+2d & 6e & 6 f
+\end{bmatrix}\middle| a,b,c,d,e,f\in \mathbb{Z}\right\}
+$$
+
+**Definition.**
+$$
+\begin{aligned}
+V_2\otimes V_1 & = \mathbb{M}_{2\times 3}(\mathbb{Z})/I
+& =\begin{bmatrix}
+\mathbb{Z}/1 & \mathbb{Z}/3 & \mathbb{Z}/3\\
+\mathbb{Z}/2 & \mathbb{Z}/6 & \mathbb{Z}/6\\
+\end{bmatrix}
+\end{aligned}
+$$
+
+Some may wish to check this against other treatments.
+$$
+\begin{aligned}
+(\mathbb{Z}/3\oplus \mathbb{Z}/6)&\otimes (\mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/12) \\
+& =(\mathbb{Z}/3\otimes (\mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/12))\oplus (\mathbb{Z}/6\otimes (\mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/12))\\
+& =(\mathbb{Z}/1\oplus \mathbb{Z}/3\oplus \mathbb{Z}/3)\oplus (\mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/6).
+\end{aligned}
+$$
+For those who know what to expect, we get what we expect.  And again we
+have not had to begin with the free module $\mathbb{Z}[V_2\times V_1]$ and throw in an enormous number of relations.  In fact the matrix model we have used is an ideal choice for computation.
+
+
 
 ### Tensor products with many spaces
 
@@ -130,12 +230,8 @@ $$
 
 For a ternary tensor product we use three rows, etc.  
 
-
-### Universal Mapping Properties
-
-
 ### What is gained by Whitney's original definition?
 
 The coordinate method of tensor products is amenable to calculations and builds on somewhat simple concepts such as matrices and arrays.  Whether or not it is the right place to start is a matter of pedagogical debate and background.  So what do we gain by investing in Whitney's definition?
 
-Whitney's tensor products are sophisticated coordinate free constructions.  They rely on concepts such as universal mapping properties which are often pedagogical goals in their own right.Above all, Whitney's definition is by now well-known and part of the essential history of the topic.  
+Whitney's tensor products are sophisticated coordinate free constructions.  They rely on concepts such as universal mapping properties which are often pedagogical goals in their own right.  Above all, Whitney's definition is by now well-known and part of the essential history of the topic.  
