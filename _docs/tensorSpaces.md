@@ -9,7 +9,16 @@ author: james
 ### What is a Tensor Space?
 
 
-We can define a tensor space.  
+The context is that we have a fixed commutative ring $K$ of coefficients, often a field or the integers.  We also have $K$-modules $V_0,\ldots,V_{\ell}$.  We define the space of multilinear maps recursively
+$$
+\begin{aligned}
+V_0\oslash V_1 & = \hom_K(V_1,V_0)=\{\langle f|:V_1\to V_0\textnormal{ linear}\}\\
+V_0\oslash \cdots \oslash V_{\ell} & = (V_0\oslash\cdots \oslash V_{\ell-1})\oslash V_{\ell}
+\end{aligned}
+$$
+See [Tensors](Tensors) for a detailed walk through this notation and definitions.
+
+We can now define a tensor space.  
 
 >**Definition.** A vector space (or $K$-module) $T$ is a _tensor space_ when it is equipped with 
 > 1. A list $V_0,\ldots,V_\ell$ of vector spaces ($K$-modules) called the _(reference) frame_, and
@@ -49,7 +58,7 @@ So while often context is the guide, in strict terms a matrix is not a tensor un
 
 ## $\otimes$ for historical connection
 
-It would seem we have a grave omission, the tensor product symbol $\otimes$ has appeared nowhere.  This hallmark of tensors was introduced somewhat late in the game by Whitney in 1939.  We can reconcile it without definition.
+It would seem we have a grave omission, the tensor product symbol $\otimes$ has appeared nowhere.  This hallmark of tensors was introduced somewhat late in the game of tensors by Whitney in 1939.  We can reconcile it without definition.
 
 Recall that we have equated functions 
 $$
@@ -80,9 +89,10 @@ $$
 Thus we have been speaking of the  $(\otimes,\hom)$ adjunction.
 
 
-> History not-withstanding it should be observed that the definition of the Whitney tensor product usually assumes technology that cannot be explained solely on the level of linear maps and matrices.  It is for example typical to create the free-module with basis $V_2\times V_1$ and then quotient by relations to make for a bilinear map.  The use of iterated $\oslash$ is by contrast low-tech and accessible within the scope of basic linear algebra.  
+
+> History not-withstanding it should be observed that the definition of the Whitney tensor product usually assumes technology that cannot be explained solely on the level of linear maps and matrices.  Defining multilinear maps as recursive linear maps lets us define tensor spaces within the language of linear algebra alone.
 
 
-There is a lower-tech definition of Whitney's Tensor Product which can be found here: [The Whitney Tensor Product](Whitney-Tensor.md).
+There is a lower-tech definition of Whitney's Tensor Product which can be found here: [The Whitney Tensor Product](/articles/Whitney-Tensor.md).
 
 ---
