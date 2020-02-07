@@ -54,7 +54,11 @@ v_2\otimes (\alpha v_1) = \alpha(v_2\otimes v_1) = (\alpha v_2)\otimes v_1.
 $$
 In fact these three observation could be taken together are called _bilinear_.  As an abstract definition of a tensor product.
 
-**Theorem (Universal Mapping Property)** If $\circ:\mathbb{R}^{a}\times \mathbb{R}^{b}\rightarrowtail \mathbb{R}^{c}$ is distributive ($\mathbb{R}$-bilinear) then there is a linear map $\hat{\circ}: \mathbb{M}_{a\times b}(\mathbb{R})\to \mathbb{R}^{c}$ such that
+**Theorem (Universal Mapping Property)** If $\circ:\mathbb{R}^{a}\times \mathbb{R}^{b}\rightarrowtail \mathbb{R}^{c}$ is distributive ($\mathbb{R}$-bilinear) then there is a linear map 
+$$
+\hat{\circ}: \mathbb{M}_{a\times b}(\mathbb{R})\to \mathbb{R}^{c}
+$$ 
+such that
 $$
 v_2\circ v_1 = \hat{*}(v_2\otimes v_1).
 $$
