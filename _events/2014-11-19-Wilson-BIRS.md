@@ -1,0 +1,28 @@
+---
+# Uses this html: "_layout/post.html" as a template.
+layout: post 
+title: A new isomorphism test for groups
+# (Optional) Used to sort posts, not supported as of writing this.
+categories: [ Workshops, Isomorphism, Filters ]
+---
+
+![Tensors and Operators](/uploads/images/Wilson-BIRS-2014.png)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">
+<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" />
+James B. Wilson</a>
+
+
+<b>Title: A new isomorphism test for groups</b>
+
+**Speaker:** <a href="https://www.math.colostate.edu/~jwilson/" target="_blank">James B. Wilson</a>, Colorado State University
+
+---
+
+ {% 
+    include video.html
+    src="http://www.birs.ca/events/2014/5-day-workshops/14w5031/videos/watch/201411191030-Wilson.html?jwsource=cl"
+    title="A new isomorphism test for groups -- James B. Wilson"
+    desc="Creative Commons 2.0 CC-BY 2014 James B.Wilson."
+  %}
+
