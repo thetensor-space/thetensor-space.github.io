@@ -1,11 +1,15 @@
 ---
 # Uses this html: "_layout/post.html" as a template.
 layout: post 
-title:  Hamilton, Rici, and Whitney
+title:  Hamilton--Ricci--Whitney
 # (Optional) Used to sort posts, not supported as of writing this.
 categories: [ Articles ]
 ---
 
+
+| Era | 1840 | 1900 | 1940 | 1980 | 2020 |
+|---|---|---|---|---|---|
+| "Tensor" = |Lengths | Forms | Spaces | Grids | All of these? |
 
 ## From lengths to grids
 
