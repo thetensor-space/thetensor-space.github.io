@@ -45,9 +45,9 @@ $$
 $$
 
 For contextual brevity we let Greek fonts denote scalars and Roman fonts vectors.  We include this well-known concept mostly as excuse to demonstrate our Dirac notation.
-> Functions on vectors $\langle f~|~$ are read _"bra-f"_,
-> while vectors $~|u\rangle$ are read _"ket u"_.
-> These combine to make a "bra"c"ket" $\langle f|u\rangle$.
+> Functions on vectors $\langle f\mid$ are read _"bra-f"_,
+> while vectors $\mid u\rangle$ are read _"ket u"_.
+> These combine to make a "bra"c"ket" $\langle f\mid u\rangle$.
 
 Yes, this notation is a gimmick but it is memorable and adopted heavily in physics.  Having experimented with many alternative notations this notation appears the most light-weight for the calculus of tensors.  One critical difference is that we here are content to map into _any_ vector space $V_0$.  In physics one assumes $V_0=K$, in fact, one assumes $K=\mathbb{C}$.  We make no such conventions.
 
