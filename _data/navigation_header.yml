@@ -1,13 +1,13 @@
 # Navbar left menu navigation links
 
 left:
-  - title: Events
+  - title: Videos & Events
     url: /events/
 
   - title: Articles
     url: /articles/
   
-  - title: Software / Tools
+  - title: Software & Tools
     url: /softwaretools
 
   - title: About
