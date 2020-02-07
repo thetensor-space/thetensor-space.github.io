@@ -7,9 +7,9 @@ categories: [ Articles ]
 ---
 
 
-| Era | 1840 | 1900 | 1940 | 1980 | 2020 |
+| Era | 1860 | 1900 | 1940 | 1980 | 2020 |
 |---|---|---|---|---|---|
-| "Tensor" = |Lengths | Forms | Spaces | Grids | All of these? |
+| Tensors are ... |Lengths | Forms | Spaces | Grids | ...overdue for a theory? |
 
 ## From lengths to grids
 
