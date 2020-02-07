@@ -9,7 +9,8 @@ categories: [ Workshops ]
 ![Tensors and Operators](/uploads/images/Act-2-live.gif)
 
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />James B. Wilson</a>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /> </a>
+James B. Wilson
 
 
 **Speaker:** <a href="https://www.math.colostate.edu/~jwilson/" target="_blank">James B. Wilson</a>, Colorado State University
