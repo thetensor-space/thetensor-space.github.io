@@ -1,5 +1,6 @@
 - title: Tensors
   docs:
+  - tensors
   - tensorSpaces
   - tensorCategories
 - title: Algebras
