@@ -14,11 +14,10 @@ categories: [ Workshops, Isomorphism ]
 Peter Brooksbank
 </a>
 
----
 
  {% 
     include video.html
-    src="http://www.birs.ca/events/2014/5-day-workshops/14w5031/videos/watch/201411181504-Brooksbank.html?jwsource=cl"
+    src="http://www.birs.ca/events/2014/5-day-workshops/14w5031/videos/embed/201411181504-Brooksbank.mp4"
     title="Algebraic Method for Tensor Equivalence I"
     desc="For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-ND 2014 Peter Brooksbank."
   %}

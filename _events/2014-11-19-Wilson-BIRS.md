@@ -21,7 +21,7 @@ James B. Wilson</a>
 
  {% 
     include video.html
-    src="http://www.birs.ca/events/2014/5-day-workshops/14w5031/videos/watch/201411191030-Wilson.html?jwsource=cl"
+    src="http://www.birs.ca/events/2014/5-day-workshops/14w5031/videos/embed/201411191030-Wilson.mp4"
     title="A new isomorphism test for groups -- James B. Wilson"
     desc="Creative Commons 2.0 CC-BY 2014 James B.Wilson."
   %}
