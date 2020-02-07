@@ -47,9 +47,15 @@ Portions of `TheTensor.Space` were developed and supported by the following univ
 </div>
 
 We also acknowledge the partial support by the following granting organizations over the years.
- * Portions of the project sponsored by the _[National Science Foundation (USA)](https://www.nsf.gov/about/)_ grant DMS-1620454 to Peter A. Brooksbank and James B. Wilson
-* Portions of the project sponsored by _[The Simons Foundation](https://www.simonsfoundation.org/)_ to Peter A. Brooksbank and to James B. Wilson.
-* Portions of the project sponsored by the _[National Security Agency](https://www.nsa.gov/What-We-Do/Research/Math-Sciences-Program/)_ under Grant Number H98230-11-1-0146 to Peter A. Brooksbank.
+ * Portions of the project sponsored by the _[National Science Foundation (USA)](https://www.nsf.gov/about/)_ 
+    - to Peter A. Brooksbank (DMS-1620454)
+    - to James B. Wilson (DMS-1620454).
+* Portions of the project sponsored by _[The Simons Foundation](https://www.simonsfoundation.org/)_ 
+    - to Peter A. Brooksbank (281435)
+    - to James B. Wilson (636189).
+* Portions of the project sponsored by the _[National Security Agency](https://www.nsa.gov/What-We-Do/Research/Math-Sciences-Program/)_ 
+    - to Peter A. Brooksbank (Grant Number H98230-11-1-0146), 
+    - to James B. Wilson (Grant Number H98230-19-1-00).
 
 ## Report an issue / Contributing
 
