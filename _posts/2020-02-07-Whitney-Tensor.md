@@ -1,7 +1,7 @@
 ---
 # Uses this html: "_layout/post.html" as a template.
 layout: post 
-title:  The Whitney Tensor Product
+title:  Whitney Tensor Product $\otimes$ done different
 # (Optional) Used to sort posts, not supported as of writing this.
 categories: [ Articles ]
 ---
@@ -12,6 +12,17 @@ categories: [ Articles ]
 </p>
 
 ---
+
+Many of us might believe the following advice...
+> "To be ready an undergraduate in math must understand a coset.  Likewise a graduate student will only be ready when they understand a tensor prdouct."  
+>
+> -- Alexander Kleshchev, Remarks to Graduate Algebra students 2002.
+
+This is an article for anyone who didn't make it to this standard but still wants to know want a tensor product.
+
+
+
+You can open nearly any graduate text on abstract algebra and find a careful retelling of Whitney's tensor product $U\otimes V$.  Most of that could never be programmed and it is a bit much for you standard undergraduate or interested computer scie  This article is meant for anyone 
 
 The concept of $U\otimes V$ can be found in most graduate textbooks on a abstract algebra because its definition seems to depend on abstractions such a free modules and universal mapping properties which are not yet standard to undergraduate context.  However, tensors are appearing in applications of data science and physics that apply to those not pursuing graduate mathematics.  What follows is a definition of $U\otimes V$ accessible with the tools of linear algebra alone.  Near the end we develop generalizations and show we can recover the now established definition with coordinates.
 
