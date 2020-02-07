@@ -3,7 +3,7 @@ title: Tensor Categories
 subtitle:
 tags: []
 author: james
-------
+---
 
 
 ### What is a Tensor Category?
