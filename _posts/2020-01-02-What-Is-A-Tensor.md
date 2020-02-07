@@ -268,4 +268,4 @@ For those who benefit from larger backgrounds let us offer some warnings.
 
 > **To Category Theorist:** Tensor categories are not monoidal categories.  Monoidal categories study just the "free" tensor spaces $V_0\oslash \cdots \oslash V_{\ell}$ whereas tensor categories study all their subspaces, and do so from every possible co/contra-variant perspective.
 
-> **To Physicist:** We borrow practical tools like Dirac notation and tensor networks but we make no demands that coefficients be in complex.  We have no global Hermitian form on spaces in the frame and so spaces are not naturally identified with their duals by maps such as $|u\rangle\mapsto \langle u|$.  And $|u\rangle \langle u|$ is generally meaningless to a general tensor context.
+> **To Physicist:** We borrow practical tools like Dirac notation and tensor networks but we make no demands that coefficients be in complex.  We have no global Hermitian form on spaces in the frame and so spaces are not naturally identified with their duals by maps such as $\mid u\rangle\mapsto \langle u\mid$.  And $\mid u\rangle \langle u\mid$ is generally meaningless to a general tensor context.
