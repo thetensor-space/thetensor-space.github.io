@@ -1,7 +1,7 @@
 ---
 # Uses this html: "_layout/post.html" as a template.
 layout: post 
-title:  Hamilton--Ricci--Whitney
+title:  120 years of tensors
 # (Optional) Used to sort posts, not supported as of writing this.
 categories: [ Articles ]
 ---

@@ -14,7 +14,7 @@ A vector today is any element of a vector spaces.  That convention dissolved arg
 
 > A tensor is an element of a tensor space.
 
-This indirection gets around the problem of 150 years of evolution since Hamilton introduced the word "tensor" in his opus _Elements of Quaternions_.  In that work Hamilton also introduced us to the word "vector" and gave us the axioms of a vector space --- though it would take the evolution of Set Theory and universal algebra to make it the definition we now enjoy.  You can find the story of how we got from Hamilton's concept of tensor to todays meaning [here](articles/Hamitlon-Ricci-Whitney/).
+This indirection gets around the problem of 150 years of evolution since Hamilton introduced the word "tensor" in his opus _Elements of Quaternions_.  In that work Hamilton also introduced us to the word "vector" and gave us the axioms of a vector space --- though it would take the evolution of Set Theory and universal algebra to make it the definition we now enjoy.  You can find the story of how we got from Hamilton's concept of tensor to todays meaning [here](/articles/Hamitlon-Ricci-Whitney/).
 
 The scheme for defining tensors is thus to apply the rigorous axioms to a tensor _space_, then the actual objects we call tensors are free to take on diverse meanings.  Indeed in the literature one finds tensors of row vectors, matrices, lists of matrices, arrays, functions, differential operators, integrals, multiplication tables, algebras, modules, multilinear maps, curvatures, stress formulas, quantum entanglements, meta-data, big data, statistics, and more.  See the image above
 
