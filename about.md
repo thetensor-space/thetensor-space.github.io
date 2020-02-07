@@ -43,7 +43,7 @@ Portions of `TheTensor.Space` were developed and supported by the following univ
 
   <img alt="Hausdorff Institute For Mathematics" src="/uploads/images/logo_him.gif">
 
-  <img alt="Isaac Newton Institute" src="https://www.newton.ac.uk/sites/all/themes/newton/logo.png">
+  <img alt="Isaac Newton Institute" src="/uploads/images/INI-logo.png" style="background-color:green;">
 </div>
 
 We also acknowledge the partial support by the following granting organizations over the years.
