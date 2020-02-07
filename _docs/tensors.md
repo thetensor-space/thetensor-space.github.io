@@ -149,15 +149,3 @@ $$
 Her $\bar{a}$ means the complement of the index $a$ in $\{1,\ldots,\ell\}$.
 
 
----
-
-## Domain Specific Warnings 
-For those who benefit from larger backgrounds let us offer some warnings.
-
-> **To Algebraist:** Unlike vector spaces, indeed unlike most of algebra, tensor spaces have no a prior "natural" homomorphisms.  Instead, there are an exponential number of morphism families each as natural as the next and each found is as many applications as the next.  Just to emphasize the differences, some have cokernels, some do not.  
-
-> **To Geometers:** Our view of a tensors is not fixed to a single space $V$ repeated several times such as $V\otimes V\otimes V^*$.  We can involve arbitrary spaces and thus Levi-Civita index calculus is not generally adequate notation as we will be summing over different ranges.  In fact tensor contractions are on the whole not well-defined and require an imposed, perhaps unnatural, bilinear form.  Yet the spirit of these techniques survive as generalized notations often as functors.
-
-> **To Category Theorist:** Tensor categories are not monoidal categories.  Monoidal categories study just the "free" tensor spaces $V_0\oslash \cdots \oslash V_{\ell}$ whereas tensor categories study all their subspaces, and do so from every possible co/contra-variant perspective.
-
-> **To Physicist:** We borrow practical tools like Dirac notation and tensor networks but we make no demands that coefficients be in complex.  We have no global Hermitian form on spaces in the frame and so spaces are not naturally identified with their duals by maps such as $\mid u\rangle\mapsto \langle u\mid$.  And $\mid u\rangle \langle u\mid$ is generally meaningless to a general tensor context.
