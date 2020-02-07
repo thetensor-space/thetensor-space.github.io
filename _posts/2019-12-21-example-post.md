@@ -2,6 +2,7 @@
 # Uses this html: "_layout/post.html" as a template.
 layout: post 
 title:  Post Template
+tags: featured
 ---
 
 ## Contents
@@ -10,6 +11,7 @@ title:  Post Template
 * [Add a Video](#add-video)
 * [Add a image](#add-image)
 * [Edit a non-post page](#edit-page)
+* [Popular / Featured posts](#featured-posts)
 * [More Documentation](#more-docs)
 * [Contributing & run the site](#how-to-contribute)
 
@@ -127,6 +129,20 @@ Use the following markdown as a template to add an image to a post:
 <span id="edit-page"></span>
 
 All non-post pages are mostly located in the root directory. For example, _About_, _Home_, and _Contact_ pages can be found in the root directory as `about.md`, `index.md`, and `contact.md`.
+
+## Popular / Featured articles
+<span id="featured-posts"></span>
+
+To make a post a **featured** post and show up on the home page, add `tags: featured` to a post. For example:
+
+```
+---
+layout: post 
+title:  Post Template
+# The "featured" tag will make this post appear on the home page.
+tags: featured
+---
+```
 
 ## Documentation
 <span id="more-docs"></span>
