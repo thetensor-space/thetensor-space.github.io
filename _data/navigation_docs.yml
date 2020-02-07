@@ -3,6 +3,7 @@
   - tensors
   - tensorSpaces
   - tensorCategories
+  - contextSpecific
 - title: Algebras
   docs:
   - associativeAlgebras
