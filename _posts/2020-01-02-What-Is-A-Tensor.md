@@ -6,6 +6,7 @@ title:  What Is a Tensor? What is a Tensor Space?
 categories: [ Articles ]
 ---
 
+![](/uploads/images/tensor-mix.jpg)
 <p>
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/> James B. Wilson
 </p>
@@ -16,11 +17,9 @@ A vector today is any element of a vector spaces.  That convention dissolves arg
 
 This indirection gets around the problem of 150 years of evolution since Hamilton introduced the word "tensor" in his opus _Elements of Quaternions_.  In that work Hamilton also introduced us to the word "vector" and gave us the axioms of a vector space --- though it would take the evolution of Set Theory and universal algebra to make it the definition we now enjoy.  
 
-The scheme for defining tensors is thus to apply the rigorous axioms to a tensor _space_, then the actual objects we call tensors are free to take on diverse meanings.  Indeed in the literature one finds tensors of row vectors, matrices, lists of matrices, arrays, functions, differential operators, integrals, multiplication tables, algebras, modules, multilinear maps, curvatures, stress formulas, quantum entanglements, meta-data, big data, statistics, and more.  The formulations together give a picture of how varied the study of tensors can become.
+The scheme for defining tensors is thus to apply the rigorous axioms to a tensor _space_, then the actual objects we call tensors are free to take on diverse meanings.  Indeed in the literature one finds tensors of row vectors, matrices, lists of matrices, arrays, functions, differential operators, integrals, multiplication tables, algebras, modules, multilinear maps, curvatures, stress formulas, quantum entanglements, meta-data, big data, statistics, and more.  See the image above
 
-![Tensor Panoply](/uploads/images/tensor-mix.jpg)
-
-Just below we walk through all the ingredients but let us begin with the definition now even before we detail all the semantics so that the essentail words and the arc of the narrative come into focus.
+Below we walk through all the ingredients but let us begin with the definition now even before we detail all the semantics so that the essentail words and the arc of the narrative come into focus.
 
 > A _tensor space_ is a vector space $T$ equipped with a linear representation 
 $$
@@ -46,9 +45,9 @@ $$
 $$
 
 For contextual brevity we let Greek fonts denote scalars and Roman fonts vectors.  We include this well-known concept mostly as excuse to demonstrate our Dirac notation.
- * $\langle f|$ said _"bra-f"_,
- * $|u\rangle$ said _"ket u"_, combine to make
-  * a "bra"c"ket" $\langle f|u\rangle$.
+> Functions on vectors $\langle f|$ are read _"bra-f"_,
+> while vectors $|u\rangle$ are read _"ket u"_.
+> These combine to make a "bra"c"ket" $\langle f|u\rangle$.
 
 Yes, this notation is a gimmick but it is memorable and adopted heavily in physics.  Having experimented with many alternative notations this notation appears the most light-weight for the calculus of tensors.  One critical difference is that we here are content to map into _any_ vector space $V_0$.  In physics one assumes $V_0=K$, in fact, one assumes $K=\mathbb{C}$.  We make no such conventions.
 
@@ -62,18 +61,17 @@ Nothing is wrong with the use of $\hom$, except that it makes for extra-ordinari
 
 Since $V_0\oslash V_1$ is comprised of linear maps then 
 $$
-\begin{aligned}
-V_0\oslash V_1\oslash V_2 & := (V_0\oslash V_1)\oslash V_2\\
- & = \{ \langle f|:V_2\to (V_1\to V_0)\}
-\end{aligned}
+V_0\oslash V_1\oslash V_2  := (V_0\oslash V_1)\oslash V_2\\
+  = \{ \langle f|:V_2\to (V_1\to V_0)\}
 $$
 consists of _bi_-linear maps.  
 
-Bilinear is just the name so lets give it some content through an example.  Recall that a linear map $\langle f|:K^b\to K^a$ can be given by a $(a\times b)$-matrix, each column being the image $\langle f|e_i\rangle$ of the $i$-th coordinate vector $e_i$ from the domain.  Therefore $\langle f|:K^c\to (K^b\to K^a)$
+Bilinear is just the name so lets give it some content through an example.  Recall that a linear map $\langle f|:K^b\to K^a$ can be given by a $(a\times b)$-matrix, each column being the image $\langle f|e_i\rangle$ of the $i$-th coordinate vector $e_i$ from the domain.  Therefore $\langle f|: K^c\to (K^b\to K^a)$.
 $$
 \langle f|e_i\rangle\in \mathbb{M}_{a\times b}(K).
 $$
 So $\langle f|$ could be described from a list $[M_1,\ldots,M_c]$ of $(a\times b)$-matrices.  Of course a matrix is a list of columns where we blur the edge between the columns, so $\langle f|$ can likewise be thought of as 3-dimensional grid of numbers.
+
 ![3-tensor](/uploads/images/tensor.jpg)
 
 
@@ -224,29 +222,13 @@ $$
 $$
 Thus we have been speaking of the  $(\otimes,\hom)$ adjunction.
 
+
+> History not-withstanding it should be observed that the definition of the Whitney tensor product usually assumes technology that cannot be explained solely on the level of linear maps and matrices.  It is for example typical to create the free-module with basis $V_2\times V_1$ and then quotient by relations to make for a bilinear map.  The use of iterated $\oslash$ is by contrast low-tech and accessible within the scope of basic linear algebra.  
+
+
+There is a lower-tech definition of Whitney's Tensor Product which can be found here: [The Whitney Tensor Product](Whitney-Tensor.md).
+
 ---
-
-History not-withstanding it should be observed that the definition of the Whitney tensor product usually assumes technology that cannot be explained solely on the level of linear maps and matrices.  It is for example typical to create the free-module with basis $V_2\times V_1$ and then quotient by relations to make for a bilinear map.  The use of iterated $\oslash$ is by contrast low-tech and accessible within the scope of basic linear algebra.  
-
-That said the model of tensor products just suggested is made complicated only because of the intention to deduce a universal mapping property as a consequence.   If the sole goal is to make a tensor product as a space it can be done with matrices.
-
-$$
-\otimes:K^a\times K^b\rightarrowtail M_{a\times b}(K)
-\qquad
-u\otimes v := u v^{\top}.
-$$
-Matrices of rank 1 are pure (simple) tensors.  And for more complicated modules use a free resolution
-$$
-\begin{aligned}
-0\to R_2 \to K^a\to V_2\to 0\\
-0\to R_1 \to K^b\to V_1\to 0
-\end{aligned}
-$$
-Then 
-$$
-V_2\otimes V_1 := \mathbb{M}_{a\times b}(K)/(R_2\otimes K^b+K^a\otimes R_1).
-$$
-
 
 
 ### Historical Tensors & Alternatives
