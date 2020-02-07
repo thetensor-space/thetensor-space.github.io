@@ -32,7 +32,10 @@ $$
 $$
 (The symbol $\rightarrowtail$ signifies multilinear as we shall define below.)  This is the real power in the study of tensors that turns grids of numbers and diverse objects into a system that can be studied cohesively as one theory.
 
----
+### Computing with tensors
+
+If you are looking to use tensors in software take a look at Chapter 2 of our manual for our Magma software found [here](https://github.com/thetensor-space/TensorSpace/blob/master/doc/TensorSpace.pdf).
+
 
 ### Notation with Dirac Bra-c-kets
 

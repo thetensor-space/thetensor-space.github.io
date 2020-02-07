@@ -53,6 +53,10 @@ $$
 
 So while often context is the guide, in strict terms a matrix is not a tensor unless it is equipped with a suitable multilinear interpreter.
 
+### Computing with Tensor Spaces
+
+If you are looking to use tensor spaces in software take a look at Chapter 3 of the manual for our Magma software found [here](https://github.com/thetensor-space/TensorSpace/blob/master/doc/TensorSpace.pdf).
+
 
 ---
 
