@@ -74,6 +74,8 @@ $
 a^{2} + b^{2} = c^{2}
 $
 
+Sometimes you get into trouble mixing languages.  For example markdown likes to use `|` to make walls of a table and at times within KaTex the use of `|` can get confused.  Try `\mid` if you find trouble -- it may not be your preferred spacing but notice this is getting math on the internet so what are you complaining about?  
+
 ## Add a Video
 <span id="add-video"></span>
 
