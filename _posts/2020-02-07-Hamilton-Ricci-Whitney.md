@@ -9,7 +9,10 @@ categories: [ Articles ]
 
 | Era | 1860 | 1900 | 1940 | 1980 | 2020 |
 |---|---|---|---|---|---|
-| Tensors are ... |Lengths | Forms | Spaces | Grids | ...overdue for a theory? |
+| Tensors are ... |Lengths | Forms | Froms & Spaces | Grids, Forms, Spaces, & Multilinear maps | ...all things distributive. |
+| Used by...| Hamilton | Geometry, Physics | Geometry, Kinematics, Relativity, Quantum Physics, Algebra, Analysis | <sub>Finite Geometry, Differential Geometry, Kinematics, Relativity, Quantum Mechanics, Representations, Algebras, PDEs, Categories, Model Theory, Informatics, Statistics</sub> | <sub>Finite Geometry, Differential Geometry, Kinematics, Relativity, Quantum Mechanics, Representations, Algebras, PDEs, Sensors, Categories, Morley Rank, Isomorphism, Informatics, Statistics, Big Data, Machine Learning, Compression, Data Structures, Clustering, Decompositions, Dimension Reduction, Image Processing, Synthizing Data, Scanning,...and all the uses of which we haven't a clue!</sub> | 
+
+
 
 ## From lengths to grids
 
