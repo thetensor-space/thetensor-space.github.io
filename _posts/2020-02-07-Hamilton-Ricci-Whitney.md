@@ -4,6 +4,7 @@ layout: post
 title:  120 years of tensors
 # (Optional) Used to sort posts, not supported as of writing this.
 categories: [ Articles ]
+tags: featured
 ---
 
 
