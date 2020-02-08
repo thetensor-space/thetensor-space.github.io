@@ -74,7 +74,12 @@ $
 a^{2} + b^{2} = c^{2}
 $
 
-Sometimes you get into trouble mixing languages.  For example markdown likes to use `|` to make walls of a table and at times within KaTex the use of `|` can get confused.  Try `\mid` if you find trouble -- it may not be your preferred spacing but notice this is getting math on the internet so what are you complaining about?  
+**Trouble Shooting KaTex**
+
+Because this is a markdown file and not a latex file there are some competing symbols that can at times cause some problems.
+ 1. `*` is used in markdown to introudce bold.  If used within math mode as a symbol it mostly works, but sometimes the viewer will find two copies `*` followed by stuff and a later `*` and missunderstand these to mean bold.  The math mode looses.  Solutions include using `\(...\)` instead of `$...$` or changing the symbol to a latex one like `\star` or `\circ` as those never conflict with Markdown.
+ 2. Another one is `|` which markdown uses to make walls of a table and at times within KaTex the use of `|` can get confused.  Try latex `\mid` if you find trouble -- it may not be your preferred spacing but notice this is getting math on the internet so what are you complaining about?  
+ 3. Keep in mind that `$$...$$` will only center the display mode if there si a new line before and after.
 
 ## Add a Video
 <span id="add-video"></span>
