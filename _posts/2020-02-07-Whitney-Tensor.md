@@ -249,7 +249,7 @@ $$
 It would be fine to have an infinite number of generators as well.
 Putting this together we get the ingredients of a general tensor.
 
-![](/uploads/images/products/Whitney-Tensor-product.png)
+![](/uploads/images/products/Whitney-Tensor-Product.png)
 
 The horizontal lines are exact sequences and the vertical lines are Curryed maps, i.e. 
 
