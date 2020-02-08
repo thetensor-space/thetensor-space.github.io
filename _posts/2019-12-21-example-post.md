@@ -46,7 +46,10 @@ For example, this is how you create a new _post_ for the _Articles_ page:
 ## Use KaTex
 <span id="use-katex"></span>
 
-Use [KaTex](https://katex.org/docs/supported.html) to draw Math formulas directly in `Markdown`. KaTex uses `LaTeX` and `TeX` macros to parse math formulas. [See the Katex docs](https://katex.org/docs/supported.html) for a full list of `LaTeX` and `TeX` macros.B elow is a simple example of using Katex:
+Use [KaTex](https://katex.org/docs/supported.html) to draw Math formulas directly in `Markdown`. KaTex uses `LaTeX` and `TeX` macros to parse math formulas. [See the Katex docs](https://katex.org/docs/supported.html) for a full list of `LaTeX` and `TeX` macros. Below is a simple example of using Katex:
+
+**Note:** There are new lines _before_ and _after_ **display mode** (aka centered katex) formulas.
+
 ```
 _Today we'll go over the Pythagorean Theorem..._
 
