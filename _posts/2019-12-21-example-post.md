@@ -115,6 +115,30 @@ Because this is a markdown file and not a latex file there are some competing sy
   desc="Introduction to Tensors, Tensor Spaces, and Transverse Operators. Creative Commons 2.0 CC-BY 2019 James B. Wilson"
 %}
 
+### Direct Embed
+Directly embedding a video can avoid issues caused by the theme and / or video provider.
+
+To directly embed a video, it's recommended to follow these instructions:
+
+1. Get the a video's **embed** `src` (often, clicking "share", then "embed" or "iframe" will lead you here).
+2. Use the following component:
+
+```
+{%
+  include iframe.html
+  src="https://sms.cam.ac.uk/media/3155105/embed"
+%}
+```
+
+...to render this output:
+
+{%
+  include iframe.html
+  src="https://sms.cam.ac.uk/media/3155105/embed"
+%}
+
+You can also copy and paste an `iframe` directly onto a page, but using this component will make the iframe fit to the page nicely.
+
 ## Add an image
 <span id="add-image"></span>
 
