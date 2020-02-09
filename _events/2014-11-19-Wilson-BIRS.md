@@ -17,6 +17,8 @@ James B. Wilson</a>
 
 **Speaker:** <a href="https://www.math.colostate.edu/~jwilson/" target="_blank">James B. Wilson</a>, Colorado State University
 
-<a href="http://www.birs.ca/events/2014/5-day-workshops/14w5031/videos/embed/201411191030-Wilson.mp4" target="_blank">Video</a>
+<div class="iframe-wrapper">
+  <iframe class="iframe" src="http://www.birs.ca/events/2014/5-day-workshops/14w5031/videos/embed/201411191030-Wilson.mp4" scrolling="no"></iframe>
+</div>
 
 
