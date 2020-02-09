@@ -1,0 +1,23 @@
+---
+# Uses this html: "_layout/post.html" as a template.
+layout: post 
+title: A new isomorphism test for groups
+# (Optional) Used to sort posts, not supported as of writing this.
+categories: [ Workshops, Isomorphism, Filters ]
+---
+
+![Tensors and Operators](/uploads/images/Wilson-BIRS-2014.png){:class="img-responsive"}
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">
+<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" />
+James B. Wilson</a>
+
+
+<b>Title: Redical and Semisimple structure in p-groups</b>
+
+**Speaker:** <a href="https://www.math.colostate.edu/~jwilson/" target="_blank">James B. Wilson</a>, Colorado State University
+
+[Video Link](http://www.birs.ca/events/2013/5-day-workshops/13w5033/videos/watch/201307221010-Wilson.html?jwsource=cl)
+---
+
+
