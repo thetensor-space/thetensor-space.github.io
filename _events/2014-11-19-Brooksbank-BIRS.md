@@ -13,9 +13,9 @@ categories: [ Workshops, Isomorphism ]
 <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" />
 Peter Brooksbank
 </a>
-<div class="iframe-wrapper">
-  <iframe class="iframe" src="http://www.birs.ca/events/2014/5-day-workshops/14w5031/videos/embed/201411181504-Brooksbank.mp4" scrolling="no"></iframe>
-</div>
+
+[Video Link](http://www.birs.ca/events/2014/5-day-workshops/14w5031/videos/watch/201411181504-Brooksbank.html?jwsource=cl)
+---
 
 
 
