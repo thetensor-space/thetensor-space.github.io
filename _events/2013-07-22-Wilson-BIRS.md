@@ -1,7 +1,7 @@
 ---
 # Uses this html: "_layout/post.html" as a template.
 layout: post 
-title: A new isomorphism test for groups
+title: Radical and Semisimple structure of groups
 # (Optional) Used to sort posts, not supported as of writing this.
 categories: [ Workshops, Isomorphism, Filters ]
 ---
