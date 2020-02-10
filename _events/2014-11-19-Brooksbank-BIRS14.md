@@ -14,7 +14,7 @@ categories: [ Workshops, Isomorphism ]
 Peter Brooksbank
 </a>
 
-[Video Link](http://www.birs.ca/events/2014/5-day-workshops/14w5031/videos/watch/201411181504-Brooksbank.html?jwsource=cl)
+[External Video Link](http://www.birs.ca/events/2014/5-day-workshops/14w5031/videos/watch/201411181504-Brooksbank.html?jwsource=cl)
 ---
 
 
