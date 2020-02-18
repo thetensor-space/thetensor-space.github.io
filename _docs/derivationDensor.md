@@ -1,5 +1,5 @@
 ---
-title: Dirivation Densor
+title: Derivation Densor
 subtitle:
 tags: []
 author: james

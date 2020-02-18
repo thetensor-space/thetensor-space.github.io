@@ -1,0 +1,90 @@
+PWD c:\Users\joshm\thetensor-space.github.io\latex\genus2data
+INPUT C:\Users\joshm\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\joshm\thetensor-space.github.io\latex\genus2data\data.tex
+OUTPUT c:\Users\joshm\thetensor-space.github.io\latex\genus2data\data.log
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\standalone\standalone.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\standalone\standalone.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\keyval.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\standalone\standalone.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\standalone\standalone.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
+INPUT c:\Users\joshm\thetensor-space.github.io\latex\genus2data\data.aux
+INPUT c:\Users\joshm\thetensor-space.github.io\latex\genus2data\data.aux
+OUTPUT c:\Users\joshm\thetensor-space.github.io\latex\genus2data\data.aux
+INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii
+INPUT c:\Users\joshm\thetensor-space.github.io\latex\genus2data\Main2.tex
+INPUT c:\Users\joshm\thetensor-space.github.io\latex\genus2data\Main2.tex
+INPUT c:\Users\joshm\thetensor-space.github.io\latex\genus2data\Main2.eps
+INPUT c:\Users\joshm\thetensor-space.github.io\latex\genus2data\Main2.eps
+INPUT c:\Users\joshm\thetensor-space.github.io\latex\genus2data\Main2.eps
+INPUT c:\Users\joshm\thetensor-space.github.io\latex\genus2data\Main2.eps
+INPUT c:\Users\joshm\thetensor-space.github.io\latex\genus2data\Main2-eps-converted-to.pdf
+INPUT c:\Users\joshm\thetensor-space.github.io\latex\genus2data\Main2-eps-converted-to.pdf
+INPUT c:\Users\joshm\thetensor-space.github.io\latex\genus2data\Main2-eps-converted-to.pdf
+OUTPUT c:\Users\joshm\thetensor-space.github.io\latex\genus2data\data.pdf
+INPUT c:\Users\joshm\thetensor-space.github.io\latex\genus2data\Main2-eps-converted-to.pdf
+INPUT c:\Users\joshm\thetensor-space.github.io\latex\genus2data\Main2-eps-converted-to.pdf
+INPUT C:\Users\joshm\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT c:\Users\joshm\thetensor-space.github.io\latex\genus2data\data.aux
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
