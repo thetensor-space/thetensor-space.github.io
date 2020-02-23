@@ -48,13 +48,12 @@ authors:
     web: 
     twitter:
     description:    "Co-Author of TheTensor.Space"
-  
   josh:
-    name:           Joshua F. Maglione
+    name:           Joshua Maglione
     display_name:   Josh
     avatar:         images/avatar_joshua_maglione.jpg
-    email:
-    web: 
+    email:          jmaglione@math.uni-bielefeld.de
+    web:            https://www.math.uni-bielefeld.de/~jmaglione/
     twitter:
     description:    "Co-Author of TheTensor.Space"
   james:

@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1582062793 "c:/Users/joshm/thetensor-space.github.io/latex/genus2data/data.tex" "c:/Users/joshm/thetensor-space.github.io/latex/genus2data/data.pdf" "data" 1582062796
+["pdflatex"] 1582483877 "c:/Users/joshm/thetensor-space.github.io/latex/genus2data/data.tex" "c:/Users/joshm/thetensor-space.github.io/latex/genus2data/data.pdf" "data" 1582483883
   "C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247593067 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247593067 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247593067 32762 7fee39e011c23b3589931effd97b9702 ""
@@ -36,15 +36,15 @@
   "C:/Program Files/MiKTeX 2.9/tex/latex/xkeyval/xkeyval.sty" 1419270738 5114 9c1069474ff71dbc47d5006555e352d3 ""
   "C:/Users/joshm/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1550832611 4157661 64c83dc448c0faeb670a4c2d2580cbbf ""
   "C:/Users/joshm/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1550831537 81167 b1e74ec64a35e0946ad265131bcc7e22 ""
-  "Main2.eps" 1578336344 48676 939907a97913c62427b196a6b109a432 ""
-  "Main2.tex" 1578336386 5192 931881dc8cc3f774a0a3d4981d1d3ab5 ""
-  "c:/Users/joshm/thetensor-space.github.io/latex/genus2data/data.aux" 1582062796 9 a94a2480d3289e625eea47cd1b285758 ""
-  "c:/Users/joshm/thetensor-space.github.io/latex/genus2data/data.tex" 1582062791 201 c43f4f06a78b1304843e0a984fbce787 ""
-  "data.aux" 1582062796 9 a94a2480d3289e625eea47cd1b285758 ""
-  "data.tex" 1582062791 201 c43f4f06a78b1304843e0a984fbce787 ""
+  "Main2.eps" 1582483792 48323 882e6aab5e2110b63b78191d98649cea ""
+  "Main2.tex" 1582483874 5190 529fcd882d149556afd51322da31f6b6 ""
+  "c:/Users/joshm/thetensor-space.github.io/latex/genus2data/data.aux" 1582483878 9 a94a2480d3289e625eea47cd1b285758 ""
+  "c:/Users/joshm/thetensor-space.github.io/latex/genus2data/data.tex" 1582483880 201 c43f4f06a78b1304843e0a984fbce787 ""
+  "data.aux" 1582483878 9 a94a2480d3289e625eea47cd1b285758 ""
+  "data.tex" 1582483880 201 c43f4f06a78b1304843e0a984fbce787 ""
   (generated)
-  "data.aux"
   "c:/Users/joshm/thetensor-space.github.io/latex/genus2data/data.log"
-  "data.log"
-  "c:/Users/joshm/thetensor-space.github.io/latex/genus2data/data.pdf"
   "data.pdf"
+  "data.log"
+  "data.aux"
+  "c:/Users/joshm/thetensor-space.github.io/latex/genus2data/data.pdf"

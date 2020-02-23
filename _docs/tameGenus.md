@@ -1,17 +1,17 @@
 ---
 title: Tame Genus
 subtitle:
-tags: []
-author: Josh
+tags: [Isomorphism, Groups]
+author: josh
 ---
 
 The Tame Genus package provides polynomial-time algorithms to compute automorphism groups and decide isomorphism for "tame genus" $p$-groups and alternating $3$-tensors. These include 
 - $d$-generator $p$-groups of order $p^{d + 2}$, exponent $p$, and class $2$,
 - $3$-tensors of the form $\mathbb{F}_q^d\times \mathbb{F}_q^d\rightarrowtail \mathbb{F}_q^2$.
 
-These algorithms can decide isomorphism on tame genus groups of of order $5^{256}$ in less than an hour. They are based on work done by P. A. Brooksbank, J. Maglione, and J. B. Wilson ([J. Algebra 2017](https://doi.org/10.1016/j.jalgebra.2016.12.007)). Sample runtimes for deciding isomorphism can be found in the same paper. 
+These algorithms can decide isomorphism on tame genus groups of of order $5^{256}$ in less than an hour. They are based on work done by P. A. Brooksbank, J. Maglione, and J. B. Wilson (<a href="https://doi.org/10.1016/j.jalgebra.2016.12.007" target="_blank">J. Algebra 2017</a>). Sample runtimes for deciding isomorphism can be found in the same paper. 
 
-IMG
+![](/uploads/images/genus2-data.png)
 
 ## How to get started
 
@@ -34,9 +34,9 @@ Examples:
 
 All the functions are documented in the `TameGenus.pdf` found at the repo. 
 
-## What is the "genus" of a $p$-group?
+<a href="https://github.com/thetensor-space/TameGenus#readme" target="_blank">Tame Genus Repo</a>
 
-The use of genus for $p$-groups has no connection to its use with (algebraic) curves, but it likely has the same origin. 
+<a href="https://github.com/thetensor-space/TameGenus/blob/master/doc/TameGenus.pdf" target="_blank"> Tame Genus Docs</a>
 
-## What makes the genus "tame"?
 
+CC-BY 4.0 J. Maglione
