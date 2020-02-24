@@ -2,7 +2,7 @@
 title: Tame Genus
 subtitle:
 tags: [Isomorphism, Groups]
-author: josh
+author: [pete, josh, james]
 ---
 
 The Tame Genus package provides polynomial-time algorithms to compute automorphism groups and decide isomorphism for "tame genus" $p$-groups and alternating $3$-tensors. These include 
@@ -34,9 +34,10 @@ Examples:
 
 All the functions are documented in the `TameGenus.pdf` found at the repo. 
 
-<a href="https://github.com/thetensor-space/TameGenus#readme" target="_blank">Tame Genus Repo</a>
+<a href="https://github.com/thetensor-space/TameGenus#readme" target="_blank">Tame Genus Files</a>
 
-<a href="https://github.com/thetensor-space/TameGenus/blob/master/doc/TameGenus.pdf" target="_blank"> Tame Genus Docs</a>
+<a href="https://github.com/thetensor-space/TameGenus/blob/master/doc/TameGenus.pdf" target="_blank"> Tame Genus Manual</a>
 
-
-CC-BY 4.0 J. Maglione
+<p>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/> P.A. Brooksbank, J. Maglione, J. B. Wilson
+</p>

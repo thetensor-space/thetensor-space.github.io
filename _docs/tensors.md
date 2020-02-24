@@ -18,7 +18,7 @@ This indirection gets around the problem of 150 years of evolution since Hamilto
 
 The scheme for defining tensors is thus to apply the rigorous axioms to a tensor _space_, then the actual objects we call tensors are free to take on diverse meanings.  Indeed in the literature one finds tensors of row vectors, matrices, lists of matrices, arrays, functions, differential operators, integrals, multiplication tables, algebras, modules, multilinear maps, curvatures, stress formulas, quantum entanglements, meta-data, big data, statistics, and more.  See the image above
 
-Below we walk through all the ingredients but let us begin with the definition now even before we detail all the semantics so that the essentail words and the arc of the narrative come into focus.
+Below we walk through all the ingredients but let us begin with the definition now even before we detail all the semantics so that the essential words and the arc of the narrative come into focus.
 
 > A _tensor space_ is a vector space $T$ equipped with a linear representation 
 $$
@@ -36,6 +36,11 @@ $$
 
 If you are looking to use tensors in software take a look at Chapter 2 of our manual for our Magma software found [here](https://github.com/thetensor-space/TensorSpace/blob/master/doc/TensorSpace.pdf).
 
+
+<a href="https://github.com/thetensor-space/TensorSpace#readme" target="_blank">Tensor Space Repo</a>
+
+<a href="(https://github.com/thetensor-space/TensorSpace/blob/master/doc/TensorSpace.pdf" target="_blank">
+Tensor Space Manual</a>
 
 ### Notation with Dirac Bra-c-kets
 
