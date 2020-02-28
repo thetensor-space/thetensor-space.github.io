@@ -2,11 +2,12 @@
 # Uses this html: "_layout/post.html" as a template.
 layout: post 
 title:  What Is a Tensor? What is a Tensor Space?
+author: james
 # (Optional) Used to sort posts, not supported as of writing this.
 categories: [ Articles ]
 ---
 
-![](/uploads/images/tensor-mix.jpg){:class="img-responsive"}
+![](/uploads/images/tensor-mix.jpg)
 <p>
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/> James B. Wilson
 </p>
