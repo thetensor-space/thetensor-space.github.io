@@ -64,6 +64,39 @@ authors:
     web:            https://www.math.colostate.edu/~jwilson/
     twitter:
     description:    "Co-Author of TheTensor.Space"
+  taku:
+    name:           Takunari Miyazaki
+    display_name:   Taku
+    avatar:         
+    email:          takunari.miyazaki@trincoll.edu
+    web:            
+    twitter:
+    description:    "Trinity College, Hartford, Connecticut"
+  cmoore:
+    name:           Cristopher Moore
+    display_name:   Cris
+    avatar:         
+    email:          moore@santafe.edu
+    web:            
+    twitter:
+    description:    "Santa Fe Institute"
+  pratt:
+    name:           Kevin Pratt
+    display_name:   Kevin
+    avatar:         
+    email:          kpratt@andrew.cmu.edu
+    web:            
+    twitter:
+    description:    "Carnegie Mellon University"
+  yli:
+    name:           Yinan Li
+    display_name:   Yinan
+    avatar:         
+    email:          Yinan.Li@cwi.nl
+    web:            
+    twitter:
+    description:    "CWI & QuSoft"
+
 
 # Social icons displayed in footer
 social:
