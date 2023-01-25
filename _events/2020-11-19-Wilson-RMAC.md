@@ -5,11 +5,7 @@ title: Tensor Isomorphism and Quantum Phases of Matter
 # (Optional) Used to sort posts, not supported as of writing this.
 categories: [ Isomorphism ]
 ---
-
-<div class="iframe-wrapper">
-  <iframe class="iframe" src="https://youtu.be/yCxDv3CauMY" scrolling="no"></iframe>
-</div>
-
+![](/uploads/images/QIT2020.png)
 <!-- ![](/uploads/images/avatar_james_b_wilson.jpg) -->
 
 
