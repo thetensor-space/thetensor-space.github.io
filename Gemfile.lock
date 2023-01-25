@@ -95,7 +95,7 @@ GEM
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
     tzinfo-data (1.2018.9)
-      tzinfo (>= 1.0.0)
+      tzinfo (>= 1.2.10)
 
 PLATFORMS
   ruby
