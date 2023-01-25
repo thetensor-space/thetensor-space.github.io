@@ -3,7 +3,7 @@
 layout: post 
 title: Pfaffians, Tensors, and Applications
 # (Optional) Used to sort posts, not supported as of writing this.
-categories: [ Conference ]
+categories: [ Workshops ]
 ---
 
 [Workshop on **Pfaffians, Tensors, and Applications** at the Max-Planck-Institut for Mathematics in the Sciences, Leipzig](https://www.mis.mpg.de/calendar/conferences/2022/pta22.html)
