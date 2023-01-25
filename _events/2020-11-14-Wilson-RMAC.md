@@ -3,10 +3,10 @@
 layout: post 
 title: QuickSylver Solver
 # (Optional) Used to sort posts, not supported as of writing this.
-categories: [ Isomorphism ]
+categories: [ Linear Algebra ]
 ---
 
-![](/uploads/images/avatar_james_b_wilson.jpg)
+![](/uploads/images/QuickSylver.png)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">
