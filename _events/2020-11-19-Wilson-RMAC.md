@@ -6,7 +6,11 @@ title: Tensor Isomorphism and Quantum Phases of Matter
 categories: [ Isomorphism ]
 ---
 
-![](/uploads/images/avatar_james_b_wilson.jpg)
+<div class="iframe-wrapper">
+  <iframe class="iframe" src="https://youtu.be/yCxDv3CauMY" scrolling="no"></iframe>
+</div>
+
+<!-- ![](/uploads/images/avatar_james_b_wilson.jpg) -->
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">
