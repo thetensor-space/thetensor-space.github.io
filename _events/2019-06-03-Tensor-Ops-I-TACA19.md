@@ -21,7 +21,7 @@ James B. Wilson
 
  {% 
     include video.html
-    src="https://vimeo.com/379509939"
+    src="https://youtu.be/VqteyFC3M60?si=gs6RilOxkFh1CRWq"
     title="Tensors & Operators -- James B. Wilson"
     desc="Introduction to Tensors, Tensor Spaces, and Transverse Operators. TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-BY 2019 James B. Wilson"
   %}
