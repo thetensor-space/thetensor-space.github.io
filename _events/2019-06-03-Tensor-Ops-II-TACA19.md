@@ -16,13 +16,7 @@ categories: [ Workshops ]
 **Abstract:** Computing with tensors can consume a lot of resources so it makes sense to consider both low-level tools and high-level abstractions.
 This talk surveys data types and categories for tensors.
 
-
- {% 
-    include video.html
-    src="https://youtu.be/aDyXU5-qhlU?si=LFcsQVWXWqJhjJdD"
-    title="Tensor Types & Categories -- James B. Wilson"
-    desc="Primitive types and categories for tensors. TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-BY 2019 James B. Wilson"
-  %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aDyXU5-qhlU?si=-0DM3mjCkEUWs8jO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Follow along with the slides at your own pace
 [Slides](https://slides.com/jameswilson-3/tensor-types-cats)

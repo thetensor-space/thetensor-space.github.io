@@ -26,23 +26,12 @@ Among the objectives of the mini-course are the following:
 3. An introduction to software for computing with tensors and their associated algebras.
 
 ---
-
- {% 
-    include video.html
-    src="https://youtu.be/PDViB-d1yYY?si=3PsfN6RXA-CdrRNU"
-    title="Algebraic Method for Tensor Equivalence I"
-    desc="TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-ND 2019 Peter Brooksbank."
-  %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PDViB-d1yYY?si=EtgsIy4chHIRU0pD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 The second lecture will be about what tensors can tell us about computational complexity. We will see several ways - both direct and indirect - in which problems on tensors lie at the heart of lower bounds in complexity theory.
 
-{% 
-    include video.html
-    src="https://youtu.be/b95GVO8SIPc?si=09b82xvpsGIJKgPD"
-    title="Algebraic Method for Tensor Equivalence II"
-    desc="TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-ND 2019 Peter Brooksbank."
-  %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b95GVO8SIPc?si=2qWNh1Ausx1DgLQP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.

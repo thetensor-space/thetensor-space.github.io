@@ -22,13 +22,7 @@ Clayton Shonkwiler
 **Abstract:** I will give an introduction to the fundamental role played by tensors in differential geometry, with particular emphasis on the idea of a tensor as a multilinear map. This will include brief cameos by some of the most important tensors in geometry: vector fields, differential forms, Riemannian metrics, and the Riemann and Ricci curvature tensors. Time allowing, I will also present an intriguing tensorial connnection between Plucker coordinates on Grassmann manifolds and projection matrices; this last is joint work with Harrison Chapman.
 
 ---
-
- {% 
-    include video.html
-    src="https://youtu.be/CwwUizoaKS0?si=LGLYQEtePrwkqN-P"
-    title="Tensors in Differential Geometry, Clayton Shonkwiler"
-    desc="TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-ND 2019 Joshua Grochow."
-  %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CwwUizoaKS0?si=fnM0DI3h957C_eIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 

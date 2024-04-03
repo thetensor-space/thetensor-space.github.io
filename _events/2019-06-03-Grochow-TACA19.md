@@ -23,23 +23,12 @@ Joshua Grochow</a>
 
 ---
 
- {% 
-    include video.html
-    src="https://youtu.be/Gp_QDMXAQtc?si=Y7m-s9mSIMF744d0"
-    title="Tensors & Complexity I -- Joshua Grochow"
-    desc="Complexity 101, Group isomorphism, Tensor Isomorphism, NP-complete problems with tensors. TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-ND 2019 Joshua Grochow."
-  %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gp_QDMXAQtc?si=bLtKHIvMyfyKcRVK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 The second lecture will be about what tensors can tell us about computational complexity. We will see several ways - both direct and indirect - in which problems on tensors lie at the heart of lower bounds in complexity theory.
 
-
- {% 
-    include video.html
-    src="https://youtu.be/V2lTOaTkz0g?si=aIit7Xk8FNjDwtu8"
-    title="Tensors & Complexity II -- Joshua Grochow"
-    desc="Complexity 101, Group isomorphism, Tensor Isomorphism, NP-complete problems with tensors. TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-ND 2019 Joshua Grochow."
-  %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V2lTOaTkz0g?si=DVTYN7seYpTqyW7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
