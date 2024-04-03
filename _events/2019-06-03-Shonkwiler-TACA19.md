@@ -25,7 +25,7 @@ Clayton Shonkwiler
 
  {% 
     include video.html
-    src="https://vimeo.com/389586350"
+    src="https://youtu.be/CwwUizoaKS0?si=LGLYQEtePrwkqN-P"
     title="Tensors in Differential Geometry, Clayton Shonkwiler"
     desc="TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-ND 2019 Joshua Grochow."
   %}

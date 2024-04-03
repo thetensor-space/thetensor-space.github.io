@@ -25,7 +25,7 @@ Takunari Miyazaki
 
  {% 
     include video.html
-    src="https://vimeo.com/389586485"
+    src="https://youtu.be/82SF4IHHY8U?si=TxG0_r367rWzwwiB"
     title="On the complexity of MINRANK, Takunari Miyazaki"
     desc="TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-ND 2019 Takunari Miyazaki."
   %}

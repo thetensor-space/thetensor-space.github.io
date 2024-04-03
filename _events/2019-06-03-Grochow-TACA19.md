@@ -25,7 +25,7 @@ Joshua Grochow</a>
 
  {% 
     include video.html
-    src="https://vimeo.com/389556519"
+    src="https://youtu.be/Gp_QDMXAQtc?si=Y7m-s9mSIMF744d0"
     title="Tensors & Complexity I -- Joshua Grochow"
     desc="Complexity 101, Group isomorphism, Tensor Isomorphism, NP-complete problems with tensors. TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-ND 2019 Joshua Grochow."
   %}
@@ -36,7 +36,7 @@ The second lecture will be about what tensors can tell us about computational co
 
  {% 
     include video.html
-    src="https://vimeo.com/390520840"
+    src="https://youtu.be/V2lTOaTkz0g?si=aIit7Xk8FNjDwtu8"
     title="Tensors & Complexity II -- Joshua Grochow"
     desc="Complexity 101, Group isomorphism, Tensor Isomorphism, NP-complete problems with tensors. TACA 2019. For more visit https://TheTensor.Space/. Creative Commons 2.0 CC-ND 2019 Joshua Grochow."
   %}
