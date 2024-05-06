@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title:  Tensors Algebra-Geometry-Applications 2024
 categories: [ Workshops ]
 ---
