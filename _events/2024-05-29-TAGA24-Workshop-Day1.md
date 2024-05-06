@@ -5,7 +5,7 @@ categories: [ Workshops ]
 ---
 
 <img src="/uploads/images/TAGA_2024.png" width=100 align="left">
-<H3>TAGA 2024 Workshop Wednesday May 29</H3></img>
+<H3>TAGA 2024 Workshop Wednesday May 29</H3>
 <p> 
  
 ---
