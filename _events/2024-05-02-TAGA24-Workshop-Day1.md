@@ -1,11 +1,11 @@
 ---
 layout: post-right-sidebar
-title:  Workshop Day 1 Tensors Algebra-Geometry-Applications 2024
+title:  Workshop Day 3 Tensors Algebra-Geometry-Applications 2024
 categories: [ Workshops ]
 ---
 
 <img src="/uploads/images/TAGA_2024.png" width=100 align="left">
-<H3>TAGA 2024 Workshop Wednesday May 29</H3>
+<H3>Workshop Day 3 TAGA 2024 Friday May 31</H3>
 <p> 
  
 ---
