@@ -120,11 +120,11 @@ How should we form \(V_2\otimes V_1\)?  Again matrices suffice, but we have to f
 First lets write out the above quotients in detail with exact sequences.
 
 \[
-0\to  \{(3a,6b)\mid a,b\in \mathbb{Z}\}  \longrightarrow  \mathbb{Z}\oplus\mathbb{Z}\longrightarrow  V_1\to 0
+0\to  \\{(3a,6b)\mid a,b\in \mathbb{Z}\\}  \longrightarrow  \mathbb{Z}\oplus\mathbb{Z}\longrightarrow  V_1\to 0
 \]
 
 \[
-0\to \{(2a,6b,12c)\mid a,b,c\in \mathbb{Z}\} \longrightarrow \mathbb{Z}\oplus\mathbb{Z}\oplus\mathbb{Z} \longrightarrow  V_2 \to 0
+0\to \\{(2a,6b,12c)\mid a,b,c\in \mathbb{Z}\\} \longrightarrow \mathbb{Z}\oplus\mathbb{Z}\oplus\mathbb{Z} \longrightarrow  V_2 \to 0
 \]
 
 Vertically we take the tensor product of the \(\mathbb{Z}\)'s creating
