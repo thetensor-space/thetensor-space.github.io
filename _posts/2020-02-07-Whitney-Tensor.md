@@ -138,10 +138,7 @@ This is a distributive product, and to make quotients of distributive products w
 \[
 \begin{aligned}
 R & := \{(3a,6b)\mid a,b\in \mathbb{Z}\}\otimes \mathbb{Z}^{\oplus 3}\\\     
-& = \left\{\begin{bmatrix}
-3a & 3b & 3c\\\    
-6d & 6e & 6 f    
-\end{bmatrix}\middle| a,b,c,d,e,f\in \mathbb{Z}\right\}    
+& = \left\{\begin{bmatrix} 3a & 3b & 3c\\\    6d & 6e & 6 f    \end{bmatrix}\middle| a,b,c,d,e,f\in \mathbb{Z}\right\}    
 \end{aligned}
 \]
 
@@ -149,7 +146,9 @@ left ideals absorb products on the left
 
 \[
 \begin{aligned}
-L & := \mathbb{Z}^{\oplus 2}\otimes \{(2a,6b,12c)\mid a,b,c\in \mathbb{Z}\}\\\     & = \left\{\begin{bmatrix}    2a & 6b & 12c\\\     2d & 6e & 12 f    \end{bmatrix}\middle| a,b,c,d,e,f\in \mathbb{Z}\right\}    \end{aligned}
+L & := \mathbb{Z}^{\oplus 2}\otimes \{(2a,6b,12c)\mid a,b,c\in \mathbb{Z}\}\\\     
+& = \left\{\begin{bmatrix}    2a & 6b & 12c\\\     2d & 6e & 12 f    \end{bmatrix}\middle| a,b,c,d,e,f\in \mathbb{Z}\right\}   
+\end{aligned}
 \]
 
 So to make 2-sided ideal we add these together:
@@ -161,9 +160,7 @@ I := R+L    = \left\{\begin{bmatrix}    1a & 3b & 3c\\\    2d & 6e & 6 f    \end
 **Definition.**
 
 \[
-\begin{aligned}
-V_2\otimes V_1 & = \mathbb{M}_{2\times 3}(\mathbb{Z})/I    & =\begin{bmatrix}    \mathbb{Z}/1 & \mathbb{Z}/3 & \mathbb{Z}/3\\\    \mathbb{Z}/2 & \mathbb{Z}/6 & \mathbb{Z}/6\\\    \end{bmatrix}    
-\end{aligned}
+V_2\otimes V_1 = \mathbb{M}_{2\times 3}(\mathbb{Z})/I    & =\begin{bmatrix}    \mathbb{Z}/1 & \mathbb{Z}/3 & \mathbb{Z}/3\\\    \mathbb{Z}/2 & \mathbb{Z}/6 & \mathbb{Z}/6\\\    \end{bmatrix}    
 \]
 
 
