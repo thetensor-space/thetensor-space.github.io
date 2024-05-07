@@ -82,26 +82,32 @@ Here \(E_{ij}\) is the \((a\times b)\)-matrix with zero every except at \(ij\) w
 **Observation 2.** 
 
 No matter what you pick, \(v_2\otimes v_1\) is a matrix of rank 1.  If we row reduce we are in a sense mapping \((1,7)\mapsto e_1=(1,0)\) and indeed the above matrix is row-reduced to:
+
 \[
     \begin{bmatrix}
     1 & 2 & 3\\\
     0 & 0 & 0 
     \end{bmatrix}
 \]
+
 Likewise if we column reduce we map \(u=(1,2,3)\) to \(f_1=(1,0,0)\) and get
+
 \[
     \begin{bmatrix}
     1 & 0 & 0\\\
     7 & 0 & 0 
     \end{bmatrix}
 \]
+
 And if map \(v\otimes u\) to \(e_1\otimes f_1\)
+
 \[
     \begin{bmatrix}
     1 & 0 & 0\\\
     0 & 0 & 0 
     \end{bmatrix}
 \]
+
 In the algebraic literature tensors \(v\otimes u\) are called various things include **simple tensors** or **pure tensors**.  It is a pity.  When we recognize this as rank, rank of a matrix, we recognize that simple tensors are just the bottom of a hierarchy of types of tensors.  Also it makes it clear we can compute this number and it helps us instantly see the dimension and a basis of a tensor product.
 
 ---
@@ -202,10 +208,12 @@ have not had to begin with the free module \(\mathbb{Z}[V_2\times V_1]\) and thr
 ### Tensor products with many spaces
 
 We can iterate the above definition
+
 \[
     K^{d_3}\otimes K^{d_2}\otimes K^{d_1}
     := K^{d_3}\otimes (K^{d_2}\otimes K^{d_1})
 \]
+
 Its elements are 3-way arrays.  If you build it inductively it would make the following distributive product.
 
 ![](/uploads/images/Tensor-Product-Def-2-1-D.gif)
