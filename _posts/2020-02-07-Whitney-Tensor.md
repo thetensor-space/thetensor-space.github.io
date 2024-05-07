@@ -154,7 +154,7 @@ L & := \mathbb{Z}^{\oplus 2}\otimes \{(2a,6b,12c)\mid a,b,c\in \mathbb{Z}\}\\\
 So to make 2-sided ideal we add these together:
 
 \[
-I := R+L    = \left\{\begin{bmatrix}    1a & 3b & 3c\\\    2d & 6e & 6 f    \end{bmatrix}\middle| a,b,c,d,e,f\in \mathbb{Z}\right\}
+I := R+L    = \left\\{\begin{bmatrix}    1a & 3b & 3c\\\    2d & 6e & 6 f    \end{bmatrix}\middle| a,b,c,d,e,f\in \mathbb{Z}\right\\}
 \]
 
 **Definition.**
