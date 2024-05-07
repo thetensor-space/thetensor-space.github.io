@@ -81,31 +81,22 @@ Here \(E_{ij}\) is the \((a\times b)\)-matrix with zero every except at \(ij\) w
 
 **Observation 2.** 
 
-No matter what you pick, \(v_2\otimes v_1\) is a matrix of rank 1.  If we row reduce we are in a sense mapping \((1,7)\mapsto e_1=(1,0)\) and indeed the above matrix is row-reduced to:
+No matter what you pick, \(v_2\otimes v_1\) is a matrix of rank 1.  If we row reduce we are in a sense mapping \( (1,7)\mapsto e_1=(1,0) \) and indeed the above matrix is row-reduced to:
 
 \[
-    \begin{bmatrix}
-    1 & 2 & 3\\\
-    0 & 0 & 0 
-    \end{bmatrix}
+\begin{bmatrix}    1 & 2 & 3\\\     0 & 0 & 0      \end{bmatrix}
 \]
 
 Likewise if we column reduce we map \(u=(1,2,3)\) to \(f_1=(1,0,0)\) and get
 
 \[
-    \begin{bmatrix}
-    1 & 0 & 0\\\
-    7 & 0 & 0 
-    \end{bmatrix}
+\begin{bmatrix}     1 & 0 & 0\\\     7 & 0 & 0      \end{bmatrix}
 \]
 
 And if map \(v\otimes u\) to \(e_1\otimes f_1\)
 
 \[
-    \begin{bmatrix}
-    1 & 0 & 0\\\
-    0 & 0 & 0 
-    \end{bmatrix}
+\begin{bmatrix}     1 & 0 & 0\\\     0 & 0 & 0     \end{bmatrix}
 \]
 
 In the algebraic literature tensors \(v\otimes u\) are called various things include **simple tensors** or **pure tensors**.  It is a pity.  When we recognize this as rank, rank of a matrix, we recognize that simple tensors are just the bottom of a hierarchy of types of tensors.  Also it makes it clear we can compute this number and it helps us instantly see the dimension and a basis of a tensor product.
@@ -120,10 +111,8 @@ That is it.  We have made a tensor product of two vector spaces.  Some call this
 This was almost too easy.  Why don't we try something a bit harder.  For example lets assume an audience now that knows of quotients, for example \(\mathbb{Z}/12=\{0,1,2,\ldots,11\}\), i.e.: the time of day which is cyclical and resets every 12 hours, and letting \(0\) be \(12\). The let us make more creative lists of vectors (modules technically).
 
 \[
-    \begin{aligned}
-    V_2 & = \mathbb{Z}/3\oplus\mathbb{Z}/6\\\
-    V_1 & = \mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/12.
-    \end{aligned}
+\begin{aligned}
+V_2 & = \mathbb{Z}/3\oplus\mathbb{Z}/6\\\     V_1 & = \mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/12.    \end{aligned}
 \]
 
 How should we form \(V_2\otimes V_1\)?  Again matrices suffice, but we have to fold in the concept of an **ideal**.
@@ -131,73 +120,59 @@ How should we form \(V_2\otimes V_1\)?  Again matrices suffice, but we have to f
 First lets write out the above quotients in detail with exact sequences.
 
 \[
-    0\to  \{(3a,6b)\mid a,b\in \mathbb{Z}\}  \longrightarrow  \mathbb{Z}\oplus\mathbb{Z}\longrightarrow  V_1\to 0
+0\to  \{(3a,6b)\mid a,b\in \mathbb{Z}\}  \longrightarrow  \mathbb{Z}\oplus\mathbb{Z}\longrightarrow  V_1\to 0
 \]
 
 \[
-    0\to \{(2a,6b,12c)\mid a,b,c\in \mathbb{Z}\} \longrightarrow \mathbb{Z}\oplus\mathbb{Z}\oplus\mathbb{Z} \longrightarrow  V_2 \to 0
+0\to \{(2a,6b,12c)\mid a,b,c\in \mathbb{Z}\} \longrightarrow \mathbb{Z}\oplus\mathbb{Z}\oplus\mathbb{Z} \longrightarrow  V_2 \to 0
 \]
 
 Vertically we take the tensor product of the \(\mathbb{Z}\)'s creating
 
 \[
-    \otimes : \mathbb{Z}^{\oplus 2}\times \mathbb{Z}^{\oplus 3}\rightarrowtail \mathbb{M}_{2\times 3}(\mathbb{Z}).
+\otimes : \mathbb{Z}^{\oplus 2}\times \mathbb{Z}^{\oplus 3}\rightarrowtail \mathbb{M}_{2\times 3}(\mathbb{Z}).
 \]
 
 This is a distributive product, and to make quotients of distributive products we need ideals.  Ideals are subspaces that absorb products on the right, such as
 
 \[
-    \begin{aligned}
-    R & := \{(3a,6b)\mid a,b\in \mathbb{Z}\}\otimes \mathbb{Z}^{\oplus 3}\\\
-    & = \left\{\begin{bmatrix}
-    3a & 3b & 3c\\\
-    6d & 6e & 6 f
-    \end{bmatrix}\middle| a,b,c,d,e,f\in \mathbb{Z}\right\}
-    \end{aligned}
+\begin{aligned}
+R & := \{(3a,6b)\mid a,b\in \mathbb{Z}\}\otimes \mathbb{Z}^{\oplus 3}\\\     
+& = \left\{\begin{bmatrix}
+3a & 3b & 3c\\\    
+6d & 6e & 6 f    
+\end{bmatrix}\middle| a,b,c,d,e,f\in \mathbb{Z}\right\}    
+\end{aligned}
 \]
 
 left ideals absorb products on the left
 
 \[
-    \begin{aligned}
-    L & := \mathbb{Z}^{\oplus 2}\otimes \{(2a,6b,12c)\mid a,b,c\in \mathbb{Z}\}\\\
-    & = \left\{\begin{bmatrix}
-    2a & 6b & 12c\\\
-    2d & 6e & 12 f
-    \end{bmatrix}\middle| a,b,c,d,e,f\in \mathbb{Z}\right\}
-    \end{aligned}
+\begin{aligned}
+L & := \mathbb{Z}^{\oplus 2}\otimes \{(2a,6b,12c)\mid a,b,c\in \mathbb{Z}\}\\\     & = \left\{\begin{bmatrix}    2a & 6b & 12c\\\     2d & 6e & 12 f    \end{bmatrix}\middle| a,b,c,d,e,f\in \mathbb{Z}\right\}    \end{aligned}
 \]
 
 So to make 2-sided ideal we add these together:
 
 \[
-    I := R+L
-    = \left\{\begin{bmatrix}
-    1a & 3b & 3c\\\
-    2d & 6e & 6 f
-    \end{bmatrix}\middle| a,b,c,d,e,f\in \mathbb{Z}\right\}
+I := R+L    = \left\{\begin{bmatrix}    1a & 3b & 3c\\\    2d & 6e & 6 f    \end{bmatrix}\middle| a,b,c,d,e,f\in \mathbb{Z}\right\}
 \]
 
 **Definition.**
 
 \[
-    \begin{aligned}
-    V_2\otimes V_1 & = \mathbb{M}_{2\times 3}(\mathbb{Z})/I
-    & =\begin{bmatrix}
-    \mathbb{Z}/1 & \mathbb{Z}/3 & \mathbb{Z}/3\\\
-    \mathbb{Z}/2 & \mathbb{Z}/6 & \mathbb{Z}/6\\\
-    \end{bmatrix}
-    \end{aligned}
+\begin{aligned}
+V_2\otimes V_1 & = \mathbb{M}_{2\times 3}(\mathbb{Z})/I    & =\begin{bmatrix}    \mathbb{Z}/1 & \mathbb{Z}/3 & \mathbb{Z}/3\\\    \mathbb{Z}/2 & \mathbb{Z}/6 & \mathbb{Z}/6\\\    \end{bmatrix}    
+\end{aligned}
 \]
+
 
 Some may wish to check this against other treatments.
 
 \[
-    \begin{aligned}
-    (\mathbb{Z}/3\oplus \mathbb{Z}/6)&\otimes (\mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/12) \\\
-    & =(\mathbb{Z}/3\otimes (\mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/12))\oplus (\mathbb{Z}/6\otimes (\mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/12))\\\
-    & =(\mathbb{Z}/1\oplus \mathbb{Z}/3\oplus \mathbb{Z}/3)\oplus (\mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/6).
-    \end{aligned}
+\begin{aligned}
+(\mathbb{Z}/3\oplus \mathbb{Z}/6)&\otimes (\mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/12) \\\    & =(\mathbb{Z}/3\otimes (\mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/12))\oplus (\mathbb{Z}/6\otimes (\mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/12))\\\    & =(\mathbb{Z}/1\oplus \mathbb{Z}/3\oplus \mathbb{Z}/3)\oplus (\mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/6).
+\end{aligned}
 \]
 
 For those who know what to expect, we get what we expect.  And again we
@@ -210,8 +185,7 @@ have not had to begin with the free module \(\mathbb{Z}[V_2\times V_1]\) and thr
 We can iterate the above definition
 
 \[
-    K^{d_3}\otimes K^{d_2}\otimes K^{d_1}
-    := K^{d_3}\otimes (K^{d_2}\otimes K^{d_1})
+K^{d_3}\otimes K^{d_2}\otimes K^{d_1}    := K^{d_3}\otimes (K^{d_2}\otimes K^{d_1})
 \]
 
 Its elements are 3-way arrays.  If you build it inductively it would make the following distributive product.
@@ -242,7 +216,7 @@ This can be done but there is an obvious alternative with coordinates.  We can d
 For more complicated modules \(V_i\) we of course have more to do.  Suppose \(V_i=\langle x_1,\ldots,x_{d_i}\rangle\).  Then there is a surjective homomorphism
 
 \[
-    \pi_i:K^{d_i}\to V_i
+\pi_i:K^{d_i}\to V_i
 \]
 
 and \(R_i:=\ker \pi_i\) embeds into \(K^{d_i}\) so that we get an exact sequence
@@ -259,7 +233,7 @@ Putting this together we get the ingredients of a general tensor.
 The horizontal lines are exact sequences and the vertical lines are Curryed maps, i.e. 
 
 \[
-    K^{d^2}\to (K^{d_1}\to \mathbb{M}_{d_2\times d_1}(K))
+K^{d^2}\to (K^{d_1}\to \mathbb{M}_{d_2\times d_1}(K))
 \]
 
 In the usual convention of Currying one drops the parenthesis once the context of the notion has been set.  So in the diagram the vertical lines are bilinear maps.
@@ -274,7 +248,7 @@ R_2\otimes K^{d_1}+K^{d_2}\otimes R_1
 is an ideal of \(\mathbb{M}_{d_2\times d_1}(K)=K^{d_2}\otimes K^{d_1}\), its quotient is a well-defined distributive product
 
 \[
-    V_2\otimes V_1 := \mathbb{M}_{d_2\times d_1}(K)/(R_2\otimes K^{d_1}+K^{d_2}\otimes R_1).
+V_2\otimes V_1 := \mathbb{M}_{d_2\times d_1}(K)/(R_2\otimes K^{d_1}+K^{d_2}\otimes R_1).
 \]
 
 For a ternary tensor product we use three rows, etc.  
