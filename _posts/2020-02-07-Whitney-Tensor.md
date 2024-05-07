@@ -57,7 +57,7 @@ Likewise on the left.  It is also linear in the left, and the right variable in 
 
 In fact these three observation could be taken together are called _bilinear_.  As an abstract definition of a tensor product.
 
-**Theorem (Universal Mapping Property)** If \(\circ:\mathbb{R}^{a}\times \mathbb{R}^{b}\rightarrowtail \mathbb{R}^{c}\) is distributive (\(\mathbb{R}\)-bilinear) then there is a linear map 
+**Theorem** (Universal Mapping Property) If \(\circ:\mathbb{R}^{a}\times \mathbb{R}^{b}\rightarrowtail \mathbb{R}^{c}\) is distributive (\(\mathbb{R}\)-bilinear) then there is a linear map 
 
 \[
     \hat{\circ}: \mathbb{M}_{a\times b}(\mathbb{R})\to \mathbb{R}^{c}
