@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  Workshop Day 1 TAGA24
-categories: [ Workshops ]
+categories: [ Workshops, TAGA24 ]
 related: /events/TAGA24-Workshop-Day2
 ---
 

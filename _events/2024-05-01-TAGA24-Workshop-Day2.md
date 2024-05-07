@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  Workshop Day 2 TAGA24
-categories: [ Workshops ]
+categories: [ Workshops, TAGA24 ]
 ---
 
 <img src="/uploads/images/TAGA_2024.png" width=100 align="left">
