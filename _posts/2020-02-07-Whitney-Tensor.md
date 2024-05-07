@@ -55,9 +55,9 @@ Likewise on the left.  It is also linear in the left, and the right variable in 
     v\otimes (\alpha u) = \alpha(v\otimes u) = (\alpha v)\otimes u.
 \]
 
-In fact these three observation could be taken together are called _bilinear_.  As an abstract definition of a tensor product.
+In fact these three observation could be taken together are called _bilinear_.  As an abstract definition of a tensor product.  This is known sometimes as the Universal Mapping Property for tensor products.
 
-**Theorem** (Universal Mapping Property) If \(\circ:\mathbb{R}^{a}\times \mathbb{R}^{b}\rightarrowtail \mathbb{R}^{c}\) is distributive (\(\mathbb{R}\)-bilinear) then there is a linear map 
+**Theorem**  If \(\circ:\mathbb{R}^{a}\times \mathbb{R}^{b}\rightarrowtail \mathbb{R}^{c}\) is distributive (\(\mathbb{R}\)-bilinear) then there is a linear map 
 
 \[
     \hat{\circ}: \mathbb{M}_{a\times b}(\mathbb{R})\to \mathbb{R}^{c}
