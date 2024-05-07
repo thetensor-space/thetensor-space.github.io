@@ -1,6 +1,6 @@
 ---
 layout: post-right-sidebar
-title:  Workshop Day 1 Tensors Algebra-Geometry-Applications 2024
+title:  Workshop Day 1 TAGA24
 categories: [ Workshops ]
 ---
 

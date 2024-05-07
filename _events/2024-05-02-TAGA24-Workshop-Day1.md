@@ -1,6 +1,6 @@
 ---
 layout: post-right-sidebar
-title:  Workshop Day 3 Tensors Algebra-Geometry-Applications 2024
+title:  Workshop Day 3 TAGA24
 categories: [ Workshops ]
 ---
 
