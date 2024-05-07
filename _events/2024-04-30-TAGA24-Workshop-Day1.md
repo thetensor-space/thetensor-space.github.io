@@ -2,6 +2,7 @@
 layout: post-right-sidebar
 title:  Workshop Day 1 TAGA24
 categories: [ Workshops ]
+related: [TAGA24 Day2](/events/TAGA24-Workshop-Day2)
 ---
 
 <img src="/uploads/images/TAGA_2024.png" width=100 align="left">
