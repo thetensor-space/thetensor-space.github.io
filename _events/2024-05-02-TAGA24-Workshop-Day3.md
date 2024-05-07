@@ -1,5 +1,5 @@
 ---
-layout: post-right-sidebar
+layout: post
 title:  Workshop Day 3 TAGA24
 categories: [ Workshops ]
 ---

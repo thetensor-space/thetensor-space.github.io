@@ -1,5 +1,5 @@
 ---
-layout: post-right-sidebar
+layout: post
 title:  Conference Day 2 TAGA24
 categories: [ Workshops ]
 ---
