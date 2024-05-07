@@ -15,9 +15,11 @@
   onload="renderMathInElement(document.body, {
     delimiters: [
       {left: '$\n', right: '$', display: false},
-      {left: '$', right: '$', display: false}
+      {left: '$', right: '$', display: false},
+      {left: '\[', right: '\]', display: true}
     ]
   });"></script>
+  
   <!-- Custom Scripts -->
   <script src="{{ "/uploads/js/main.js" | relative_url }}"></script>
   {% if page.hero.search or site.navbar.search %}
