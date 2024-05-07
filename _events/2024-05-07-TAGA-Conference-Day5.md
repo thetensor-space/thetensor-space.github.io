@@ -43,7 +43,7 @@ categories: [ Workshops ]
 </tr>
 
 <tr>
-  <td style="background-color:White">2:40</td>
+  <td style="background-color:White">9:40</td>
   <td style="background-color:SaddleBrown;color:SandyBrown">
   <i class='fas fa-mug-hot'></i>
   Coffee & Tea
