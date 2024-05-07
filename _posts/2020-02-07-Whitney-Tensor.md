@@ -26,19 +26,23 @@ If you never understood a tensor product this article is for you.  If you alread
 
 Let \(\mathbb{R}\) be the coefficients of our tensor -- if you know of other commutative rings use whatever you like here. Let us assume \(\mathbb{R}^a\) is a list (a row) vector and\(v^{\top}\) denote a transpose.
 
-\[
-\otimes:\mathbb{R}^a\times \mathbb{R}^b\rightarrowtail \mathbb{M}_{a\times b}(\mathbb{R})
-\qquad
-v\otimes u := v^{\top}u.
-\]
+\begin{gather}
+    \otimes:\mathbb{R}^a\times \mathbb{R}^b\rightarrowtail 
+        \mathbb{M}_{a\times b}(\mathbb{R})
+    \qquad
+    v\otimes u := v^{\top}u.
+\end{gather}
 
 ![](/uploads/images/Tensor-Product-Def-2D.gif)
 
-For example with\(v=(1,7)\) and\(u=(1,2,3)\) we get
+For example with $v=(1,7)$ and $u=(1,2,3)$ we get
 
-\[
-v\otimes u = \begin{bmatrix} 1 \\\ 7\end{bmatrix}\begin{bmatrix}1 & 2 & 3\end{bmatrix}=\begin{bmatrix}1 & 2 & 3\\\ 7 & 14 & 21 \end{bmatrix}.
-\]
+\begin{gather}
+v\otimes u = \begin{bmatrix} 1 \\ 7\end{bmatrix}
+\begin{bmatrix}1 & 2 & 3\end{bmatrix}
+=\begin{bmatrix}1 & 2 & 3\\ 
+7 & 14 & 21 \end{bmatrix}.
+\end{gather}
 
 What is\(\rightarrowtail\)?  It special notation for the distributive property.
 
