@@ -160,7 +160,7 @@ I := R+L    = \left\{\begin{bmatrix}    1a & 3b & 3c\\\    2d & 6e & 6 f    \end
 **Definition.**
 
 \[
-V_2\otimes V_1 = \mathbb{M}_{2\times 3}(\mathbb{Z})/I    & =\begin{bmatrix}    \mathbb{Z}/1 & \mathbb{Z}/3 & \mathbb{Z}/3\\\    \mathbb{Z}/2 & \mathbb{Z}/6 & \mathbb{Z}/6\\\    \end{bmatrix}    
+V_2\otimes V_1 = \mathbb{M}_{2\times 3}(\mathbb{Z})/I     =\begin{bmatrix}    \mathbb{Z}/1 & \mathbb{Z}/3 & \mathbb{Z}/3\\\    \mathbb{Z}/2 & \mathbb{Z}/6 & \mathbb{Z}/6\\\    \end{bmatrix}    
 \]
 
 
