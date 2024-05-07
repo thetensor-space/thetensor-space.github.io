@@ -5,7 +5,7 @@ categories: [ Workshops ]
 ---
 
 <img src="/uploads/images/TAGA_2024.png" width=100 align="left">
-<H3><p style="color:ForestGreen">Day 2 Thursday May 30</p>
+<H3><p style="color:ForestGreen"><i class='fas fa-chalkboard-teacher'></i> Day 2 Thursday May 30</p>
 <p style="color:DarkGoldenRod" >TAGA24 Training Workshop</p></H3>
 <p> 
  
