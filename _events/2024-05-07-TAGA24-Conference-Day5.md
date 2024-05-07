@@ -7,9 +7,10 @@ categories: [ Workshops ]
 <img src="/uploads/images/TAGA_2024.png" width=100 align="left">
 <H3><p style="color:DarkGoldenRod"><i class='fas fa-users'></i> Day 5 Friday June 7</p>
 <p style="color:ForestGreen" >TAGA24 Conference</p></H3>
-<p> 
- 
+
 ---
+
+### Contents
 
  * [Main Page](https://thetensor.space/events/TAGA-2024)
  * [Schedule](#schedule)

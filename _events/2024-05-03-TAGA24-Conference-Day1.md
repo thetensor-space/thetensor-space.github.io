@@ -8,9 +8,10 @@ categories: [ Workshops ]
 align="left">
 <H3><p style="color:DarkGoldenRod"><i class='fas fa-users'></i> Day 1 Monday June 3</p>
 <p style="color:ForestGreen" >TAGA24 Conference</p></H3>
-<p> 
  
 ---
+
+### Contents
 
  * [Main Page](https://thetensor.space/events/TAGA-2024)
  * [Schedule](#schedule)
