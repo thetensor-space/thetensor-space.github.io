@@ -33,7 +33,7 @@ related: /events/TAGA24-Workshop-Day2
   <td style="background-color:White">9:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 1 <br>
+    TBD<br>
   </td>
   <td style="background-color:White">Weber 223</td>
 </tr>
@@ -51,7 +51,7 @@ related: /events/TAGA24-Workshop-Day2
   <td style="background-color:White">10:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 2 <br>
+    TBD<br>
   </td>
   <td style="background-color:White">Weber 223</td>
 </tr>
@@ -59,7 +59,7 @@ related: /events/TAGA24-Workshop-Day2
   <td style="background-color:White">10:40</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 3 <br>
+    TBD<br>
   </td>
   <td style="background-color:White">Weber 223</td>
 </tr>
@@ -84,7 +84,7 @@ related: /events/TAGA24-Workshop-Day2
   <td style="background-color:White">1:30</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 4
+    TBD
   </td>
   <td style="background-color:White">Weber 223</td>
 </tr>
@@ -92,7 +92,7 @@ related: /events/TAGA24-Workshop-Day2
   <td style="background-color:White">2:10</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 5
+    TBD
   </td>
   <td style="background-color:White">Weber 223</td>
 </tr>
@@ -110,7 +110,7 @@ related: /events/TAGA24-Workshop-Day2
   <td style="background-color:White">3:20</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 6
+    TBD
   </td>
   <td style="background-color:White">Weber 223</td>
 </tr>
@@ -127,27 +127,27 @@ related: /events/TAGA24-Workshop-Day2
 A training workshop for interested participants will take place Wednesday May 29 through Friday May 31.  An excursion in the local area will be planned for Saturday June 1.  The workshop will feature short courses and software training with a focus on the following 6 general topics.  
 
 
-### Intro to tensors 
+### [Intro to tensors](/events/Intro-to-tensors)
 An introduction to tensors: notation, vocabulary, basic properties, and the landscape of research.  
 
 Lead by Professors Elina Robeva of University of British Columbia & James B. Wilson, Colorado State University
 
-### Determinantal varieties and Pfaffians
+### [Determinantal varieties and Pfaffians](/events/Determinantal-varieties-and-Pfaffians)
 The algebraic geometry of tensors.  
 
 Lead by Professor Christopher Voll, Bielefeld
 
-### Adjoints and derivations
+### [Adjoints and derivations](/events/Adjoints-and-derivations)
 The linearization of tensor methods
 
 Lead by Professor Peter A. Brooksbank, Bucknell University 
 
-### Comparing tensors
+### [Comparing tensors](/events/Comparing-tensors)
 Isomorphism problems.
 
 Lead by Professor Joshua Maglione, University of Galway
 
-### Combinatorics of tensors
+### [Combinatorics of tensors](/events/Combinatorics-of-tensors)
 Graph analogs and q-analogs.  
 
 Lead by Professor Youming Qiao, University of Technology Sydney

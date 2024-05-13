@@ -17,7 +17,7 @@ categories: [ Workshops ]
  * [Events](#events)
 
 Wednesday is a day to enjoy the mountains.  You hike out with new and old friends or join the crew on the zipline.  
-Plan ahead, bring adequate water, sunscreen, a sake lunch is available from the dinning hall.  
+Plan ahead, bring adequate water, sunscreen. A lunch is available from the dinning hall.  
 
 You may also stay back and work with a collaboration.  No judgement whatever you decide.
 
