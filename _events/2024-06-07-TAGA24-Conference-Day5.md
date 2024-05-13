@@ -38,7 +38,7 @@ categories: [ Workshops ]
   <td style="background-color:White">9:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 15 <br>
+    Talk 16 <br>
   </td>
   <td style="background-color:White">Hotchkiss Lodge</td>
 </tr>
@@ -56,7 +56,7 @@ categories: [ Workshops ]
   <td style="background-color:White">10:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 16 <br>
+    Talk 17 <br>
   </td>
   <td style="background-color:White">Hotchkiss Lodge</td>
 </tr>
@@ -64,7 +64,7 @@ categories: [ Workshops ]
   <td style="background-color:White">10:40</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 17 <br>
+    Talk 18 <br>
   </td>
   <td style="background-color:White">Hotchkiss Lodge</td>
 </tr>

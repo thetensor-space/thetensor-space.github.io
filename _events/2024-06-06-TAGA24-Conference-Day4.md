@@ -38,7 +38,7 @@ categories: [ Workshops ]
   <td style="background-color:White">9:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 10 <br>
+    Talk 11 <br>
   </td>
   <td style="background-color:White">Hotchkiss Lodge</td>
 </tr>
@@ -115,7 +115,7 @@ categories: [ Workshops ]
   <td style="background-color:White">3:20</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 15
+    Talk 16
   </td>
   <td style="background-color:White">Hotchkiss Lodge</td>
 </tr>

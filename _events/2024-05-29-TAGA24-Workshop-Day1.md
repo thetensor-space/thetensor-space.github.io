@@ -33,7 +33,7 @@ related: /events/TAGA24-Workshop-Day2
   <td style="background-color:White">9:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 1 <br>
+    TBD<br>
   </td>
   <td style="background-color:White">Weber 223</td>
 </tr>
@@ -51,7 +51,7 @@ related: /events/TAGA24-Workshop-Day2
   <td style="background-color:White">10:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 2 <br>
+    TBD<br>
   </td>
   <td style="background-color:White">Weber 223</td>
 </tr>
@@ -59,7 +59,7 @@ related: /events/TAGA24-Workshop-Day2
   <td style="background-color:White">10:40</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 3 <br>
+    TBD<br>
   </td>
   <td style="background-color:White">Weber 223</td>
 </tr>
@@ -84,7 +84,7 @@ related: /events/TAGA24-Workshop-Day2
   <td style="background-color:White">1:30</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 4
+    TBD
   </td>
   <td style="background-color:White">Weber 223</td>
 </tr>
@@ -92,7 +92,7 @@ related: /events/TAGA24-Workshop-Day2
   <td style="background-color:White">2:10</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 5
+    TBD
   </td>
   <td style="background-color:White">Weber 223</td>
 </tr>
@@ -110,7 +110,7 @@ related: /events/TAGA24-Workshop-Day2
   <td style="background-color:White">3:20</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 6
+    TBD
   </td>
   <td style="background-color:White">Weber 223</td>
 </tr>
