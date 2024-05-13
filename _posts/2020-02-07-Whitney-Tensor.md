@@ -24,20 +24,20 @@ If you never understood a tensor product this article is for you.  If you alread
 
 ### The tensor product with coordinates
 
-Let \\(\mathbb{R}\\) be the coefficients of our tensor -- if you know of other commutative rings use whatever you like here. Let us assume \\(\mathbb{R}^a\\) is a list (a row) vector and\\(v^{\top}\\) denote a transpose.
+Let \\(\mathbb{R}\\) be the coefficients of our tensor -- if you know of other commutative rings use whatever you like here. Let us assume \\(\mathbb{R}^a\\) is a list (a row) vector and \\(v^{\top}\\) denote a transpose.
 
-\begin{gather}
+\begin{gather\*}
     \otimes:\mathbb{R}^a\times \mathbb{R}^b\rightarrowtail 
         \mathbb{M}_{a\times b}(\mathbb{R})
     \qquad
     v\otimes u := v^{\top}u.
-\end{gather}
+\end{gather\*}
 
 ![](/uploads/images/Tensor-Product-Def-2D.gif)
 
 For example with $v=(1,7)$ and $u=(1,2,3)$ we get
 
-\begin{gather}
+\begin{gather\*}
 v\otimes u =
 \begin{bmatrix}
 % IMPORTANT 1: need the space after the 4 backslashes. otherwise will not render.
@@ -55,7 +55,7 @@ v\otimes u =
 1 & 2 & 3\\\\ 
 7 & 14 & 21
 \end{bmatrix}.
-\end{gather}
+\end{gather\*}
 
 What is\\(\rightarrowtail\\)?  It special notation for the distributive property.
 
@@ -94,7 +94,7 @@ Proof. Let \\(\{e_1,\ldots,e_a\}\\) be a basis of \\(\mathbb{R}^a\\) and \\(\{f_
 
 Here \\(E_{ij}\\) is the \\((a\times b)\\)-matrix with zero every except at \\(ij\\) where it is \\(1\\).  Evidently \\(\{E_{ij}\}\\) is a basis of \\(\mathbb{M}_{a\times b}(\mathbb{R})\\) so we have defined \\(\hat{\circ}\\) on a basis. \\(\Box\\)
 
-**Remark.** For those in the know: we haven't avoided free modules. We still use a basis, but we haven't needed to add in additional relations such as \\((v_2+v'_2,v_1)-(v_2,v_1)-(v'_2,v_1)\\) and others in order to create \\(V_2\otimes V_1\\).  Matrices already include the necessary relations.  If it seems this is a trick solely possible for fields then take a look at our later section.
+**Remark.** For those in the know: we haven't avoided free modules. We still use a basis, but we haven't needed to add in additional relations such as \\((v_2+v\'_2,v_1)-(v_2,v_1)-(v\'_2,v_1)\\) and others in order to create \\(V_2\otimes V_1\\).  Matrices already include the necessary relations.  If it seems this is a trick solely possible for fields then take a look at our later section.
 
 **Observation 2.** 
 
@@ -127,10 +127,10 @@ That is it.  We have made a tensor product of two vector spaces.  Some call this
 
 This was almost too easy.  Why don't we try something a bit harder.  For example lets assume an audience now that knows of quotients, for example \\(\mathbb{Z}/12=\{0,1,2,\ldots,11\}\\), i.e.: the time of day which is cyclical and resets every 12 hours, and letting \\(0\\) be \\(12\\). The let us make more creative lists of vectors (modules technically).
 
-\begin{align}
+\begin{align\*}
 V_2 & = \mathbb{Z}/3\oplus\mathbb{Z}/6\\\\ 
 V_1 & = \mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/12
-\end{align}
+\end{align\*}
 
 How should we form \\(V_2\otimes V_1\\)?  Again matrices suffice, but we have to fold in the concept of an **ideal**.
 
@@ -152,18 +152,18 @@ Vertically we take the tensor product of the \\(\mathbb{Z}\\)'s creating
 
 This is a distributive product, and to make quotients of distributive products we need ideals.  Ideals are subspaces that absorb products on the right, such as
 
-\begin{align}
+\begin{align\*}
 R & := \\{(3a,6b)\mid a,b\in \mathbb{Z}\\}\otimes \mathbb{Z}^{\oplus 3}\\\\ 
 & = \left\\{
     \begin{bmatrix} 3a & 3b & 3c \\\\ 
     6d & 6e & 6f
     \end{bmatrix} \middle| a,b,c,d,e,f\in \mathbb{Z}\right
     \\}
-\end{align}
+\end{align\*}
 
 left ideals absorb products on the left
 
-\begin{align}
+\begin{align\*}
 L & := \mathbb{Z}^{\oplus 2}\otimes \{(2a,6b,12c)\mid a,b,c\in \mathbb{Z}\}\\\\ 
 & = \left\\{
     \begin{bmatrix}
@@ -171,38 +171,38 @@ L & := \mathbb{Z}^{\oplus 2}\otimes \{(2a,6b,12c)\mid a,b,c\in \mathbb{Z}\}\\\\
     2d & 6e & 12 f
     \end{bmatrix}\middle| a,b,c,d,e,f\in \mathbb{Z}\right
     \\}
-\end{align}
+\end{align\*}
 
 So to make 2-sided ideal we add these together:
 
-\begin{align}
+\begin{align\*}
 I := R+L = \left\\{
     \begin{bmatrix}
     1a & 3b & 3c\\\\ 
     2d & 6e & 6f
     \end{bmatrix}\middle| a,b,c,d,e,f\in \mathbb{Z}\right
     \\}
-\end{align}
+\end{align\*}
 
 **Definition.**
 
-\begin{align}
+\begin{align\*}
 V_2\otimes V_1 = \mathbb{M}_{2\times 3}(\mathbb{Z})/I  \\\\ 
 \begin{bmatrix}
 \mathbb{Z}/1 & \mathbb{Z}/3 & \mathbb{Z}/3 \\\\ 
 \mathbb{Z}/2 & \mathbb{Z}/6 & \mathbb{Z}/6
 \end{bmatrix}
-\end{align}
+\end{align\*}
 
 
 Some may wish to check this against other treatments.
 
 
-\begin{align}
+\begin{align\*}
 (\mathbb{Z}/3\oplus \mathbb{Z}/6)&\otimes (\mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/12) \\\\ 
 & =(\mathbb{Z}/3\otimes (\mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/12))\oplus (\mathbb{Z}/6\otimes (\mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/12)) \\\\ 
 & =(\mathbb{Z}/1\oplus \mathbb{Z}/3\oplus \mathbb{Z}/3)\oplus (\mathbb{Z}/2\oplus \mathbb{Z}/6\oplus \mathbb{Z}/6).
-\end{align}
+\end{align\*}
 
 For those who know what to expect, we get what we expect.  And again we
 have not had to begin with the free module \\(\mathbb{Z}[V_2\times V_1]\\) and throw in an enormous number of relations.  In fact the matrix model we have used is an ideal choice for computation.

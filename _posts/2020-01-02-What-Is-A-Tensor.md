@@ -97,6 +97,7 @@ $$
 
 
 Indeed,
+
 $$
 \begin{aligned}
 \langle f|\alpha u_2+\beta u_2', u_1\rangle
@@ -105,10 +106,12 @@ $$
 & = \alpha\langle f|u_2,u_1\rangle+\beta\langle f|u_2,u'_1\rangle
 \end{aligned}
 $$
+
 A lot of fuss is made about the scalars but in truth once we know $\langle f|$ is bilinear we can reconstruct the scalars for free through something called _centroids_.  Trust us.  So really you can ignore $\alpha$'s and $\beta$'s and focus on one key point:
 > Bilinear maps are distributive products.
 
-To drive that point home write $u_2*u_1 := \langle f|u_2,u_1\rangle$ and let $\alpha=\beta=1$.  Then all we have said is the following.
+To drive that point home write $u_2*u_1 := \langle f\|u_2,u_1\rangle$ and let $\alpha=\beta=1$.  Then all we have said is the following.
+
 $$
 \begin{aligned}
 (u_2+u'_2)*u_1 & =  u_2*u_1 + u'_2*u_1\\
@@ -128,6 +131,7 @@ V_0\oslash \cdots \oslash V_{\ell+1} :=
 (V_0\oslash \cdots\oslash V_{\ell})\oslash V_{\ell+1}
 $$
 consists of _multi_-linear maps.  Once more the scalars are barely important.  You should think of these are large distributive products.  Something like trinomials $xyz$, i.e.
+
 $$
 \begin{aligned}
 (x+x')yz & = xyz+x'yz \\
@@ -135,7 +139,9 @@ x(y+y')z & = xyz+xy'z\\
 xy(z+z') & = xyz+xyz'.
 \end{aligned}
 $$
-Our Dirac styled notation lets us capture these higher arity products.  Here we have a trinary distributive product $\langle t|$:
+
+Our Dirac styled notation lets us capture these higher arity products.  Here we have a trinary distributive product $\langle t\|$:
+
 $$
 \begin{aligned}
 \langle t| v_3+v'_3,v_2,v_1\rangle & = \langle t | v_3,v_2,v_1\rangle+\langle t|v'_3,v_2,v_1\rangle \\
@@ -143,9 +149,10 @@ $$
 \langle t| v_3,v_2,v_1+v'_1\rangle & = \langle t | v_3,v_2,v_1\rangle+\langle t|v_3,v_2,v'_1\rangle.
 \end{aligned}
 $$
+
 There is a little notational manuever to cut down on repetition.  Since we bothered to index our variables, there is no need to put them in order.  So distributive in all variables can be captured with one identity.
 $$
-(\forall a)\qquad
+(\forall a)\quad
 \langle t|v_a+v'_a,v_{\bar{a}}\rangle=\langle t|v_a,v_{\bar{a}}\rangle+\langle t|v'_a,v_{\bar{a}}\rangle.
 $$
 Her $\bar{a}$ means the complement of the index $a$ in $\{1,\ldots,\ell\}$.
