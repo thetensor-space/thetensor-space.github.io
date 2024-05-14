@@ -10,13 +10,11 @@ author: james
 
 
 The context is that we have a fixed commutative ring $K$ of coefficients, often a field or the integers.  We also have $K$-modules $V_0,\ldots,V_{\ell}$.  We define the space of multilinear maps recursively
-$$
-\begin{aligned}
-V_0\oslash V_1 & = \hom_K(V_1,V_0)=\{\langle f|:V_1\to V_0\textnormal{ linear}\}\\
+\begin{align\*}
+V_0\oslash V_1 & = \hom_K(V_1,V_0)=\{\langle f|:V_1\to V_0\textnormal{ linear}\} \\\\ 
 V_0\oslash \cdots \oslash V_{\ell} & = (V_0\oslash\cdots \oslash V_{\ell-1})\oslash V_{\ell}
-\end{aligned}
-$$
-See [Tensors](Tensors) for a detailed walk through this notation and definitions.
+\end{align\*}
+See [Tensors](/docs/tensors) for a detailed walk through this notation and definitions.
 
 We can now define a tensor space.  
 
