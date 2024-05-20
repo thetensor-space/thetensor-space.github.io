@@ -10,46 +10,94 @@ categories: [ Workshops, TAGA24 ]
 
  
 ---
+### Schedule 
 
-### Contents
+<table>
+<tr>
+  <td style="background-color:LightGrey">Time</td>
+  <td style="background-color:AntiqueWhite">Thursday May 30</td>
+  <td style="background-color:LightGrey">Location</td>
 
- * [Main Page](https://thetensor.space/events/TAGA-2024)
- * [Schedule](#schedule)
- * [Speakers & Abstracts](#speakers--abstracts)
-
-
-
-A training workshop for interested participants will take place Wednesday May 29 through Friday May 31.  An excursion in the local area will be planned for Saturday June 1.  The workshop will feature short courses and software training with a focus on the following 6 general topics.  
-
-
-### Intro to tensors 
-An introduction to tensors: notation, vocabulary, basic properties, and the landscape of research.  
-
-Lead by Professors Elina Robeva of University of British Columbia & James B. Wilson, Colorado State University
-
-### Determinantal varieties and Pfaffians
-The algebraic geometry of tensors.  
-
-Lead by Professor Christopher Voll, Bielefeld
-
-### Adjoints and derivations
-The linearization of tensor methods
-
-Lead by Professor Peter A. Brooksbank, Bucknell University 
-
-### Comparing tensors
-Isomorphism problems.
-
-Lead by Professor Joshua Maglione, University of Galway
-
-### Combinatorics of tensors
-Graph analogs and q-analogs.  
-
-Lead by Professor Youming Qiao, University of Technology Sydney
-
-<!-- ### Tensors in statistics and Data Science
-Lead by industry representatives -->
-
-The workshop will be held on the Fort Collins Campus of Colorado State University.  We will meet Wednesday in Weber Building Room 106 for coffee and snacks each morning W, Th. Fr. at 9am before the start of each mini course.
+</tr>
 
 
+<tr>
+  <td style="background-color:White">8:30</td>
+  <td style="background-color:SaddleBrown;color:SandyBrown">
+  <i class='fas fa-mug-hot'></i>
+  Coffee & Tea
+  </td>
+  <td style="background-color:White">TBD</td>
+</tr>
+
+<tr>
+  <td style="background-color:White">9:00</td>
+  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
+    <i class='fas fa-chalkboard-teacher'></i>
+    <a href="./TAGA24-Workshop-Resources#intro-to-tensors" target="_blank" style="color:inherit"> Intro to Tensors III </a>
+  </td>
+  <td style="background-color:White">Weber 223</td>
+</tr>
+
+<tr>
+  <td style="background-color:White">10:00</td>
+  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
+    <i class='fas fa-chalkboard-teacher'></i>
+    <a href="./TAGA24-Workshop-Resources#adjoints-and-derivations" target="_blank" style="color:inherit"> Adjoints and derivations II</a>
+  </td>
+  <td style="background-color:White">Weber 223</td>
+</tr>
+<tr>
+  <td style="background-color:White">11:00</td>
+  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
+    <i class='fas fa-chalkboard-teacher'></i>
+    <a href="./TAGA24-Workshop-Resources#determinantal-varieties-and-pfaffians" target="_blank" style="color:inherit"> Determinantal varieties and Pfaffians II</a>
+  </td>
+  <td style="background-color:White">Weber 223</td>
+</tr>
+<tr>
+  <td style="background-color:White">12:00</td>
+  <td style="background-color:Wheat">
+  <i class='fas fa-bread-slice'></i>
+  Lunch
+  </td>
+  <td style="background-color:White">On your own local area</td>
+</tr>
+
+<tr>
+  <td style="background-color:White">1:30</td>
+  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
+    <i class='fas fa-chalkboard-teacher'></i>
+    <a href="./TAGA24-Workshop-Resources#tensor-ismorphisms" target="_blank" style="color:inherit"> Tensor Isomorphisms II</a>
+  </td>
+  <td style="background-color:White">Weber 223</td>
+</tr>
+
+<tr>
+  <td style="background-color:White">2:30</td>
+  <td style="background-color:MistyRose;color:DarkSlateGrey">
+    <i class='fas fa-icons'></i>
+    Break
+  </td>
+</tr>
+
+<tr>
+  <td style="background-color:White">3:30</td>
+  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
+    <i class='fas fa-chalkboard-teacher'></i>
+    <a href="./TAGA24-Workshop-Resources#tensor-combintorics" target="_blank" style="color:inherit"> Tensor Combinatorics I</a>
+  </td>
+  <td style="background-color:White">Weber 223</td>
+</tr>
+
+<tr>
+  <td style="background-color:White">4:30</td>
+  <td style="background-color:MistyRose;color:DarkSlateGrey">
+    <i class='fas fa-pen'></i><i class='fas fa-eraser'></i>
+    Office hours <br/>
+  </td>
+  <td style="background-color:White">TBD</td>
+</tr>
+</table>
+
+Link back to [workshop home](./TAGA-2024)

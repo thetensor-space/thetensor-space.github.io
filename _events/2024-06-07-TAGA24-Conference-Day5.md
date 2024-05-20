@@ -9,13 +9,6 @@ categories: [ Workshops ]
 <p style="color:ForestGreen" >TAGA24 Conference</p></H3>
 
 ---
-
-### Contents
-
- * [Main Page](https://thetensor.space/events/TAGA-2024)
- * [Schedule](#schedule)
- * [Speakers & Abstracts](#speakers--abstracts)
-
 ### Schedule
 <table>
 <tr>
@@ -38,7 +31,7 @@ categories: [ Workshops ]
   <td style="background-color:White">9:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 16 <br>
+    <a href="./TAGA24-Conference-Resources#talk-17" target="_blank" style="color:inherit"> Talk 17</a>
   </td>
   <td style="background-color:White">Hotchkiss Lodge</td>
 </tr>
@@ -56,7 +49,7 @@ categories: [ Workshops ]
   <td style="background-color:White">10:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 17 <br>
+    <a href="./TAGA24-Conference-Resources#talk-18" target="_blank" style="color:inherit"> Talk 18</a>
   </td>
   <td style="background-color:White">Hotchkiss Lodge</td>
 </tr>
@@ -64,7 +57,7 @@ categories: [ Workshops ]
   <td style="background-color:White">10:40</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 18 <br>
+    <a href="./TAGA24-Conference-Resources#talk-19" target="_blank" style="color:inherit"> Talk 19</a>
   </td>
   <td style="background-color:White">Hotchkiss Lodge</td>
 </tr>
@@ -95,7 +88,7 @@ categories: [ Workshops ]
   <td style="background-color:White">Hotchkiss Lodge,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
 </tr>
 <tr>
-  <td style="background-color:White">5:00</td>
+  <td style="background-color:White">4:00</td>
   <td style="background-color:FireBrick;color:SandyBrown">
     <i class='fas fa-bus'></i>
     Load bus to CSU Fort Collins.<br>
@@ -107,5 +100,4 @@ categories: [ Workshops ]
 
 </table>
 
-
-### Speakers & Abstracts
+Link back to [workshop home](./TAGA-2024)

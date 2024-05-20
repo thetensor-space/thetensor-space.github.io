@@ -10,13 +10,6 @@ align="left">
 <p style="color:ForestGreen" >TAGA24 Conference</p></H3>
  
 ---
-
-### Contents
-
- * [Main Page](https://thetensor.space/events/TAGA-2024)
- * [Schedule](#schedule)
- * [Speakers & Abstracts](#speakers--abstracts)
-
 ### Schedule 
 <table>
 <tr>
@@ -27,26 +20,62 @@ align="left">
 </tr>
 
 <tr>
-  <td style="background-color:White">8:30</td>
+  <td style="background-color:White">9:00</td>
   <td style="background-color:SaddleBrown;color:SandyBrown">
   <i class='fas fa-mug-hot'></i>
   Coffee & Tea<br>
   <i class='fas fa-edit'></i>Check-in and Name tags<br/> 
   </td>
-  <td style="background-color:White">Weber Building Room 223</td>
+  <td style="background-color:White">Weber 223</td>
 </tr>
 
 <tr>
-  <td style="background-color:White">9:00</td>
+  <td style="background-color:White">9:30</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 1 <br>
+    <a href="./TAGA24-Conference-Resources#talk-1" target="_blank" style="color:inherit"> Talk 1</a>
   </td>
-  <td style="background-color:White">Weber Building Room 223</td>
+  <td style="background-color:White">Weber 223</td>
 </tr>
 
 <tr>
-  <td style="background-color:White">9:50</td>
+  <td style="background-color:White">10:10</td>
+  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
+    <i class='fas fa-chalkboard-teacher'></i>
+    <a href="./TAGA24-Conference-Resources#talk-2" target="_blank" style="color:inherit"> Talk 2</a>
+  </td>
+  <td style="background-color:White">Weber 223</td>
+</tr>
+
+<tr>
+  <td style="background-color:White">10:50</td>
+  <td style="background-color:MistyRose;color:DarkSlateGrey">
+    <i class='fas fa-icons'></i>
+    Break<br>
+  </td>
+  <td style="background-color:White"></td>
+</tr>
+
+<tr>
+  <td style="background-color:White">11:20</td>
+  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
+    <i class='fas fa-chalkboard-teacher'></i>
+    <a href="./TAGA24-Conference-Resources#talk-3" target="_blank" style="color:inherit"> Talk 3</a>
+  </td>
+  <td style="background-color:White">Weber 223</td>
+</tr>
+
+<tr>
+  <td style="background-color:White">12:00</td>
+  <td style="background-color:Wheat">
+  <i class='fas fa-bread-slice'></i>
+  Lunch
+  </td>
+  <td style="background-color:White">On your own local area</td>
+</tr>
+
+<tr>
+  <td style="background-color:White">1:30</td>
   <td style="background-color:FireBrick;color:SandyBrown">
     <i class='fas fa-bus'></i>
     Load bus to CSU Mountain Campus.<br>
@@ -57,45 +86,19 @@ align="left">
 </tr>
 
 <tr>
-  <td style="background-color:White">12:00</td>
-  <td style="background-color:Wheat">
-  <i class='fas fa-bread-slice'></i>
-  Lunch
-  </td>
-  <td style="background-color:White">Dinning Hall</td>
-</tr>
-
-<tr>
-  <td style="background-color:White">1:30</td>
-  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
-    <i class='fas fa-chalkboard-teacher'></i>
-    Talk 2
-  </td>
-  <td style="background-color:White">Hotchkiss Lodge</td>
-</tr>
-<tr>
-  <td style="background-color:White">2:10</td>
-  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
-    <i class='fas fa-chalkboard-teacher'></i>
-    Talk 3
-  </td>
-  <td style="background-color:White">Hotchkiss Lodge</td>
-</tr>
-
-<tr>
-  <td style="background-color:White">2:40</td>
-  <td style="background-color:SaddleBrown;color:SandyBrown">
-  <i class='fas fa-mug-hot'></i>
-  Coffee & Tea
-  </td>
-  <td style="background-color:White">Hotchkiss Lodge</td>
-</tr>
-
-<tr>
   <td style="background-color:White">3:20</td>
+  <td style="background-color:SaddleBrown;color:SandyBrown">
+    <i class='fas fa-plane-arrival'></i>
+    Arrival Briefing
+  </td>
+  <td style="background-color:White">Hotchkiss Lodge</td>
+</tr>
+
+<tr>
+  <td style="background-color:White">4:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    Talk 4
+    <a href="./TAGA24-Conference-Resources#talk-4" target="_blank" style="color:inherit"> Talk 4</a>
   </td>
   <td style="background-color:White">Hotchkiss Lodge</td>
 </tr>
@@ -129,4 +132,4 @@ align="left">
 
 </table>
 
-### Speakers & Abstracts
+Link back to [workshop home](./TAGA-2024)
