@@ -75,7 +75,7 @@ align="left">
 </tr>
 
 <tr>
-  <td style="background-color:White">1:30</td>
+  <td style="background-color:White">12:45</td>
   <td style="background-color:FireBrick;color:SandyBrown">
     <i class='fas fa-bus'></i>
     Load bus to CSU Mountain Campus.<br>
