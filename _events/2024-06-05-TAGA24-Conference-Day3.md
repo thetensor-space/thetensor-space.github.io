@@ -6,7 +6,7 @@ categories: [ Workshops ]
 
 <img src="/uploads/images/TAGA_2024.png" width=100 align="left">
 <H3><p style="color:DarkGoldenRod"><i class='fas fa-hiking'></i> Day 3 Wednesday June 5</p>
-<p style="color:ForestGreen" >TAGA24 Conference</p></H3>
+<p style="color:ForestGreen" ><a href="./TAGA-2024" style="color:inherit">TAGA24 Conference</a></p></H3>
  
 ---
 
@@ -80,7 +80,7 @@ You may also stay back and work with a collaboration.  No judgement whatever you
 
 </table>
 
-Link back to [workshop home](./TAGA-2024)
+Link back to [conference home](./TAGA-2024)
 
 
 ### Events

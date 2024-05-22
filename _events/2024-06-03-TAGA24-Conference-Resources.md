@@ -123,12 +123,6 @@ categories: [ Workshops ]
 
 **Abstract:** TBD
 
-## Talk 19
-
-**Speaker:**  TBD
-
-**Abstract:** TBD
-
 
 <!-- Example video embed snippet
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VqteyFC3M60?si=EbfzhFNSYzOr0RW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

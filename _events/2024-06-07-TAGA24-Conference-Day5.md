@@ -6,7 +6,7 @@ categories: [ Workshops ]
 
 <img src="/uploads/images/TAGA_2024.png" width=100 align="left">
 <H3><p style="color:DarkGoldenRod"><i class='fas fa-users'></i> Day 5 Friday June 7</p>
-<p style="color:ForestGreen" >TAGA24 Conference</p></H3>
+<p style="color:ForestGreen" ><a href="./TAGA-2024" style="color:inherit">TAGA24 Conference</a></p></H3>
 
 ---
 ### Schedule
@@ -31,7 +31,7 @@ categories: [ Workshops ]
   <td style="background-color:White">9:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-17" target="_blank" style="color:inherit"> Talk 17</a>
+    <a href="./TAGA24-Conference-Resources#talk-16" target="_blank" style="color:inherit"> Talk 16</a>
   </td>
   <td style="background-color:White">Hotchkiss Lodge</td>
 </tr>
@@ -49,7 +49,7 @@ categories: [ Workshops ]
   <td style="background-color:White">10:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-18" target="_blank" style="color:inherit"> Talk 18</a>
+    <a href="./TAGA24-Conference-Resources#talk-17" target="_blank" style="color:inherit"> Talk 17</a>
   </td>
   <td style="background-color:White">Hotchkiss Lodge</td>
 </tr>
@@ -57,7 +57,7 @@ categories: [ Workshops ]
   <td style="background-color:White">10:40</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-19" target="_blank" style="color:inherit"> Talk 19</a>
+    <a href="./TAGA24-Conference-Resources#talk-18" target="_blank" style="color:inherit"> Talk 18</a>
   </td>
   <td style="background-color:White">Hotchkiss Lodge</td>
 </tr>
@@ -100,4 +100,4 @@ categories: [ Workshops ]
 
 </table>
 
-Link back to [workshop home](./TAGA-2024)
+Link back to [conference home](./TAGA-2024)

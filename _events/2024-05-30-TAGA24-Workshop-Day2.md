@@ -100,4 +100,4 @@ categories: [ Workshops, TAGA24 ]
 </tr>
 </table>
 
-Link back to [workshop home](./TAGA-2024)
+Link back to [conference home](./TAGA-2024)
