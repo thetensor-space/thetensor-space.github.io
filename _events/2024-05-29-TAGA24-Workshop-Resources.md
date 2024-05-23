@@ -28,7 +28,7 @@ categories: [ Workshops ]
 
 **Abstract:** The algebraic geometry of tensors.
 
-## [Adjoints and derivations](#adjoints-and-derivations){:style="color:inherit"}
+## [Linear methods for tensors](#linear-methods-for-tensors){:style="color:inherit"}
 
 **Speaker:** 
 <a href="https://brooksbank.scholar.bucknell.edu/" target="_blank">Peter A. Brooksbank</a>, Bucknell University

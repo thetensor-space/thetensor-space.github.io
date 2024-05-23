@@ -43,7 +43,7 @@ categories: [ Workshops, TAGA24 ]
   <td style="background-color:White">10:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Workshop-Resources#adjoints-and-derivations" target="_blank" style="color:inherit"> Adjoints and derivations II</a>
+    <a href="./TAGA24-Workshop-Resources#linear-methods-for-tensors" target="_blank" style="color:inherit">Linear methods for tensors II</a>
   </td>
   <td style="background-color:White">Weber 223</td>
 </tr>
