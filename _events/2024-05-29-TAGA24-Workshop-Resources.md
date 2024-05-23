@@ -22,7 +22,7 @@ categories: [ Workshops ]
 <br>
 <a href="https://www.math.colostate.edu/~jwilson/" target="_blank">James B. Wilson</a>, Colorado State University
 
-I am Professor of Mathematics at Colorado State University, affiliate faculty of the Data Science Research Institute at CSU, and co-organizer of Tensor: Algebra-Geometry-Applications (TAGA24) and its predecessor TACA 19.  I research algebra and computation with an affinity towards a tensors as a bridge to other fields.  I have spent time both as a mathematics research and within industry.  I am <i>big tent</i> minded tensor theorist happy to see progress on applications and theory and open to tensors filled with everything from real numbers to boolean algebras, to subatomic particles.  I am weakest on the algebrogeometric methods for tensors but I don't mind learning more about this from you. Please feel free to call me **James**.
+**Bio**: I am Professor of Mathematics at Colorado State University, affiliate faculty of the Data Science Research Institute at CSU, and co-organizer of Tensor: Algebra-Geometry-Applications (TAGA24) and its predecessor TACA 19.  I research algebra and computation with an affinity towards a tensors as a bridge to other fields.  I have spent time both as a mathematics research and within industry.  I am <i>big tent</i> minded tensor theorist happy to see progress on applications and theory and open to tensors filled with everything from real numbers to boolean algebras, to subatomic particles.  I am weakest on the algebrogeometric methods for tensors but I don't mind learning more about this from you. Please feel free to call me **James**.
 
 
 **Abstract:** An introduction to tensors: notation, vocabulary, basic properties, and the landscape of research.
@@ -54,9 +54,9 @@ Low rank approximation -->
 ## [Determinantal varieties and Pfaffians](#determinantal-varieties-and-pfaffians){:style="color:inherit"}
 
 **Speaker:** 
-<br><a href="https://www.math.uni-bielefeld.de/~voll/" target="_blank">Christopher Voll</a>, Bielefeld University
+<a href="https://www.math.uni-bielefeld.de/~voll/" target="_blank">Christopher Voll</a>, Bielefeld University
 
-My research interests are centred around asymptotic group theory, in particular arithmetic and analytic properties of zeta functions associated to infinite groups and rings. These are Dirichlet generating functions encoding arithmetic data about groups and rings, such as the numbers of finite index subobjects or finite-dimensional irreducible representations. The study of these zeta functions may be seen as a non-commutative analogue to the theory of the Dedekind zeta function of a number field, enumerating finite index ideals in the number field's ring of integers. This young subject area lies on the crossroads of infinite group and ring theory, algebraic geometry and combinatorics. 
+**Bio**: My research interests are centred around asymptotic group theory, in particular arithmetic and analytic properties of zeta functions associated to infinite groups and rings. These are Dirichlet generating functions encoding arithmetic data about groups and rings, such as the numbers of finite index subobjects or finite-dimensional irreducible representations. The study of these zeta functions may be seen as a non-commutative analogue to the theory of the Dedekind zeta function of a number field, enumerating finite index ideals in the number field's ring of integers. This young subject area lies on the crossroads of infinite group and ring theory, algebraic geometry and combinatorics. 
 
 **Abstract:** The algebraic geometry of tensors.
 
@@ -98,7 +98,7 @@ the underlying (local) counting problems.
 **Speaker:** 
 <a href="https://brooksbank.scholar.bucknell.edu/" target="_blank">Peter A. Brooksbank</a>, Bucknell University
 
-I am a Professor of Mathematics at Bucknell University, where I teach a range of courses including discrete mathematics and abstract algebra. I am also a Co-Director of the Dominguez Center for Data Science at Bucknell. I have research interests in computational algebra, discrete geometry, and multilinear algebra.
+**Bio**: I am a Professor of Mathematics at Bucknell University, where I teach a range of courses including discrete mathematics and abstract algebra. I am also a Co-Director of the Dominguez Center for Data Science at Bucknell. I have research interests in computational algebra, discrete geometry, and multilinear algebra.
 
 **Abstract:** These lectures concern the application of linear methods to tensor analysis. The ways in which linear methods are used in tensor theory are, of course, too numerous to list. However, these lectures focus on invariants of a tensor that can be computed as solutions of linear systems, and that possess an algebraic structure that can effectively be used to reveal corresponding structure in the tensor. The lectures will include some short software demos using the Magma system.
 
@@ -112,14 +112,27 @@ associated with a tensor: its ring of <i>adjoints</i>. We will discuss how adjoi
 ## [Tensor Isomorphisms](#tensor-isomorphisms){:style="color:inherit"}
 
 **Speaker:** 
-<br><a href="https://joshmaglione.com/" target="_blank">Joshua Maglione</a>, University of Galway
+<a href="https://joshmaglione.com/" target="_blank">Joshua Maglione</a>, University of Galway
 
-**Abstract:** Isomorphism problems.
+**Bio**: I am a mathematician at the University of Galway in the School of Mathematical and Statistical Sciences. My primary research interests are in algebra and combinatorics, with a focus on computation. I am also working on making the mathematics community more equal, just, and welcoming, so that we all may benefit from our differences.
+
+
+**Lecture 1**: Mapping the Terrain of the Many Tensor Isomorphism Problems
+
+Preparing for our journey up the mountain, we look at problems from algebra, geometry, and quantum information theory that help navigate through the many notions of tensor isomorphism. We formulate this as a decision problem, and we leverage the centroid to find some computational savings.
+
+**Lecture 2**: An Isomorphologist's Toolkit
+
+In this lecture, we delve into the toolkit of an isomorphologist, examining the rich taxonomy of tensor isomorphism invariants. These include the adjoint algebras, derivation Lie algebras, and projective varieties coming from determinants and Pfaffians.
+
+**Lecture 3**: Some of the Peaks of Tensor Isomorphism
+
+In the final lecture, we summit some of the many peaks and explore the vistas of efficient algorithms to decide isomorphism of tensors. We demonstrate how adjoint algebras help us decide isomorphism of a class of tensors in polynomial time. We optimize this approach by bringing in the Lie algebra of derivations, which yields the universally smallest search space cut out by algebras.
 
 ## [Tensor Combinatorics](#tensor-combinatorics){:style="color:inherit"}
 
 **Speaker:** 
-<br><a href="https://profiles.uts.edu.au/Youming.Qiao" target="_blank">Youming Qiao</a>, University of Technology Sydney
+<a href="https://profiles.uts.edu.au/Youming.Qiao" target="_blank">Youming Qiao</a>, University of Technology Sydney
 
 **Abstract:** Isomorphism problems.
 
