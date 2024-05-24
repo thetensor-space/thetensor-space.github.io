@@ -114,8 +114,8 @@ associated with a tensor: its ring of <i>adjoints</i>. We will discuss how adjoi
 **Speaker:** 
 <a href="https://joshmaglione.com/" target="_blank">Joshua Maglione</a>, University of Galway
 
-**Bio**: I am a mathematician at the University of Galway in the School of Mathematical and Statistical Sciences. My primary research interests are in algebra and combinatorics, with a focus on computation. I am also working on making the mathematics community more equal, just, and welcoming, so that we all may benefit from our differences.
-
+**Bio**: 
+I am a Lecturer at the University of Galway, and my research interests concern isomorphism and enumeration problems from algebra, with a large emphasis on computation. I develop efficient algorithms to aid in various isomorphism problems, like the Group and Tensor Isomorphism Problems. I also apply combinatorial tools to understand and compute certain p-adic integrals coming from zeta functions of groups and rings and Igusa's zeta function.
 
 **Lecture 1**: Mapping the Terrain of the Many Tensor Isomorphism Problems
 
