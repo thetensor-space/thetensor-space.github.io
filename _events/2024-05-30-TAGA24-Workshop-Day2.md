@@ -34,7 +34,8 @@ categories: [ Workshops, TAGA24 ]
   <td style="background-color:White">9:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Workshop-Resources#intro-to-tensors" target="_blank" style="color:inherit"> Intro to Tensors III </a>
+    <!-- <a href="./TAGA24-Workshop-Resources#intro-to-tensors" target="_blank" style="color:inherit"> Intro to Tensors III </a> -->
+    TBD
   </td>
   <td style="background-color:White">Weber 223</td>
 </tr>
@@ -43,7 +44,8 @@ categories: [ Workshops, TAGA24 ]
   <td style="background-color:White">10:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Workshop-Resources#linear-methods-for-tensors" target="_blank" style="color:inherit">Linear methods for tensors II</a>
+    <!-- <a href="./TAGA24-Workshop-Resources#linear-methods-for-tensors" target="_blank" style="color:inherit">Linear methods for tensors II</a> -->
+    TBD
   </td>
   <td style="background-color:White">Weber 223</td>
 </tr>
@@ -51,7 +53,8 @@ categories: [ Workshops, TAGA24 ]
   <td style="background-color:White">11:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Workshop-Resources#determinantal-varieties-and-pfaffians" target="_blank" style="color:inherit"> Determinantal varieties and Pfaffians II</a>
+    <!-- <a href="./TAGA24-Workshop-Resources#determinantal-varieties-and-pfaffians" target="_blank" style="color:inherit"> Determinantal varieties and Pfaffians II</a> -->
+    TBD
   </td>
   <td style="background-color:White">Weber 223</td>
 </tr>
@@ -68,7 +71,8 @@ categories: [ Workshops, TAGA24 ]
   <td style="background-color:White">1:30</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Workshop-Resources#tensor-ismorphisms" target="_blank" style="color:inherit"> Tensor Isomorphisms II</a>
+    <!-- <a href="./TAGA24-Workshop-Resources#tensor-ismorphisms" target="_blank" style="color:inherit"> Tensor Isomorphisms II</a> -->
+    TBD
   </td>
   <td style="background-color:White">Weber 223</td>
 </tr>
@@ -85,7 +89,8 @@ categories: [ Workshops, TAGA24 ]
   <td style="background-color:White">3:30</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Workshop-Resources#tensor-combintorics" target="_blank" style="color:inherit"> Tensor Combinatorics I</a>
+    <!-- <a href="./TAGA24-Workshop-Resources#tensor-combintorics" target="_blank" style="color:inherit"> Tensor Combinatorics I</a> -->
+    TBD
   </td>
   <td style="background-color:White">Weber 223</td>
 </tr>

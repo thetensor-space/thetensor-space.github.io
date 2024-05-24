@@ -12,9 +12,7 @@ categories: [ Workshops ]
 
  
 ---
-# Talks
-
-## [Intro to Tensors](#intro-to-tensors){:style="color:inherit"}
+# [Intro to Tensors](#intro-to-tensors){:style="color:inherit"}
 
 <a href="https://www.math.colostate.edu/~jwilson/" target="_blank">James B. Wilson</a>, Colorado State University
 
@@ -47,7 +45,7 @@ Bilinear complexity
 Signal separation
 Low rank approximation -->
 
-## [Tensor CP Decomposition](#tensor-cp-decomposition){:style="color:inherit"}
+# [Tensor CP Decomposition](#tensor-cp-decomposition){:style="color:inherit"}
 
 **Speaker:** 
 <br><a href="https://personal.math.ubc.ca/~erobeva/" target="_blank">Elina Robeva</a>, University of British Columbia
@@ -67,8 +65,7 @@ In this lecture we will finish our discussion of applications of CP decompositio
 
 In this final lecture we will turn to the theory of CP decomposition. We will see that despite its usefulness, CP decomposition does not have the desirable properties that matrix decompositions do — the set of tensors of rank at most r is not closed, the rank over the reals may be different from the rank over the complex numbers, for a symmetric tensor its rank may be different from its symmetric rank, and computing the rank, decomposition, and eigenvectors of a general tensor are computationally hard problems. These issues set the stage for a lot of the theoretical research in the area.
 
-
-## [Determinantal varieties and Pfaffians](#determinantal-varieties-and-pfaffians){:style="color:inherit"}
+# [Determinantal varieties and Pfaffians](#determinantal-varieties-and-pfaffians){:style="color:inherit"}
 
 **Speaker:** 
 <a href="https://www.math.uni-bielefeld.de/~voll/" target="_blank">Christopher Voll</a>, Bielefeld University
@@ -129,7 +126,7 @@ numbers. Their variation with the prime numbers often reveils
 intriguing and, in a sense I will make precise, "wild" variation of
 the underlying (local) counting problems.
 
-## [Linear methods for tensors](#linear-methods-for-tensors){:style="color:inherit"}
+# [Linear methods for tensors](#linear-methods-for-tensors){:style="color:inherit"}
 
 **Speaker:** 
 <a href="https://brooksbank.scholar.bucknell.edu/" target="_blank">Peter A. Brooksbank</a>, Bucknell University
@@ -151,7 +148,7 @@ associated with a tensor: its ring of <i>adjoints</i>. We will discuss how adjoi
 
 In the last lecture we will survey some applications and variations of the concepts and methods in lectures 1 & 2. For instance, we will look at tensors arising from <i>p</i>-groups that come with additional symmetries, and consider how to adapt our linear invariants to this new setting. We will also see how to apply linear techniques to restricted isomorphism problems and to certain group intersection problems. 
 
-## [Tensor Isomorphisms](#tensor-isomorphisms){:style="color:inherit"}
+# [Tensor Isomorphisms](#tensor-isomorphisms){:style="color:inherit"}
 
 **Speaker:** 
 <a href="https://joshmaglione.com/" target="_blank">Joshua Maglione</a>, University of Galway
@@ -171,7 +168,7 @@ In this lecture, we delve into the toolkit of an isomorphologist, examining the 
 
 In the final lecture, we summit some of the many peaks and explore the vistas of efficient algorithms to decide isomorphism of tensors. We demonstrate how adjoint algebras help us decide isomorphism of a class of tensors in polynomial time. We optimize this approach by bringing in the Lie algebra of derivations, which yields the universally smallest search space cut out by algebras.
 
-## [Tensors and graphs](#tensors-and-graphs){:style="color:inherit"}
+# [Tensors and graphs](#tensors-and-graphs){:style="color:inherit"}
 
 **Speaker:** 
 <a href="https://profiles.uts.edu.au/Youming.Qiao" target="_blank">Youming Qiao</a>, University of Technology Sydney
