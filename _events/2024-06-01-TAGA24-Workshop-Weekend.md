@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Workshop Weekend Optional Activities TAGA24
+title:  Workshop Weekend Fun Activities TAGA24
 categories: [ Workshops ]
 ---
 
 <img src="/uploads/images/TAGA_2024.png" width=100 align="left">
-<H3><p style="color:ForestGreen"><i class='fas fa-chalkboard-teacher'></i> Weekend Optional Activities June 1-2</p>
+<H3><p style="color:ForestGreen"><i class='fas fa-chalkboard-teacher'></i> Weekend Fun Activities June 1-2</p>
 <p style="color:DarkGoldenRod" >TAGA24 Training Workshop</p></H3>
 
  

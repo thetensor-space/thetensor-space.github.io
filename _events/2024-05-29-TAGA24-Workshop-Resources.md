@@ -18,6 +18,9 @@ categories: [ Workshops ]
 
 **Speakers:** 
 <br><a href="https://personal.math.ubc.ca/~erobeva/" target="_blank">Elina Robeva</a>, University of British Columbia
+
+**Bio**: Elina Robeva is an Assistant Professor in Mathematics at the University of British Columbia. Her work lies at the intersection of mathematical statistics, machine learning, applied and multilinear algebra. Elina obtained her PhD in Mathematics in 2016 at the University of California, Berkeley under the supervision of Bernd Sturmfels. From 2016 to 2019 she was a Statistics Instructor and an NSF Postdoctoral Fellow at MIT. She has received several awards for her research including the SIAM Algebraic Geometry Early Career Prize and the André-Aisenstadt Prize. Since 2024, she is also a Canada CIFAR AI Chair and a member of the Alberta Machine Intelligence Institute. 
+
 <br>
 <br>
 <a href="https://www.math.colostate.edu/~jwilson/" target="_blank">James B. Wilson</a>, Colorado State University
@@ -56,7 +59,27 @@ Low rank approximation -->
 **Speaker:** 
 <a href="https://www.math.uni-bielefeld.de/~voll/" target="_blank">Christopher Voll</a>, Bielefeld University
 
-**Bio**: My research interests are centred around asymptotic group theory, in particular arithmetic and analytic properties of zeta functions associated to infinite groups and rings. These are Dirichlet generating functions encoding arithmetic data about groups and rings, such as the numbers of finite index subobjects or finite-dimensional irreducible representations. The study of these zeta functions may be seen as a non-commutative analogue to the theory of the Dedekind zeta function of a number field, enumerating finite index ideals in the number field's ring of integers. This young subject area lies on the crossroads of infinite group and ring theory, algebraic geometry and combinatorics. 
+**Bio**: 
+Christopher received a PhD from Cambridge University in 2002. After
+postdocs
+in Oxford, Duesseldorf and Lausanne he took up a lectureship in
+Southampton
+(UK). Since 2011 he has been Professor of Mathematics, in particular
+Algebra,
+at Bielefeld University (Germany). He specializes in asymptotic and
+combinatorial algebra, in particular zeta functions of groups, rings,
+and
+modules.
+
+As Principal Investigator of the Research Centre
+[Integral Structures in Geometry and Representation Theory](https://trr358.math.uni-bielefeld.de/), Christopher will be recruiting a postdoc
+from 01
+January 2025 in a project on
+[Zeta functions of integral quiver representations](https://trr358.math.uni-bielefeld.de/projects/view/A6).
+
+Christopher Voll is co-organizer of the Research Programme
+[Combinatorial Methods in Enumerative Algebra](https://www.icts.res.in/program/cmea) at ICTS Bangalore in December 2024 (apply by 31 May
+2024).
 
 **Abstract:** The algebraic geometry of tensors.
 
@@ -134,7 +157,16 @@ In the final lecture, we summit some of the many peaks and explore the vistas of
 **Speaker:** 
 <a href="https://profiles.uts.edu.au/Youming.Qiao" target="_blank">Youming Qiao</a>, University of Technology Sydney
 
-**Abstract:** Isomorphism problems.
+**Bio**: I am an associate professor of computer science at the University of Technology Sydney. Despite my computer science degree and affiliation, I mingle with mathematicians, and I dig into their toolboxes to see if they will solve problems of interest to me, such as polynomial identity testing and tensor isomorphism. On the other hand, I also try to provide some perspectives from the computer science side, in particular from computational complexity and algorithm design.
+
+**Lecture 1. Tensors and graphs: structures**
+
+Graphs are a prime object in combinatorics. In this lecture, I will first show how graphs naturally give rise to tensors. Based on this connection, I will present some correspondences between graph structures (independent sets, perfect matchings, and isomorphism) and tensor structures (totally-isotropic spaces, full-rank slices, and equivalence).
+ 
+
+**Lecture 2. Tensors and graphs: questions and techniques**
+ 
+Continuing from the last lecture, I will start this lecture with some "combinatorial-type" questions for tensors and their backgrounds (in complexity theory, cryptography, and invariant theory). I will then discuss two techniques for tensors which have nice graph-theoretic correspondences. The first technique corresponds to the alternating path technique on graphs, a fundamental tool in studying graph matchings. The second technique corresponds to the graph colouring gadget, useful in complexity theory for graph isomorphism.
 
 ---
 
