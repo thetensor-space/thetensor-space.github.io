@@ -29,3 +29,7 @@
 @import "my-custom/landing-page";
 @import "my-custom/post-sidebar";
 @import "my-custom/iframe";
+
+h1, h2, h3, h4, h5 {
+    scroll-margin-top: 100px
+}
