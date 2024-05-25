@@ -12,6 +12,9 @@ categories: [ Workshops ]
 
  
 ---
+
+Link back to [conference home](./TAGA-2024)
+
 # [Intro to Tensors](#intro-to-tensors){:style="color:inherit"}
 
 <a href="https://www.math.colostate.edu/~jwilson/" target="_blank">James B. Wilson</a>, Colorado State University
@@ -21,7 +24,7 @@ categories: [ Workshops ]
 
 **Abstract:** An introduction to tensors: notation, vocabulary, basic properties, and the landscape of research.
 
-##### [Intro to Tensors Lecture 1: Tensors Everywhere All at Once](#intro-to-tensors-lecture-1-tensors-everywhere-all-at-oncestylecolorinherit){:style="color:inherit"}
+##### [Intro to Tensors Lecture 1: Tensors Everywhere All at Once](#intro-to-tensors-lecture-1-tensors-everywhere-all-at-once){:style="color:inherit"}
 
 > A guided tour through the zoo of tensors.  Start of in the hands-on exhibit to meet a flock of mulitway arrays on loan from the data science center before moving on to the main exhibits of the ever flamboyant real hyper matrices, our herds of statistical mechanical tensors, and the polar algebraic tensor exhibit nestled along shores of our very own pod of polynomial tensors.  Don't leave before wondering into the exotic corner to meet the  entropic affine quasi-rings and the monoidal cats.  On way out visit our gift shop to get commemorative sticker of your tour.
 
@@ -34,6 +37,10 @@ categories: [ Workshops ]
 ><p> I will take us through <p><center><i>''What is tensor algebra.''</i> </center>
 ><p> Far more than  <i>''generalized linear algebra''</i> with its concepts of ranks, eigen and singular values, tensors enjoy all the qualities of abstract algebra too including ideals, quotients, homomorphisms, zero-divisors, presentations and representations & modules.  </p>
 > <p>Along the way we will relate these structures  to their counter parts in known applications setting up a bridge between the data we want in real life and the mathematics that can tame it.
+
+#### [Intro to Tensors Lecture 3: What are tensors missing?](#intro-to-tensors-lecture-3-what-are-tensors-missing){:style="color:inherit"}
+
+TBD 
 
 <!-- 
 #### (Possible) Lecture 3. Applications
