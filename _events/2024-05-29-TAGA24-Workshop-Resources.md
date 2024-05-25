@@ -15,6 +15,15 @@ categories: [ Workshops ]
 
 Link back to [conference home](./TAGA-2024)
 
+**Talks**:
+
+- [Intro to Tensors](#intro-to-tensors)
+- [Tensor CP Decomposition](#tensor-cp-decomposition)
+- [Determinantal varieties and Pfaffians](#determinantal-varieties-and-pfaffians)
+- [Linear methods for tensors](#linear-methods-for-tensors)
+- [Tensor Isomorphisms](#tensor-isomorphisms)
+- [Tensors and graphs](#tensors-and-graphs)
+
 # [Intro to Tensors](#intro-to-tensors){:style="color:inherit"}
 
 <a href="https://www.math.colostate.edu/~jwilson/" target="_blank">James B. Wilson</a>, Colorado State University
