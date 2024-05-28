@@ -49,7 +49,7 @@ Link back to [conference home](./TAGA-2024)
 
 #### [Intro to Tensors Lecture 3: What are tensors missing?](#intro-to-tensors-lecture-3-what-are-tensors-missing){:style="color:inherit"}
 
-TBD 
+More than open problems, there is a sense in which tensors have a missing or at least incomplete general theory.  I will discuss what that gap is and why we might want to close it.
 
 <!-- 
 #### (Possible) Lecture 3. Applications
@@ -154,6 +154,10 @@ the underlying (local) counting problems.
 #### [Linear methods for tensors Lecture 1: Centroids](#linear-methods-for-tensors-lecture-1-centroids){:style="color:inherit"}
 
 As well as providing an overview of the lecture series as a whole, the first lecture studies in detail an algebraic invariant of a tensor called the <i>centroid</i>. We will introduce the centroid as a generalized collection of scalars for the tensor, and we will see how it can be used to block-diagonalize a tensor. 
+
+[Slides](../uploads/taga24/workshops/brooksbank/taga24-brooksbank-lecture1.pdf){:target="_blank"}
+
+[Accompanying Magma code](../uploads/taga24/workshops/brooksbank/taga24-brooksbank-lecture1-magma-demo.mag){:target="_blank"}
 
 #### [Linear methods for tensors Lecture 2: Adjoints](#linear-methods-for-tensors-lecture-2-adjoints){:style="color:inherit"}
 

@@ -1,0 +1,58 @@
+load "util.mag";
+
+       /* --- DEGENERACY --- */
+
+// build degenerate tensor as system of forms
+S := [ Matrix (Rationals(), 2, 3, [1,0,0,0,0,0]), 
+       Matrix (Rationals(), 2, 3, [0,0,0,0,1,0]) ];
+t := Tensor (S, 2, 1);
+SystemOfForms (t);
+
+// compute the radical
+Radical (t);
+
+// compute the nondegenerate tensor
+s := NondegenerateTensor (t);
+SystemOfForms (s);
+
+
+    /* --- CENTROID: WRONG FIELD --- */
+
+/*
+R<x> := PolynomialRing (GF(8191));
+C := CompanionMatrix (x^2+1);
+I := IdentityMatrix (GF(8191), 2);
+S0 := [ KroneckerProduct (I, I), KroneckerProduct (I, C)];
+P1 := Random (GL (4, 8191));
+P2 := Random (GL (4, 8191));
+S := [ P1 * F * P2 : F in S0 ];
+*/
+
+
+S := [ Matrix(GF(8191), 4, 4, 
+      [ 2759, 2012, 3809, 4443, 5905, 5577, 6247, 7780,
+        4853, 7986, 7596, 3247, 2328, 243, 352, 6905 ]),
+      Matrix(GF(8191), 4, 4, 
+      [ 7025, 2820, 3922, 7714, 5317, 4257, 3882, 2430,
+        1804, 6985, 3119, 4676, 4033, 4053, 2850, 5866 ]) ];
+t := Tensor (S, 2, 1);
+C := Centroid (t);
+Dimension (C);
+s := TensorOverCentroid (t);
+s;
+
+    /* --- CENTROID: DIAGONALIZE --- */
+
+Q := Rationals();
+S := [ Matrix (Q, 2, 2, [1,0,0,-2]), 
+       Matrix (Q, 2, 2, [0,1,1,-3]) ];
+t := Tensor (S, 2, 1);
+C := Centroid (t);
+Dimension(C);
+C.2;
+
+X := MatrixAlgebra (Q, 2) ! Matrix(Q, 2, 2, [2,1,1,1]);
+Y := Transpose (X);
+Z := Transpose (X^-1);
+outer_action ([ X * s * Y : s in S ], Z);
+
