@@ -27,7 +27,7 @@ categories: [ Workshops ]
   <i class='fas fa-mug-hot'></i>
   Coffee & Tea
   </td>
-  <td style="background-color:White">Weber 223</td>
+  <td style="background-color:White">Engineering E103</td>
 </tr>
 
 <tr>
@@ -36,7 +36,7 @@ categories: [ Workshops ]
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Workshop-Resources#linear-methods-for-tensors-lecture-3-applications" target="_blank" style="color:inherit"> Linear methods for tensors Lecture 3: Applications</a>
   </td>
-  <td style="background-color:White">Weber 223</td>
+  <td style="background-color:White">Engineering E103</td>
 </tr>
 
 <tr>
@@ -45,7 +45,7 @@ categories: [ Workshops ]
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Workshop-Resources#tensor-isomorphisms-lecture-3-some-of-the-peaks-of-tensor-isomorphism" target="_blank" style="color:inherit"> Tensor Isomorphisms Lecture 3: Some of the Peaks of Tensor Isomorphism</a>
   </td>
-  <td style="background-color:White">Weber 223</td>
+  <td style="background-color:White">Engineering E103</td>
 </tr>
 
 <tr>
@@ -54,7 +54,7 @@ categories: [ Workshops ]
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Workshop-Resources#tensor-cp-decomposition-lecture-3-properties" target="_blank" style="color:inherit"> Tensor CP Decomposition Lecture 3: Properties</a>
   </td>
-  <td style="background-color:White">Weber 223</td>
+  <td style="background-color:White">Engineering E103</td>
 </tr>
 
 <tr>
@@ -72,7 +72,7 @@ categories: [ Workshops ]
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Workshop-Resources#determinantal-varieties-and-pfaffians-lecture-3-where-the-wild-things-are---tensors-and-base-change" target="_blank" style="color:inherit"> Determinantal varieties and Pfaffians Lecture 3: Where the wild things are - tensors and base change</a>
   </td>
-  <td style="background-color:White">Weber 223</td>
+  <td style="background-color:White">Engineering E103</td>
 </tr>
 
 <tr>
@@ -81,7 +81,7 @@ categories: [ Workshops ]
     <i class='fas fa-pen'></i><i class='fas fa-eraser'></i>
     Office hours <br/>
   </td>
-  <td style="background-color:White">Weber 223</td>
+  <td style="background-color:White">Engineering E103</td>
 </tr>
 
 <tr>
@@ -90,7 +90,7 @@ categories: [ Workshops ]
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Workshop-Resources#intro-to-tensors-lecture-3-what-are-tensors-missing" target="_blank" style="color:inherit"> Intro to Tensors Lecture 3: What are tensors missing? </a>
   </td>
-  <td style="background-color:White">Weber 223</td>
+  <td style="background-color:White">Engineering E103</td>
 </tr>
 
 </table>

@@ -28,7 +28,7 @@ related: /events/TAGA24-Workshop-Day2
   <i class='fas fa-mug-hot'></i>
   Coffee & Tea
   </td>
-  <td style="background-color:White">Weber 223</td>
+  <td style="background-color:White">Engineering E103</td>
 </tr>
 
 <tr>
@@ -37,7 +37,7 @@ related: /events/TAGA24-Workshop-Day2
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Workshop-Resources#intro-to-tensors-lecture-1-tensors-everywhere-all-at-once" target="_blank" style="color:inherit"> Intro to Tensors Lecture 1: Tensors Everywhere All at Once </a>
   </td>
-  <td style="background-color:White">Weber 223</td>
+  <td style="background-color:White">Engineering E103</td>
 </tr>
 
 <tr>
@@ -46,7 +46,7 @@ related: /events/TAGA24-Workshop-Day2
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Workshop-Resources#tensor-cp-decomposition-lecture-1-introduction-and-applications" target="_blank" style="color:inherit"> Tensor CP Decomposition Lecture 1: Introduction and Applications </a>
   </td>
-  <td style="background-color:White">Weber 223</td>
+  <td style="background-color:White">Engineering E103</td>
 </tr>
 
 <tr>
@@ -55,7 +55,7 @@ related: /events/TAGA24-Workshop-Day2
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Workshop-Resources#determinantal-varieties-and-pfaffians-lecture-1-tensors-from-enumerative-algebra" target="_blank" style="color:inherit"> Determinantal varieties and Pfaffians Lecture 1: Tensors from enumerative algebra</a>
   </td>
-  <td style="background-color:White">Weber 223</td>
+  <td style="background-color:White">Engineering E103</td>
 </tr>
 
 <tr>
@@ -73,7 +73,7 @@ related: /events/TAGA24-Workshop-Day2
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Workshop-Resources#tensors-and-graphs-lecture-1-structures" target="_blank" style="color:inherit"> Tensors and graphs Lecture 1: Structures</a>
   </td>
-  <td style="background-color:White">Weber 223</td>
+  <td style="background-color:White">Engineering E103</td>
 </tr>
 
 <tr>
@@ -82,7 +82,7 @@ related: /events/TAGA24-Workshop-Day2
     <i class='fas fa-pen'></i><i class='fas fa-eraser'></i>
     Office Hours
   </td>
-  <td style="background-color:White">Weber 223</td>
+  <td style="background-color:White">Engineering E103</td>
 </tr>
 
 <tr>
@@ -91,7 +91,7 @@ related: /events/TAGA24-Workshop-Day2
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Workshop-Resources#linear-methods-for-tensors-lecture-1-centroids" target="_blank" style="color:inherit"> Linear methods for tensors Lecture 1: Centroids</a>
   </td>
-  <td style="background-color:White">Weber 223</td>
+  <td style="background-color:White">Engineering E103</td>
 </tr>
 
 <tr>
@@ -100,7 +100,7 @@ related: /events/TAGA24-Workshop-Day2
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Workshop-Resources#tensor-isomorphisms-lecture-1-mapping-the-terrain-of-the-many-tensor-isomorphism-problems" target="_blank" style="color:inherit"> Tensor Isomorphisms Lecture 1: Mapping the Terrain of the Many Tensor Isomorphism Problems</a>
   </td>
-  <td style="background-color:White">Weber 223</td>
+  <td style="background-color:White">Engineering E103</td>
 </tr>
 </table>
 
