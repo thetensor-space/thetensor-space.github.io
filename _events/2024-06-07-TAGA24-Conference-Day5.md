@@ -88,7 +88,7 @@ categories: [ Workshops ]
   <td style="background-color:White">Hotchkiss Lodge,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
 </tr>
 <tr>
-  <td style="background-color:White">4:00</td>
+  <td style="background-color:White">3:00</td>
   <td style="background-color:FireBrick;color:SandyBrown">
     <i class='fas fa-bus'></i>
     Load bus to CSU Fort Collins.<br>
