@@ -198,6 +198,8 @@ In the final lecture, we summit some of the many peaks and explore the vistas of
 #### [Tensors and graphs Lecture 1: Structures](#tensors-and-graphs-lecture-1-structures){:style="color:inherit"}
 
 Graphs are a prime object in combinatorics. In this lecture, I will first show how graphs naturally give rise to tensors. Based on this connection, I will present some correspondences between graph structures (independent sets, perfect matchings, and isomorphism) and tensor structures (totally-isotropic spaces, full-rank slices, and equivalence).
+
+[Slides](../uploads/taga24/workshops/qiao/taga24-qiao-lecture1.pdf){:target="_blank"}
  
 
 #### [Tensors and graphs Lecture 2: questions and techniques](#tensors-and-graphs-lecture-2-questions-and-techniques){:style="color:inherit"}
