@@ -206,6 +206,8 @@ Graphs are a prime object in combinatorics. In this lecture, I will first show h
  
 Continuing from the last lecture, I will start this lecture with some "combinatorial-type" questions for tensors and their backgrounds (in complexity theory, cryptography, and invariant theory). I will then discuss two techniques for tensors which have nice graph-theoretic correspondences. The first technique corresponds to the alternating path technique on graphs, a fundamental tool in studying graph matchings. The second technique corresponds to the graph colouring gadget, useful in complexity theory for graph isomorphism.
 
+[Slides](../uploads/taga24/workshops/qiao/taga24-qiao-lecture2.pdf){:target="_blank"}
+
 ---
 
 
