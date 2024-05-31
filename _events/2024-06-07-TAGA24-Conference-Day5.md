@@ -33,7 +33,7 @@ categories: [ Workshops ]
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Conference-Resources#talk-16" target="_blank" style="color:inherit"> Talk 16</a>
   </td>
-  <td style="background-color:White">Hotchkiss Lodge</td>
+  <td style="background-color:White">Westside Classroom</td>
 </tr>
 
 <tr>
@@ -42,7 +42,7 @@ categories: [ Workshops ]
   <i class='fas fa-mug-hot'></i>
   Coffee & Tea
   </td>
-  <td style="background-color:White">Hotchkiss Lodge</td>
+  <td style="background-color:White">Westside Classroom</td>
 </tr>
 
 <tr>
@@ -51,7 +51,7 @@ categories: [ Workshops ]
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Conference-Resources#talk-17" target="_blank" style="color:inherit"> Talk 17</a>
   </td>
-  <td style="background-color:White">Hotchkiss Lodge</td>
+  <td style="background-color:White">Westside Classroom</td>
 </tr>
 <tr>
   <td style="background-color:White">10:40</td>
@@ -59,7 +59,7 @@ categories: [ Workshops ]
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Conference-Resources#talk-18" target="_blank" style="color:inherit"> Talk 18</a>
   </td>
-  <td style="background-color:White">Hotchkiss Lodge</td>
+  <td style="background-color:White">Westside Classroom</td>
 </tr>
 <tr>
   <td style="background-color:White">11:20</td>
@@ -67,7 +67,7 @@ categories: [ Workshops ]
     <i class='fas fa-pen'></i><i class='fas fa-eraser'></i>
     Open work time <br/>
   </td>
-  <td style="background-color:White">Hotchkiss Lodge,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
+  <td style="background-color:White">Westside Classroom,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
 </tr>
 <tr>
   <td style="background-color:White">12:00</td>
@@ -85,7 +85,7 @@ categories: [ Workshops ]
     <i class='fas fa-suitcase-rolling'></i> PLEASE PACK UP!<br/>
     <i class='fas fa-dollar'></i> Be classy, tip the staff.
   </td>
-  <td style="background-color:White">Hotchkiss Lodge,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
+  <td style="background-color:White">Westside Classroom,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
 </tr>
 <tr>
   <td style="background-color:White">3:00</td>
@@ -94,7 +94,7 @@ categories: [ Workshops ]
     Load bus to CSU Fort Collins.<br>
     Do not be late we leave on time!
   </td>
-  <td style="background-color:FireBrick;color:SandyBrown">Front of Hotchkiss Lodge
+  <td style="background-color:FireBrick;color:SandyBrown">Front of Westside Classroom
   </td>
 </tr>
 

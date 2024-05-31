@@ -41,7 +41,7 @@ You may also stay back and work with a collaboration.  No judgement whatever you
     <i class='fas fa-pen'></i><i class='fas fa-eraser'></i><i class='fas fa-hiking'></i>
     Open work or Play time <br/>
   </td>
-  <td style="background-color:White">Hotchkiss Lodge,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
+  <td style="background-color:White">Westside Classroom,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
 </tr>
 <tr>
   <td style="background-color:White">12:00</td>
@@ -57,7 +57,7 @@ You may also stay back and work with a collaboration.  No judgement whatever you
     <i class='fas fa-pen'></i><i class='fas fa-eraser'></i><i class='fas fa-hiking'></i>
     Open work or Play time <br/>
   </td>
-  <td style="background-color:White">Hotchkiss Lodge,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
+  <td style="background-color:White">Westside Classroom,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
 </tr>
 <tr>
   <td style="background-color:White">5:00</td>
@@ -75,7 +75,7 @@ You may also stay back and work with a collaboration.  No judgement whatever you
     <i class='fas fa-icons'></i>
     Free time <br/> Socialize fire place, deck & lodges
   </td>
-  <td style="background-color:White">Hotchkiss Lodge,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
+  <td style="background-color:White">Westside Classroom,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
 </tr>
 
 </table>

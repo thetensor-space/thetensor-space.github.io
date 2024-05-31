@@ -33,7 +33,7 @@ categories: [ Workshops ]
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Conference-Resources#talk-10" target="_blank" style="color:inherit"> Talk 10</a>
   </td>
-  <td style="background-color:White">Hotchkiss Lodge</td>
+  <td style="background-color:White">Westside Classroom</td>
 </tr>
 
 <tr>
@@ -42,7 +42,7 @@ categories: [ Workshops ]
   <i class='fas fa-mug-hot'></i>
   Coffee & Tea
   </td>
-  <td style="background-color:White">Hotchkiss Lodge</td>
+  <td style="background-color:White">Westside Classroom</td>
 </tr>
 
 <tr>
@@ -51,7 +51,7 @@ categories: [ Workshops ]
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Conference-Resources#talk-11" target="_blank" style="color:inherit"> Talk 11</a>
   </td>
-  <td style="background-color:White">Hotchkiss Lodge</td>
+  <td style="background-color:White">Westside Classroom</td>
 </tr>
 <tr>
   <td style="background-color:White">10:40</td>
@@ -59,7 +59,7 @@ categories: [ Workshops ]
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Conference-Resources#talk-12" target="_blank" style="color:inherit"> Talk 12</a>
   </td>
-  <td style="background-color:White">Hotchkiss Lodge</td>
+  <td style="background-color:White">Westside Classroom</td>
 </tr>
 <tr>
   <td style="background-color:White">11:20</td>
@@ -67,7 +67,7 @@ categories: [ Workshops ]
     <i class='fas fa-pen'></i><i class='fas fa-eraser'></i>
     Open work time <br/>
   </td>
-  <td style="background-color:White">Hotchkiss Lodge,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
+  <td style="background-color:White">Westside Classroom,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
 </tr>
 <tr>
   <td style="background-color:White">12:00</td>
@@ -84,7 +84,7 @@ categories: [ Workshops ]
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Conference-Resources#talk-13" target="_blank" style="color:inherit"> Talk 13</a>
   </td>
-  <td style="background-color:White">Hotchkiss Lodge</td>
+  <td style="background-color:White">Westside Classroom</td>
 </tr>
 <tr>
   <td style="background-color:White">2:10</td>
@@ -92,7 +92,7 @@ categories: [ Workshops ]
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Conference-Resources#talk-14" target="_blank" style="color:inherit"> Talk 14</a>
   </td>
-  <td style="background-color:White">Hotchkiss Lodge</td>
+  <td style="background-color:White">Westside Classroom</td>
 </tr>
 
 <tr>
@@ -101,7 +101,7 @@ categories: [ Workshops ]
   <i class='fas fa-mug-hot'></i>
   Coffee & Tea
   </td>
-  <td style="background-color:White">Hotchkiss Lodge</td>
+  <td style="background-color:White">Westside Classroom</td>
 </tr>
 
 <tr>
@@ -110,7 +110,7 @@ categories: [ Workshops ]
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Conference-Resources#talk-15" target="_blank" style="color:inherit"> Talk 15</a>
   </td>
-  <td style="background-color:White">Hotchkiss Lodge</td>
+  <td style="background-color:White">Westside Classroom</td>
 </tr>
 
 <tr>
@@ -129,7 +129,7 @@ categories: [ Workshops ]
     <i class='fas fa-bolt'></i>
     Lightening Talks
   </td>
-  <td style="background-color:White">Hotchkiss Lodge</td>
+  <td style="background-color:White">Westside Classroom</td>
 </tr>
 <tr>
   <td style="background-color:White">7:00</td>
@@ -137,7 +137,7 @@ categories: [ Workshops ]
     <i class='fas fa-pen'></i><i class='fas fa-eraser'></i><i class='fas fa-icons'></i>
     Free time <br/> Work, Socialize or both
   </td>
-  <td style="background-color:White">Hotchkiss Lodge,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
+  <td style="background-color:White">Westside Classroom,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
 </tr>
 
 </table>

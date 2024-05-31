@@ -25,7 +25,7 @@ align="left">
   <i class='fas fa-mug-hot'></i>
   Check in, with coffee & tea
   </td>
-  <td style="background-color:White">Engineering E103</td>
+  <td style="background-color:White">Engineering E104</td>
 </tr>
 
 <tr>
@@ -34,7 +34,7 @@ align="left">
     <i class='fas fa-bullhorn'></i>
     General Announcement
   </td>
-  <td style="background-color:White">Engineering E103</td>
+  <td style="background-color:White">Engineering E104</td>
 </tr>
 
 <tr>
@@ -43,7 +43,7 @@ align="left">
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Conference-Resources#talk-1" target="_blank" style="color:inherit"> Talk 1</a>
   </td>
-  <td style="background-color:White">Engineering E103</td>
+  <td style="background-color:White">Engineering E104</td>
 </tr>
 <tr>
   <td style="background-color:White">9:40</td>
@@ -51,7 +51,7 @@ align="left">
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Conference-Resources#talk-2" target="_blank" style="color:inherit"> Talk 2</a>
   </td>
-  <td style="background-color:White">Engineering E103</td>
+  <td style="background-color:White">Engineering E104</td>
 </tr>
 
 <tr>
@@ -69,7 +69,7 @@ align="left">
     <i class='fas fa-chalkboard-teacher'></i>
     <a href="./TAGA24-Conference-Resources#talk-3" target="_blank" style="color:inherit"> Talk 3</a>
   </td>
-  <td style="background-color:White">Engineering E103</td>
+  <td style="background-color:White">Engineering E104</td>
 </tr>
 
 <tr>
@@ -98,7 +98,7 @@ align="left">
     <i class='fas fa-plane-arrival'></i>
     Arrival Briefing
   </td>
-  <td style="background-color:White">Hotchkiss Lodge</td>
+  <td style="background-color:White">Westside Classroom</td>
 </tr>
 
 <tr>
@@ -107,7 +107,7 @@ align="left">
     <i class='fas fa-icons'></i>
     Free time <br/> Socialize fire place, deck & lodges
   </td>
-  <td style="background-color:White">Hotchkiss Lodge,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
+  <td style="background-color:White">Westside Classroom,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
 </tr>
 
 <tr>
@@ -126,7 +126,7 @@ align="left">
     <i class='fas fa-bolt'></i>
     Lightening Talks
   </td>
-  <td style="background-color:White">Hotchkiss Lodge</td>
+  <td style="background-color:White">Westside Classroom</td>
 </tr>
 
 <tr>
@@ -135,7 +135,7 @@ align="left">
     <i class='fas fa-icons'></i>
     Free time <br/> Socialize fire place, deck & lodges
   </td>
-  <td style="background-color:White">Hotchkiss Lodge,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
+  <td style="background-color:White">Westside Classroom,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
 </tr>
 
 </table>
