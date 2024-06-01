@@ -41,7 +41,7 @@ align="left">
   <td style="background-color:White">9:10</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-1" target="_blank" style="color:inherit"> Talk 1</a>
+    <a href="./TAGA24-Conference-Resources#jm-landsberg" target="_blank" style="color:inherit"> JM Landsberg</a>
   </td>
   <td style="background-color:White">Engineering E104</td>
 </tr>
@@ -49,7 +49,7 @@ align="left">
   <td style="background-color:White">9:40</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-2" target="_blank" style="color:inherit"> Talk 2</a>
+    <a href="./TAGA24-Conference-Resources#neriman-tokcan" target="_blank" style="color:inherit"> Neriman Tokcan: Tensor methods for omics data analysis</a>
   </td>
   <td style="background-color:White">Engineering E104</td>
 </tr>
@@ -67,7 +67,7 @@ align="left">
   <td style="background-color:White">11:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-3" target="_blank" style="color:inherit"> Talk 3</a>
+    <a href="./TAGA24-Conference-Resources#alessandro-oneto" target="_blank" style="color:inherit"> Alessandro Oneto </a>
   </td>
   <td style="background-color:White">Engineering E104</td>
 </tr>

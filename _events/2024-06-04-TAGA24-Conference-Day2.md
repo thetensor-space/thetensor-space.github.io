@@ -32,7 +32,7 @@ categories: [ Workshops ]
   <td style="background-color:White">9:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-4" target="_blank" style="color:inherit"> Talk 4</a>
+    <a href="./TAGA24-Conference-Resources#nick-vannieuwenhoven" target="_blank" style="color:inherit"> Nick Vannieuwenhoven </a>
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
@@ -50,7 +50,9 @@ categories: [ Workshops ]
   <td style="background-color:White">10:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-5" target="_blank" style="color:inherit"> Talk 5</a>
+    <a href="./TAGA24-Conference-Resources#
+cole-gigliotti" target="_blank" style="color:inherit"> 
+Cole Gigliotti: Skewness (sometimes) Does Imply Causation </a>
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
@@ -58,7 +60,7 @@ categories: [ Workshops ]
   <td style="background-color:White">10:40</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-6" target="_blank" style="color:inherit"> Talk 6</a>
+    <a href="./TAGA24-Conference-Resources#edinah-koffi-gnang" target="_blank" style="color:inherit"> Edinah Koffi Gnang: A combinatorial perspective on the tensor rank and the BM rank </a>
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
@@ -83,7 +85,7 @@ categories: [ Workshops ]
   <td style="background-color:White">1:30</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-7" target="_blank" style="color:inherit"> Talk 7</a>
+    <a href="./TAGA24-Conference-Resources#martin-kassabov" target="_blank" style="color:inherit"> Martin Kassabov: Sometimes row reducing bus timetables can be useful</a>
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
@@ -91,7 +93,9 @@ categories: [ Workshops ]
   <td style="background-color:White">2:10</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-8" target="_blank" style="color:inherit"> Talk 8</a>
+    <a href="./TAGA24-Conference-Resources#chris-liu" target="_blank" style="color:inherit"> Chris Liu: QuickSylver - Fast solutions to Simultaneous Sylvester Systems
+
+</a>
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
@@ -109,7 +113,7 @@ categories: [ Workshops ]
   <td style="background-color:White">3:20</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-9" target="_blank" style="color:inherit"> Talk 9</a>
+    <a href="./TAGA24-Conference-Resources#hirotachi-abo" target="_blank" style="color:inherit"> Hirotachi Abo</a>
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
