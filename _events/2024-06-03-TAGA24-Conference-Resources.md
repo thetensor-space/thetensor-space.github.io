@@ -39,9 +39,12 @@ In this talk, we will embark on a journey through the intricacies of high-dimens
 
 ## [Nick Vannieuwenhoven](#nick-vannieuwenhoven){:style="color:inherit"}
 
-**Title:**  TBD
+**Title:** Sensitivity of tensor decompositions 
 
-**Abstract:** TBD
+**Abstract:** 
+
+The tensor rank decomposition (CPD) express a tensor as a linear combination of elementary tensors. It has applications in chemometrics, computer science, machine learning, psychometrics, signal processing, and statistics. Its uniqueness properties render it suitable for data analysis tasks in which the elementary tensors are the quantities of interest. However, in applications, the idealized mathematical model
+is always corrupted by measurement errors. For a robust interpretation of the data, it is therefore imperative to quantify how sensitive these elementary tensors are to perturbations of the whole tensor. I will give an overview of recent results on the sensitivity of the tensor rank decomposition, including the matrix case, established with my collaborators Carlos Beltran, Paul Breiding, and Nick Dewaele.
 
 ## [Cole Gigliotti](#cole-gigliotti){:style="color:inherit"}
 

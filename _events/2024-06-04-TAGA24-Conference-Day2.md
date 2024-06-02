@@ -32,7 +32,7 @@ categories: [ Workshops ]
   <td style="background-color:White">9:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#nick-vannieuwenhoven" target="_blank" style="color:inherit"> Nick Vannieuwenhoven </a>
+    <a href="./TAGA24-Conference-Resources#nick-vannieuwenhoven" target="_blank" style="color:inherit"> Nick Vannieuwenhoven: Sensitivity of tensor decompositions </a>
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
