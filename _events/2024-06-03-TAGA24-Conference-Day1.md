@@ -113,7 +113,7 @@ align="left">
 
 
 <tr>
-  <td style="background-color:White">5:00</td>
+  <td style="background-color:White">5:30</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-bolt'></i>
     Lightning Talks
