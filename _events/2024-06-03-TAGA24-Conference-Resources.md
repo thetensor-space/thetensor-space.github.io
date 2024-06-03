@@ -14,6 +14,8 @@ categories: [ Workshops ]
 ---
 # Talks
 
+Link back to [conference home](./TAGA-2024)
+
 ## [JM Landsberg](#jm-landsberg){:style="color:inherit"}
 
 **Title:**  TBD
@@ -33,9 +35,15 @@ In this talk, we will embark on a journey through the intricacies of high-dimens
 
 ## [Alessandro Oneto](#alessandro-oneto){:style="color:inherit"}
 
-**Title:**  TBD
+**Title:**  Hadamard-Hitchcock Decompositions of Tensors
 
-**Abstract:** TBD
+**Abstract:** 
+
+Hitchcock decompositions of tensors (aka Canonical Polyadic Decompositions or PARAFAC Decomposition) encode mixtures of independence models on discrete random variables, namely, statistical models given by one hidden discrete variable connected to a set of observed ones. Hadamard products, i.e., entry-wise products, of Hitchcock decompositions encode products of mixtures of independence models on discrete random variables, namely, statistical models given by a complete bipartite graph with a layer of hidden discrete variables and a layer of observed ones (aka Restricted Boltzmann Machines).
+
+In this talk, after recalling some recent literature about these models, I will present a new generic identifiability result of such decompositions (under numerical assumptions on the number of states). Our approach also suggests an algorithm to compute a Hadamard-Hitchcock decomposition of a generic tensor.
+
+This is a joint work with Nick Vannieuwenhoven (KU Leuven).
 
 ## [Nick Vannieuwenhoven](#nick-vannieuwenhoven){:style="color:inherit"}
 

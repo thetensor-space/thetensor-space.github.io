@@ -67,7 +67,8 @@ align="left">
   <td style="background-color:White">11:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#alessandro-oneto" target="_blank" style="color:inherit"> Alessandro Oneto </a>
+    <a href="./TAGA24-Conference-Resources#alessandro-oneto" target="_blank" style="color:inherit"> Alessandro Oneto: Hadamard-Hitchcock Decompositions of Tensors
+</a>
   </td>
   <td style="background-color:White">Engineering E104</td>
 </tr>
