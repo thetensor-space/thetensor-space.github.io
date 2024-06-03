@@ -18,7 +18,7 @@ Link back to [conference home](./TAGA-2024)
 
 ## [JM Landsberg](#jm-landsberg){:style="color:inherit"}
 
-**Title:**  TBD
+**Title:** Spaces of matricies of bounded rank
 
 **Abstract:** TBD
 

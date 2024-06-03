@@ -41,7 +41,7 @@ align="left">
   <td style="background-color:White">9:10</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#jm-landsberg" target="_blank" style="color:inherit"> JM Landsberg</a>
+    <a href="./TAGA24-Conference-Resources#jm-landsberg" target="_blank" style="color:inherit"> JM Landsberg: Spaces of matricies of bounded rank</a>
   </td>
   <td style="background-color:White">Engineering E104</td>
 </tr>
@@ -113,7 +113,7 @@ align="left">
 
 
 <tr>
-  <td style="background-color:White">5:30</td>
+  <td style="background-color:White">5:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-bolt'></i>
     Lightning Talks
