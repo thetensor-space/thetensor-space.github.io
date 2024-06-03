@@ -60,7 +60,7 @@ You may also stay back and work with a collaboration.  No judgement whatever you
   <td style="background-color:White">Westside Classroom,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
 </tr>
 <tr>
-  <td style="background-color:White">5:00</td>
+  <td style="background-color:White">6:00</td>
   <td style="background-color:Wheat">
   <i class='fas fa-bread-slice'></i>
   Dinner

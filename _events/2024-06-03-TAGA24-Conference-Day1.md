@@ -111,23 +111,24 @@ align="left">
   <td style="background-color:White">Westside Classroom,<br/> Adjacent Lodges,<br/> & Rec Hall</td>
 </tr>
 
+
 <tr>
   <td style="background-color:White">5:00</td>
+  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
+    <i class='fas fa-bolt'></i>
+    Lightning Talks
+  </td>
+  <td style="background-color:White">Westside Classroom</td>
+</tr>
+
+<tr>
+  <td style="background-color:White">6:00</td>
   <td style="background-color:Wheat">
   <i class='fas fa-bread-slice'></i>
   Dinner
   <i class='fas fa-ice-cream'></i>
   </td>
   <td style="background-color:White">Dinning Hall</td>
-</tr>
-
-<tr>
-  <td style="background-color:White">6:30</td>
-  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
-    <i class='fas fa-bolt'></i>
-    Lightening Talks
-  </td>
-  <td style="background-color:White">Westside Classroom</td>
 </tr>
 
 <tr>

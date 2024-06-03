@@ -120,6 +120,15 @@ Cole Gigliotti: Skewness (sometimes) Does Imply Causation </a>
 
 <tr>
   <td style="background-color:White">5:00</td>
+  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
+    <i class='fas fa-bolt'></i>
+    Lighting Talks
+  </td>
+  <td style="background-color:White">Westside Classroom</td>
+</tr>
+
+<tr>
+  <td style="background-color:White">6:00</td>
   <td style="background-color:Wheat">
   <i class='fas fa-bread-slice'></i>
   Dinner
@@ -128,14 +137,6 @@ Cole Gigliotti: Skewness (sometimes) Does Imply Causation </a>
   <td style="background-color:White">Dinning Hall</td>
 </tr>
 
-<tr>
-  <td style="background-color:White">6:30</td>
-  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
-    <i class='fas fa-bolt'></i>
-    Lightening Talks
-  </td>
-  <td style="background-color:White">Westside Classroom</td>
-</tr>
 <tr>
   <td style="background-color:White">7:00</td>
   <td style="background-color:MistyRose;color:DarkSlateGrey">
