@@ -112,12 +112,6 @@ Solving the system of matrix equations (\forall i) XA_i + B_iY = C_i, also calle
 
 This is in joint work with Josh Maglione and James Wilson.
 
-## [Hirotachi Abo](#hirotachi-abo){:style="color:inherit"}
-
-**Title:**  TBD
-
-**Abstract:** TBD
-
 ## Talk 10
 
 **Speaker:**  TBD
@@ -130,10 +124,9 @@ This is in joint work with Josh Maglione and James Wilson.
 
 **Abstract:** TBD
 
+## [Hirotachi Abo](#hirotachi-abo){:style="color:inherit"}
 
-## Talk 12
-
-**Speaker:**  TBD
+**Title:**  TBD
 
 **Abstract:** TBD
 
