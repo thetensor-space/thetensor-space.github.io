@@ -84,9 +84,13 @@ The talk is based on joint work with Rongyu Xu
 
 ## [Pascal Schweizer](#pascal-schweizer){:style="color:inherit"}
 
-**Title:**  TBD
+**Title:**  Recent developments on the Weisfeiler-Leman Algorithm
 
-**Abstract:** TBD
+**Abstract:** 
+
+The Weisfeiler-Leman algorithm is used in various contexts such as symmetry detection, isomorphism problems, and machine learning on graphs.
+I will give a gentle introduction to the algorithm and then detail recent results obtained with various coauthors.
+
 
 ## [Martin Kassabov](#martin-kassabov){:style="color:inherit"}
 

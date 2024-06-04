@@ -31,7 +31,7 @@ categories: [ Workshops ]
   <td style="background-color:White">9:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#pascal-schweizer" target="_blank" style="color:inherit"> Pascal Schweizer </a>
+    <a href="./TAGA24-Conference-Resources#pascal-schweizer" target="_blank" style="color:inherit"> Pascal Schweizer: Recent developments on the Weisfeiler-Leman Algorithm</a>
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
