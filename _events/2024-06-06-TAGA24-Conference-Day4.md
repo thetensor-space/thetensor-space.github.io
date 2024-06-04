@@ -96,7 +96,7 @@ categories: [ Workshops ]
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
     Focus Talks
-    <br> Thomas Reunbrouck [Aspen]: Commutator matricies and local subgroup Zeta functions
+    <br> Tomas Reunbrouck [Aspen]: Commutator matricies and local subgroup Zeta functions
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
