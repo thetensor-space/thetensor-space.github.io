@@ -96,6 +96,8 @@ Cole Gigliotti: Skewness (sometimes) Does Imply Causation </a>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
     Focus Talks
+    <br> Seungjai Lee [Aspen]: Quadratic forms in enumerative algebra
+    <br> JM Landsberg [Blue Spruce]: Centroids of tensors of minimum border rank
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>

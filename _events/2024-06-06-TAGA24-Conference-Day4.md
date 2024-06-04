@@ -85,6 +85,18 @@ categories: [ Workshops ]
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
     Focus Talks
+    <br> Joshua Maglione [Aspen]: Elliptic curves, tensors, and quasipolynomality
+    <br> Alessandro Danelon [Blue Spurce]: Infinite-dimensional varieties stable under GL
+  </td>
+  <td style="background-color:White">Westside Classroom</td>
+</tr>
+
+<tr>
+  <td style="background-color:White">3:00</td>
+  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
+    <i class='fas fa-chalkboard-teacher'></i>
+    Focus Talks
+    <br> Thomas Reunbrouck [Aspen]: Commutator matricies and local subgroup Zeta functions
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
