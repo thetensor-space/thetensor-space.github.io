@@ -19,7 +19,7 @@ categories: [ Workshops ]
 </tr>
 
 <tr>
-  <td style="background-color:White">7:00--9:00</td>
+  <td style="background-color:White">7:30-8:30</td>
   <td style="background-color:SaddleBrown;color:SandyBrown">
   <i class='fas fa-mug-hot'></i><i class='fas fa-bread-slice'></i>
   Breakfast
@@ -37,19 +37,10 @@ categories: [ Workshops ]
 </tr>
 
 <tr>
-  <td style="background-color:White">9:40</td>
-  <td style="background-color:SaddleBrown;color:SandyBrown">
-  <i class='fas fa-mug-hot'></i>
-  Coffee & Tea
-  </td>
-  <td style="background-color:White">Westside Classroom</td>
-</tr>
-
-<tr>
   <td style="background-color:White">10:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-11" target="_blank" style="color:inherit"> Talk 11</a>
+    <a href="./TAGA24-Conference-Resources#martin-kassabov" target="_blank" style="color:inherit"> Martin Kassabov: Sometimes row reducing bus timetables can be useful</a>
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
@@ -57,10 +48,12 @@ categories: [ Workshops ]
   <td style="background-color:White">10:40</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-12" target="_blank" style="color:inherit"> Talk 12</a>
+    <a href="./TAGA24-Conference-Resources#chris-liu" target="_blank" style="color:inherit"> Chris Liu: QuickSylver - Fast solutions to Simultaneous Sylvester Systems
+</a>
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
+
 <tr>
   <td style="background-color:White">11:20</td>
   <td style="background-color:MistyRose;color:DarkSlateGrey">
@@ -79,24 +72,7 @@ categories: [ Workshops ]
 </tr>
 
 <tr>
-  <td style="background-color:White">1:30</td>
-  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
-    <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-13" target="_blank" style="color:inherit"> Talk 13</a>
-  </td>
-  <td style="background-color:White">Westside Classroom</td>
-</tr>
-<tr>
-  <td style="background-color:White">2:10</td>
-  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
-    <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-14" target="_blank" style="color:inherit"> Talk 14</a>
-  </td>
-  <td style="background-color:White">Westside Classroom</td>
-</tr>
-
-<tr>
-  <td style="background-color:White">2:40</td>
+  <td style="background-color:White">1:45</td>
   <td style="background-color:SaddleBrown;color:SandyBrown">
   <i class='fas fa-mug-hot'></i>
   Coffee & Tea
@@ -105,10 +81,10 @@ categories: [ Workshops ]
 </tr>
 
 <tr>
-  <td style="background-color:White">3:20</td>
+  <td style="background-color:White">2:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-15" target="_blank" style="color:inherit"> Talk 15</a>
+    Focus Talks
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>

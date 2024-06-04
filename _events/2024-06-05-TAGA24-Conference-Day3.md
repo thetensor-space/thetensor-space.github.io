@@ -26,7 +26,7 @@ You may also stay back and work with a collaboration.  No judgement whatever you
 </tr>
 
 <tr>
-  <td style="background-color:White">7:00--9:00</td>
+  <td style="background-color:White">7:30-8:30</td>
   <td style="background-color:SaddleBrown;color:SandyBrown">
   <i class='fas fa-mug-hot'></i><i class='fas fa-bread-slice'></i>
   Breakfast

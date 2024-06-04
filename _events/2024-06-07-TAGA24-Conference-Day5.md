@@ -19,7 +19,7 @@ categories: [ Workshops ]
 </tr>
 
 <tr>
-  <td style="background-color:White">7:00--9:00</td>
+  <td style="background-color:White">7:30-8:30</td>
   <td style="background-color:SaddleBrown;color:SandyBrown">
   <i class='fas fa-mug-hot'></i><i class='fas fa-bread-slice'></i>
   Breakfast
@@ -31,7 +31,7 @@ categories: [ Workshops ]
   <td style="background-color:White">9:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-16" target="_blank" style="color:inherit"> Talk 16</a>
+    <a href="./TAGA24-Conference-Resources#talk-10" target="_blank" style="color:inherit"> Talk 10</a>
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
@@ -49,7 +49,7 @@ categories: [ Workshops ]
   <td style="background-color:White">10:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-17" target="_blank" style="color:inherit"> Talk 17</a>
+    <a href="./TAGA24-Conference-Resources#talk-11" target="_blank" style="color:inherit"> Talk 11</a>
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
@@ -57,7 +57,7 @@ categories: [ Workshops ]
   <td style="background-color:White">10:40</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-18" target="_blank" style="color:inherit"> Talk 18</a>
+    <a href="./TAGA24-Conference-Resources#hirotachi-abo" target="_blank" style="color:inherit"> Hirotachi Abo</a>
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>

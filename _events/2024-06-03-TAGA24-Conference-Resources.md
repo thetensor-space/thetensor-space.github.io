@@ -82,6 +82,12 @@ We describe a combinatorial perspective on hypermatrix actions on vector spaces.
 
 The talk is based on joint work with Rongyu Xu
 
+## [Pascal Schweizer](#pascal-schweizer){:style="color:inherit"}
+
+**Title:**  TBD
+
+**Abstract:** TBD
+
 ## [Martin Kassabov](#martin-kassabov){:style="color:inherit"}
 
 **Title:**  Sometimes row reducing bus timetables can be useful
@@ -112,12 +118,6 @@ This is in joint work with Josh Maglione and James Wilson.
 
 **Abstract:** TBD
 
-## [Pascal Schweizer](#pascal-schweizer){:style="color:inherit"}
-
-**Title:**  TBD
-
-**Abstract:** TBD
-
 ## Talk 10
 
 **Speaker:**  TBD
@@ -136,43 +136,6 @@ This is in joint work with Josh Maglione and James Wilson.
 **Speaker:**  TBD
 
 **Abstract:** TBD
-
-## Talk 13
-
-**Speaker:**  TBD
-
-**Abstract:** TBD
-
-## Talk 14
-
-**Speaker:**  TBD
-
-**Abstract:** TBD
-
-## Talk 15
-
-**Speaker:**  TBD
-
-**Abstract:** TBD
-
-## Talk 16
-
-**Speaker:**  TBD
-
-**Abstract:** TBD
-
-## Talk 17
-
-**Speaker:**  TBD
-
-**Abstract:** TBD
-
-## Talk 18
-
-**Speaker:**  TBD
-
-**Abstract:** TBD
-
 
 <!-- Example video embed snippet
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VqteyFC3M60?si=EbfzhFNSYzOr0RW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

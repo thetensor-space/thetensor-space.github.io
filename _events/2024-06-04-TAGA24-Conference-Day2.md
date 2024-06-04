@@ -20,7 +20,7 @@ categories: [ Workshops ]
 </tr>
 
 <tr>
-  <td style="background-color:White">7:00--9:00</td>
+  <td style="background-color:White">7:30-8:30</td>
   <td style="background-color:SaddleBrown;color:SandyBrown">
   <i class='fas fa-mug-hot'></i><i class='fas fa-bread-slice'></i>
   Breakfast
@@ -82,26 +82,7 @@ Cole Gigliotti: Skewness (sometimes) Does Imply Causation </a>
 </tr>
 
 <tr>
-  <td style="background-color:White">1:30</td>
-  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
-    <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#martin-kassabov" target="_blank" style="color:inherit"> Martin Kassabov: Sometimes row reducing bus timetables can be useful</a>
-  </td>
-  <td style="background-color:White">Westside Classroom</td>
-</tr>
-<tr>
-  <td style="background-color:White">2:10</td>
-  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
-    <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#chris-liu" target="_blank" style="color:inherit"> Chris Liu: QuickSylver - Fast solutions to Simultaneous Sylvester Systems
-
-</a>
-  </td>
-  <td style="background-color:White">Westside Classroom</td>
-</tr>
-
-<tr>
-  <td style="background-color:White">2:40</td>
+  <td style="background-color:White">1:45</td>
   <td style="background-color:SaddleBrown;color:SandyBrown">
   <i class='fas fa-mug-hot'></i>
   Coffee & Tea
@@ -109,11 +90,12 @@ Cole Gigliotti: Skewness (sometimes) Does Imply Causation </a>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
 
+
 <tr>
-  <td style="background-color:White">3:20</td>
+  <td style="background-color:White">2:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#hirotachi-abo" target="_blank" style="color:inherit"> Hirotachi Abo</a>
+    Focus Talks
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
