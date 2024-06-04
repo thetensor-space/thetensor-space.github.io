@@ -86,7 +86,7 @@ categories: [ Workshops ]
     <i class='fas fa-chalkboard-teacher'></i>
     Focus Talks
     <br> Joshua Maglione [Aspen]: Elliptic curves, tensors, and quasipolynomality
-    <br> Alessandro Danelon [Blue Spurce]: Infinite-dimensional varieties stable under GL
+    <br> Alessandro Danelon [Blue Spruce]: Infinite-dimensional varieties stable under GL
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
