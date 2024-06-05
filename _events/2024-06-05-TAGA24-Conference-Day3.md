@@ -36,6 +36,16 @@ You may also stay back and work with a collaboration.  No judgement whatever you
 </tr>
 
 <tr>
+  <td style="background-color:White">8:00-12:00</td>
+  <td style="background-color:MistyRose;color:DarkSlateGrey">
+  <i class='fas fa-trowel-bricks'></i>
+  Challenge course
+  </td>
+  <td style="background-color:White">Challenge course<br>
+  </td>
+</tr>
+
+<tr>
   <td style="background-color:White">11:20</td>
   <td style="background-color:MistyRose;color:DarkSlateGrey">
     <i class='fas fa-pen'></i><i class='fas fa-eraser'></i><i class='fas fa-hiking'></i>
