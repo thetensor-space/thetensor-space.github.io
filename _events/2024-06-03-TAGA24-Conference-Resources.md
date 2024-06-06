@@ -130,9 +130,11 @@ This is in joint work with Josh Maglione and James Wilson.
 
 ## [Hirotachi Abo](#hirotachi-abo){:style="color:inherit"}
 
-**Title:**  TBD
+**Title:**  Algebro-geometric approaches to the tensor eigenproblem
 
-**Abstract:** TBD
+**Abstract:**
+
+Eigenvectors of tensors, extensions of eigenvectors of matrices, were introduced by H. Lim and L. Qi independently in 2005 and have been studied in numerical multilinear algebra. Recently, the concept of tensor eigenvectors drew attention from the algebraic geometry community because algebraic geometry has proven to provide useful techniques for the tensor eigenproblem. This talk aims to discuss algebro-geometric aspects of the spectral theory of tensors.
 
 <!-- Example video embed snippet
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VqteyFC3M60?si=EbfzhFNSYzOr0RW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

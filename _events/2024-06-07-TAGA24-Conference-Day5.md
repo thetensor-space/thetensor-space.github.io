@@ -57,7 +57,7 @@ categories: [ Workshops ]
   <td style="background-color:White">10:40</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#hirotachi-abo" target="_blank" style="color:inherit"> Hirotachi Abo</a>
+    <a href="./TAGA24-Conference-Resources#hirotachi-abo" target="_blank" style="color:inherit"> Hirotachi Abo: Algebro-geometric approaches to the tensor eigenproblem</a>
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
