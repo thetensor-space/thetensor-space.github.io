@@ -83,6 +83,15 @@ categories: [ Workshops ]
 <tr>
   <td style="background-color:White">2:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
+    <i class='fas fa-bolt'></i>
+    Lightning Talks
+  </td>
+  <td style="background-color:White">Westside Classroom</td>
+</tr>
+
+<tr>
+  <td style="background-color:White">4:00</td>
+  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
     Focus Talks
     <br> Joshua Maglione [Aspen]: Elliptic curves, tensors, and quasipolynomality
@@ -92,20 +101,11 @@ categories: [ Workshops ]
 </tr>
 
 <tr>
-  <td style="background-color:White">3:00</td>
+  <td style="background-color:White">5:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
     Focus Talks
     <br> Tomas Reunbrouck [Aspen]: Commutator matricies and local subgroup Zeta functions
-  </td>
-  <td style="background-color:White">Westside Classroom</td>
-</tr>
-
-<tr>
-  <td style="background-color:White">5:00</td>
-  <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
-    <i class='fas fa-bolt'></i>
-    Lightning Talks
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
@@ -117,7 +117,7 @@ categories: [ Workshops ]
   Dinner
   <i class='fas fa-ice-cream'></i>
   </td>
-  <td style="background-color:White">Dinning Hall</td>
+  <td style="background-color:White"><b>Westside Classroom</b></td>
 </tr>
 
 <tr>
