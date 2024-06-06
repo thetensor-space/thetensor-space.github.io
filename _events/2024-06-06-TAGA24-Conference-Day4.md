@@ -106,6 +106,7 @@ categories: [ Workshops ]
     <i class='fas fa-chalkboard-teacher'></i>
     Focus Talks
     <br> Tomas Reunbrouck [Aspen]: Commutator matricies and local subgroup Zeta functions
+    <br> Michael Levet [Blue Spruce]: The circuit complexity landscape of Group Isomorphism
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
