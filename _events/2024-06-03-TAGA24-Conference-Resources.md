@@ -116,9 +116,9 @@ Solving the system of matrix equations (\forall i) XA_i + B_iY = C_i, also calle
 
 This is in joint work with Josh Maglione and James Wilson.
 
-## Talk 10
+## [Austin Conner](#austin-conner){:style="color:inherit"}
 
-**Speaker:**  TBD
+**Title:**  TBD
 
 **Abstract:** TBD
 
