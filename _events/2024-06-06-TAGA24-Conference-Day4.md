@@ -97,7 +97,7 @@ categories: [ Workshops ]
     <br> Joshua Maglione [Aspen]: Elliptic curves, tensors, and quasipolynomality
     <br> Alessandro Danelon [Blue Spruce]: Infinite-dimensional varieties stable under GL
   </td>
-  <td style="background-color:White">Westside Classroom</td>
+  <td style="background-color:White">Aspen or Blue Spruce</td>
 </tr>
 
 <tr>
@@ -108,7 +108,7 @@ categories: [ Workshops ]
     <br> Tomas Reunbrouck [Aspen]: Commutator matricies and local subgroup Zeta functions
     <br> Michael Levet [Blue Spruce]: The circuit complexity landscape of Group Isomorphism
   </td>
-  <td style="background-color:White">Westside Classroom</td>
+  <td style="background-color:White">Aspen or Blue Spruce</td>
 </tr>
 
 <tr>

@@ -99,7 +99,7 @@ Cole Gigliotti: Skewness (sometimes) Does Imply Causation </a>
     <br> Seungjai Lee [Aspen]: Quadratic forms in enumerative algebra
     <br> JM Landsberg [Blue Spruce]: Centroids of tensors of minimum border rank
   </td>
-  <td style="background-color:White">Westside Classroom</td>
+  <td style="background-color:White">Aspen or Blue Spruce</td>
 </tr>
 
 <tr>
