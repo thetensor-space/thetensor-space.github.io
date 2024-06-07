@@ -31,7 +31,7 @@ categories: [ Workshops ]
   <td style="background-color:White">9:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#austin-conner" target="_blank" style="color:inherit">Austin Conner</a>
+    <a href="./TAGA24-Conference-Resources#talk-10" target="_blank" style="color:inherit">Talk 10</a>
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>
@@ -49,7 +49,7 @@ categories: [ Workshops ]
   <td style="background-color:White">10:00</td>
   <td style="background-color:DarkSeaGreen;color:DarkSlateGrey">
     <i class='fas fa-chalkboard-teacher'></i>
-    <a href="./TAGA24-Conference-Resources#talk-11" target="_blank" style="color:inherit"> Talk 11</a>
+    <a href="./TAGA24-Conference-Resources#austin-conner" target="_blank" style="color:inherit">Austin Conner: Border apolarity and fast matrix multilpication</a>
   </td>
   <td style="background-color:White">Westside Classroom</td>
 </tr>

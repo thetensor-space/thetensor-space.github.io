@@ -116,17 +116,18 @@ Solving the system of matrix equations (\forall i) XA_i + B_iY = C_i, also calle
 
 This is in joint work with Josh Maglione and James Wilson.
 
-## [Austin Conner](#austin-conner){:style="color:inherit"}
-
-**Title:**  TBD
-
-**Abstract:** TBD
-
-## Talk 11
+## Talk 10
 
 **Speaker:**  TBD
 
 **Abstract:** TBD
+
+## [Austin Conner](#austin-conner){:style="color:inherit"}
+
+**Title:**  Border apolarity and fast matrix multiplication
+
+**Abstract:** TBD
+
 
 ## [Hirotachi Abo](#hirotachi-abo){:style="color:inherit"}
 
