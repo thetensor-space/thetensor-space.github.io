@@ -116,9 +116,9 @@ Solving the system of matrix equations (\forall i) XA_i + B_iY = C_i, also calle
 
 This is in joint work with Josh Maglione and James Wilson.
 
-## Talk 10
+## [Xiaorui Sun](#xiaorui-sun){:style="color:inherit"}
 
-**Speaker:**  TBD
+**Title:**  Faster Isomorphism for p-Groups of Class 2 and Exponent p
 
 **Abstract:** TBD
 
