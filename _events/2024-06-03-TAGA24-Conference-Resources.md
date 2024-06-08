@@ -18,7 +18,7 @@ Link back to [conference home](./TAGA-2024)
 
 ## [JM Landsberg](#jm-landsberg){:style="color:inherit"}
 
-**Title:** Spaces of matricies of bounded rank
+**Title:** [Spaces of matricies of bounded rank](../uploads/taga24/conference/landsberg-Rockiesbnddrnk6-24.pdf){:target="_blank"}
 
 
 ## [Neriman Tokcan](#neriman-tokcan){:style="color:inherit"}
