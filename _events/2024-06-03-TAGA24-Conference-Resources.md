@@ -20,7 +20,6 @@ Link back to [conference home](./TAGA-2024)
 
 **Title:** Spaces of matricies of bounded rank
 
-**Abstract:** TBD
 
 ## [Neriman Tokcan](#neriman-tokcan){:style="color:inherit"}
 
@@ -120,13 +119,11 @@ This is in joint work with Josh Maglione and James Wilson.
 
 **Title:**  Faster Isomorphism for p-Groups of Class 2 and Exponent p
 
-**Abstract:** TBD
 
 ## [Austin Conner](#austin-conner){:style="color:inherit"}
 
 **Title:**  Border apolarity and fast matrix multiplication
 
-**Abstract:** TBD
 
 
 ## [Hirotachi Abo](#hirotachi-abo){:style="color:inherit"}
