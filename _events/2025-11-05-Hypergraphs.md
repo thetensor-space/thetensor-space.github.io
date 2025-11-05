@@ -1,3 +1,9 @@
+---
+layout: post
+title:  Announcing Hypergraph Adjacency Tensor Preview
+categories: [ Software ]
+---
+
 # Announcing Hypergraph Adjacency Tensor Preview
 
 To announce an exploration of hypergraphs using tensors, available in our github [repo](https://github.com/thetensor-space/Hypergraphs). 
@@ -108,5 +114,6 @@ mountainrange;
 
 
 The functions in Tests give various tests that can be done to the associated algebras, i.e. the derivation algebra. 
+
 
 
