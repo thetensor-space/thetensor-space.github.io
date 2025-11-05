@@ -24,24 +24,41 @@ A hyperedge $e$ is a set of vertices from some vertex set $V$. A hypergraph is t
 
 To define the *adjacency tensor* of a d-uniform hypergraph $\mathcal{H}$ on $n$ vertices, we first formalize the bijection between a set of $n$ vertices and $K^n$, for some ring $K$.
 
-$$\varphi: V \rightarrow K^n$$
-$$\varphi(v_i) := e_i$$
+$$
+\varphi: V \rightarrow K^n
+$$
+
+$$
+\varphi(v_i) := e_i
+$$
 
 The *adjacency tensor* of a d-uniform hypergraph $\mathcal{H}$ on $n$ vertices is then defined on a basis
-$$\Gamma:  \overbrace{K^n \times \cdots \times K^n}^{d} \rightarrow \{0,1\}, $$
-$$ \Gamma(e_{i_1},e_{i_2},\dots,e_{i_d}) := \begin{cases}
+
+$$
+\Gamma:  \overbrace{K^n \times \cdots \times K^n}^{d} \rightarrow \{0,1\}, 
+$$
+
+$$ 
+\Gamma(e_{i_1},e_{i_2},\dots,e_{i_d}) := \begin{cases}
     1 & \{\varphi^{-1}(e_{i_1}),\varphi^{-1}(e_{i_2}),\dots,\varphi^{-1}(e_{i_d})\} \in \mathcal{H}
     \\
     0 & else
-\end{cases}.$$
+\end{cases}.
+$$
+
 More informally, 
 
-$$\Gamma: V^d \rightarrow \{0,1\}, $$
-$$ \Gamma(x_1,x_2,\dots,x_d) := \begin{cases}
+$$
+\Gamma: V^d \rightarrow \{0,1\}, 
+$$
+
+$$ 
+\Gamma(x_1,x_2,\dots,x_d) := \begin{cases}
     1 & \{x_1, x_2, \dots, x_d\} \in \mathcal{H}
     \\
     0 & else
-\end{cases}.$$
+\end{cases}.
+$$
 
 We will continue to use this informal definition, but note that we are implicitly treating each vertex $i$ as the corresponding standard basis vector $e_i$ via the bijection $\varphi$.
 
@@ -80,9 +97,6 @@ discarded_edges; //shows which hyperedges were discarded at each step of the rec
 preserved_edges;//shows which hyperedges were not discarded at each step
 translations;//throughout the algorithm, vertices are relabeled
 hyperedge_history;//Show where translations occur
-
-
-
 ```
 
 ## Additional Features
@@ -116,6 +130,7 @@ mountainrange;
 
 
 The functions in Tests give various tests that can be done to the associated algebras, i.e. the derivation algebra. 
+
 
 
 
