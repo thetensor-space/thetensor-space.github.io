@@ -1,7 +1,9 @@
 ---
-layout: post
+# Uses this html: "_layout/post.html" as a template.
+layout: post 
 title:  Announcing Hypergraph Adjacency Tensor Preview
-categories: []
+# (Optional) Used to sort posts, not supported as of writing this.
+categories: [ Workshops ]
 ---
 
 # Announcing Hypergraph Adjacency Tensor Preview
@@ -114,6 +116,7 @@ mountainrange;
 
 
 The functions in Tests give various tests that can be done to the associated algebras, i.e. the derivation algebra. 
+
 
 
 
