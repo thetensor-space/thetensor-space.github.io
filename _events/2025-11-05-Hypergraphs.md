@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Announcing Hypergraph Adjacency Tensor Preview
-categories: [ Software ]
+categories: []
 ---
 
 # Announcing Hypergraph Adjacency Tensor Preview
@@ -114,6 +114,7 @@ mountainrange;
 
 
 The functions in Tests give various tests that can be done to the associated algebras, i.e. the derivation algebra. 
+
 
 
 
