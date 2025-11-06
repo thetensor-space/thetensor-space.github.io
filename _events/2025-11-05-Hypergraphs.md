@@ -14,4 +14,5 @@ To announce an exploration of hypergraphs using tensors, available in our GitHub
 
 A reference page for the Hypergraph Toolkit: a small library for studying the adjacency tensors of hypergraphs. This code is written in [Magma](https://magma.maths.usyd.edu.au/magma/). More work needs to be done to implement this in python or other commonly used languages.
 
-![Hypergraph diagram](./images/trade.png)
+<img src="/uploads/images/hypergraphs/trade.png">
+
